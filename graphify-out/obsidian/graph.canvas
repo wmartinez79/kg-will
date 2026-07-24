@@ -1,0 +1,1657 @@
+{
+  "nodes": [
+    {
+      "id": "g0",
+      "type": "group",
+      "label": "Clients & Finance",
+      "x": 0,
+      "y": 0,
+      "width": 1100,
+      "height": 820,
+      "color": "1"
+    },
+    {
+      "id": "n_clients_aluval_aluval",
+      "type": "file",
+      "file": "Aluval.md",
+      "x": 20,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_clients_enhancement_payment_system_enhancement_payment_system",
+      "type": "file",
+      "file": "Enhancement Payment System_1.md",
+      "x": 220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_work_enhancement_payment_system_enhancement_payment_system",
+      "type": "file",
+      "file": "Enhancement Payment System.md",
+      "x": 420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_finance_finance_overview_finance",
+      "type": "file",
+      "file": "Finance Overview.md",
+      "x": 20,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_finance_overview_finance_overview",
+      "type": "file",
+      "file": "Finance Overview_2.md",
+      "x": 220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_will_finance_overview",
+      "type": "file",
+      "file": "Finance Overview_1.md",
+      "x": 420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_work_in_all_media_in_all_media",
+      "type": "file",
+      "file": "In All Media.md",
+      "x": 20,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_2026_2026_06_june_2026",
+      "type": "file",
+      "file": "June 2026.md",
+      "x": 220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_projects_marco_erp_marco_erp",
+      "type": "file",
+      "file": "Marco ERP.md",
+      "x": 420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_projects_sem_marco_erp",
+      "type": "file",
+      "file": "Marco ERP_1.md",
+      "x": 20,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_projects_marco_erp_mongodb",
+      "type": "file",
+      "file": "MongoDB.md",
+      "x": 220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_projects_marco_erp_nestjs",
+      "type": "file",
+      "file": "NestJS.md",
+      "x": 420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_projects_marco_erp_react",
+      "type": "file",
+      "file": "React.md",
+      "x": 20,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_resume_resume",
+      "type": "file",
+      "file": "Resume.md",
+      "x": 220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_will_resume",
+      "type": "file",
+      "file": "Resume_1.md",
+      "x": 420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_projects_sem_sem",
+      "type": "file",
+      "file": "SEM.md",
+      "x": 20,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_clients_vidrieria_fmorales_vidrieria_fmorales",
+      "type": "file",
+      "file": "Vidrieria F. Morales.md",
+      "x": 220,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_projects_sem_visual_foxpro_6",
+      "type": "file",
+      "file": "Visual FoxPro 6.md",
+      "x": 420,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_will",
+      "type": "file",
+      "file": "Will.md",
+      "x": 20,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g1",
+      "type": "group",
+      "label": "Obsidian Plugins",
+      "x": 1180,
+      "y": 0,
+      "width": 880,
+      "height": 620,
+      "color": "2"
+    },
+    {
+      "id": "n_obsidian_core_plugins_backlink",
+      "type": "file",
+      "file": "Backlink Plugin.md",
+      "x": 1200,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_welcome_create_link",
+      "type": "file",
+      "file": "Create a Link (Unresolved Wikilink Target).md",
+      "x": 1400,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian_core_plugins_daily_notes",
+      "type": "file",
+      "file": "Daily Notes Plugin.md",
+      "x": 1600,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian_core_plugins_graph",
+      "type": "file",
+      "file": "Graph View Plugin.md",
+      "x": 1200,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian_core_plugins_bases",
+      "type": "file",
+      "file": "Obsidian Bases Plugin.md",
+      "x": 1400,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian_core_plugins_canvas",
+      "type": "file",
+      "file": "Obsidian Canvas Plugin.md",
+      "x": 1600,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian_core_plugins",
+      "type": "file",
+      "file": "Obsidian Core Plugins Configuration.md",
+      "x": 1200,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian_graph",
+      "type": "file",
+      "file": "Obsidian Graph View Settings.md",
+      "x": 1400,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian_core_plugins_sync",
+      "type": "file",
+      "file": "Obsidian Sync Plugin.md",
+      "x": 1600,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian_workspace",
+      "type": "file",
+      "file": "Obsidian Workspace Layout.md",
+      "x": 1200,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian_core_plugins_templates",
+      "type": "file",
+      "file": "Templates Plugin.md",
+      "x": 1400,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_welcome",
+      "type": "file",
+      "file": "Welcome Note.md",
+      "x": 1600,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian_workspace_will_base",
+      "type": "file",
+      "file": "Will Base (Obsidian Bases File).md",
+      "x": 1200,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g2",
+      "type": "group",
+      "label": "Early Career & Backend Stack",
+      "x": 2140,
+      "y": 0,
+      "width": 880,
+      "height": 520,
+      "color": "3"
+    },
+    {
+      "id": "n_will_personal_resume_ag_software",
+      "type": "file",
+      "file": "AG Software.md",
+      "x": 2160,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_django",
+      "type": "file",
+      "file": "Django.md",
+      "x": 2360,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_java",
+      "type": "file",
+      "file": "Java.md",
+      "x": 2560,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_loan_booking_platform",
+      "type": "file",
+      "file": "Loan Booking Platform.md",
+      "x": 2160,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_mysql",
+      "type": "file",
+      "file": "MySQL.md",
+      "x": 2360,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_postgresql",
+      "type": "file",
+      "file": "PostgreSQL.md",
+      "x": 2560,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_python",
+      "type": "file",
+      "file": "Python.md",
+      "x": 2160,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_quoin_inc",
+      "type": "file",
+      "file": "Quoin Inc.md",
+      "x": 2360,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_seaban_sa",
+      "type": "file",
+      "file": "Seaban S.A.md",
+      "x": 2560,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_spring",
+      "type": "file",
+      "file": "Spring.md",
+      "x": 2160,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_sybase",
+      "type": "file",
+      "file": "Sybase.md",
+      "x": 2360,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g3",
+      "type": "group",
+      "label": "Banking & Infrastructure",
+      "x": 3100,
+      "y": 0,
+      "width": 880,
+      "height": 520,
+      "color": "4"
+    },
+    {
+      "id": "n_will_personal_resume_banex_findesa",
+      "type": "file",
+      "file": "Banex  Findesa.md",
+      "x": 3120,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_bupartech",
+      "type": "file",
+      "file": "Bupartech.md",
+      "x": 3320,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_cobis",
+      "type": "file",
+      "file": "COBIS.md",
+      "x": 3520,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_docker",
+      "type": "file",
+      "file": "Docker.md",
+      "x": 3120,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_graphql",
+      "type": "file",
+      "file": "GraphQL.md",
+      "x": 3320,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_javascript",
+      "type": "file",
+      "file": "JavaScript.md",
+      "x": 3520,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_kubernetes",
+      "type": "file",
+      "file": "Kubernetes.md",
+      "x": 3120,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_nestjs",
+      "type": "file",
+      "file": "NestJS_1.md",
+      "x": 3320,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_universidad_nacional_de_ingenieria",
+      "type": "file",
+      "file": "Universidad Nacional de Ingenier\u00eda.md",
+      "x": 3520,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_william_martinez",
+      "type": "file",
+      "file": "William Donald Mart\u00ednez Avellan.md",
+      "x": 3120,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g4",
+      "type": "group",
+      "label": "Pluto TV Engagement",
+      "x": 0,
+      "y": 900,
+      "width": 660,
+      "height": 420,
+      "color": "5"
+    },
+    {
+      "id": "n_will_personal_resume_command_center",
+      "type": "file",
+      "file": "Command Center.md",
+      "x": 20,
+      "y": 980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_datadog",
+      "type": "file",
+      "file": "Datadog.md",
+      "x": 220,
+      "y": 980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_golang",
+      "type": "file",
+      "file": "Golang.md",
+      "x": 420,
+      "y": 980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_in_all_media",
+      "type": "file",
+      "file": "In All Media_1.md",
+      "x": 20,
+      "y": 1060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_pluto_tv_paramount",
+      "type": "file",
+      "file": "Pluto TV Paramount.md",
+      "x": 220,
+      "y": 1060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_react",
+      "type": "file",
+      "file": "React.js.md",
+      "x": 420,
+      "y": 1060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_redux",
+      "type": "file",
+      "file": "Redux.md",
+      "x": 20,
+      "y": 1140,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_typescript",
+      "type": "file",
+      "file": "TypeScript.md",
+      "x": 220,
+      "y": 1140,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_grpc",
+      "type": "file",
+      "file": "gRPC.md",
+      "x": 420,
+      "y": 1140,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g5",
+      "type": "group",
+      "label": "Node / Vue / Frontend",
+      "x": 1180,
+      "y": 900,
+      "width": 660,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_will_personal_resume_expressjs",
+      "type": "file",
+      "file": "Express.js.md",
+      "x": 1200,
+      "y": 980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_nodejs",
+      "type": "file",
+      "file": "Node.js.md",
+      "x": 1400,
+      "y": 980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_sprylms",
+      "type": "file",
+      "file": "SpryLMS.md",
+      "x": 1600,
+      "y": 980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_videojs",
+      "type": "file",
+      "file": "Video.js.md",
+      "x": 1200,
+      "y": 1060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_vuejs",
+      "type": "file",
+      "file": "Vue.js.md",
+      "x": 1400,
+      "y": 1060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_vuetify",
+      "type": "file",
+      "file": "Vuetify.md",
+      "x": 1600,
+      "y": 1060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g6",
+      "type": "group",
+      "label": "AWS & Payments",
+      "x": 2140,
+      "y": 900,
+      "width": 660,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_will_personal_resume_aws",
+      "type": "file",
+      "file": "AWS.md",
+      "x": 2160,
+      "y": 980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_angularjs",
+      "type": "file",
+      "file": "AngularJS.md",
+      "x": 2360,
+      "y": 980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_claudiajs",
+      "type": "file",
+      "file": "ClaudiaJS.md",
+      "x": 2560,
+      "y": 980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_enhancement_payment_system",
+      "type": "file",
+      "file": "Enhancement Payment System_2.md",
+      "x": 2160,
+      "y": 1060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_mongodb",
+      "type": "file",
+      "file": "MongoDB_1.md",
+      "x": 2360,
+      "y": 1060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g7",
+      "type": "group",
+      "label": "Pluto TV Org & Contacts",
+      "x": 3100,
+      "y": 900,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_clients_pluto_tv_paramount_command_center",
+      "type": "file",
+      "file": "Command Center (Enterprise Platform).md",
+      "x": 3120,
+      "y": 980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_contacts_evan_caldwell_evan_caldwell",
+      "type": "file",
+      "file": "Evan Caldwell.md",
+      "x": 3320,
+      "y": 980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_contacts_jamil_modak_jamil_modak",
+      "type": "file",
+      "file": "Jamil Modak.md",
+      "x": 3520,
+      "y": 980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_clients_pluto_tv_paramount_pluto_tv_paramount",
+      "type": "file",
+      "file": "Pluto TV  Paramount.md",
+      "x": 3120,
+      "y": 1060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g8",
+      "type": "group",
+      "label": "AdTech Platform Work",
+      "x": 0,
+      "y": 1400,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_will_personal_resume_ad_load_configuration",
+      "type": "file",
+      "file": "Ad Load Configuration.md",
+      "x": 20,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_adtech_platform",
+      "type": "file",
+      "file": "AdTech Platform.md",
+      "x": 220,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_will_personal_resume_error_reporting_service",
+      "type": "file",
+      "file": "Error Reporting Service.md",
+      "x": 420,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g9",
+      "type": "group",
+      "label": "Obsidian App",
+      "x": 1180,
+      "y": 1400,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_obsidian_app",
+      "type": "file",
+      "file": "app.json.md",
+      "x": 1200,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_obsidian_core_plugins_obsidian_core_plugins_backlink",
+      "fromNode": "n_obsidian_core_plugins",
+      "toNode": "n_obsidian_core_plugins_backlink",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_obsidian_core_plugins_obsidian_core_plugins_bases",
+      "fromNode": "n_obsidian_core_plugins",
+      "toNode": "n_obsidian_core_plugins_bases",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_obsidian_core_plugins_obsidian_core_plugins_canvas",
+      "fromNode": "n_obsidian_core_plugins",
+      "toNode": "n_obsidian_core_plugins_canvas",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_obsidian_core_plugins_obsidian_core_plugins_daily_notes",
+      "fromNode": "n_obsidian_core_plugins",
+      "toNode": "n_obsidian_core_plugins_daily_notes",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_obsidian_core_plugins_obsidian_core_plugins_graph",
+      "fromNode": "n_obsidian_core_plugins",
+      "toNode": "n_obsidian_core_plugins_graph",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_obsidian_core_plugins_obsidian_core_plugins_sync",
+      "fromNode": "n_obsidian_core_plugins",
+      "toNode": "n_obsidian_core_plugins_sync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_obsidian_core_plugins_obsidian_core_plugins_templates",
+      "fromNode": "n_obsidian_core_plugins",
+      "toNode": "n_obsidian_core_plugins_templates",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_obsidian_graph_obsidian_core_plugins_graph",
+      "fromNode": "n_obsidian_graph",
+      "toNode": "n_obsidian_core_plugins_graph",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_obsidian_workspace_obsidian_core_plugins_backlink",
+      "fromNode": "n_obsidian_workspace",
+      "toNode": "n_obsidian_core_plugins_backlink",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_obsidian_workspace_obsidian_core_plugins_bases",
+      "fromNode": "n_obsidian_workspace",
+      "toNode": "n_obsidian_core_plugins_bases",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_obsidian_workspace_obsidian_core_plugins_canvas",
+      "fromNode": "n_obsidian_workspace",
+      "toNode": "n_obsidian_core_plugins_canvas",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_obsidian_workspace_obsidian_core_plugins_daily_notes",
+      "fromNode": "n_obsidian_workspace",
+      "toNode": "n_obsidian_core_plugins_daily_notes",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_obsidian_workspace_obsidian_core_plugins_graph",
+      "fromNode": "n_obsidian_workspace",
+      "toNode": "n_obsidian_core_plugins_graph",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_obsidian_workspace_obsidian_core_plugins_templates",
+      "fromNode": "n_obsidian_workspace",
+      "toNode": "n_obsidian_core_plugins_templates",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_obsidian_workspace_obsidian_workspace_will_base",
+      "fromNode": "n_obsidian_workspace",
+      "toNode": "n_obsidian_workspace_will_base",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_obsidian_workspace_will_personal_welcome",
+      "fromNode": "n_obsidian_workspace",
+      "toNode": "n_will_personal_welcome",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_welcome_will_personal_welcome_create_link",
+      "fromNode": "n_will_personal_welcome",
+      "toNode": "n_will_personal_welcome_create_link",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_will_clients_aluval_aluval",
+      "fromNode": "n_will_will",
+      "toNode": "n_clients_aluval_aluval",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_will_clients_vidrieria_fmorales_vidrieria_fmorales",
+      "fromNode": "n_will_will",
+      "toNode": "n_clients_vidrieria_fmorales_vidrieria_fmorales",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_will_projects_marco_erp_marco_erp",
+      "fromNode": "n_will_will",
+      "toNode": "n_projects_marco_erp_marco_erp",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_will_clients_enhancement_payment_system_enhancement_payment_system",
+      "fromNode": "n_will_will",
+      "toNode": "n_clients_enhancement_payment_system_enhancement_payment_system",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_will_clients_pluto_tv_paramount_pluto_tv_paramount",
+      "fromNode": "n_will_will",
+      "toNode": "n_clients_pluto_tv_paramount_pluto_tv_paramount",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_will_finance_finance_overview_finance",
+      "fromNode": "n_will_will",
+      "toNode": "n_finance_finance_overview_finance",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_will_projects_sem_marco_erp",
+      "fromNode": "n_will_will",
+      "toNode": "n_projects_sem_marco_erp",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_will_projects_sem_sem",
+      "fromNode": "n_will_will",
+      "toNode": "n_projects_sem_sem",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_will_will_resume_resume",
+      "fromNode": "n_will_will",
+      "toNode": "n_will_resume_resume",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_will_will_will_finance_overview",
+      "fromNode": "n_will_will",
+      "toNode": "n_will_will_finance_overview",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_will_will_will_resume",
+      "fromNode": "n_will_will",
+      "toNode": "n_will_will_resume",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_will_work_enhancement_payment_system_enhancement_payment_system",
+      "fromNode": "n_will_will",
+      "toNode": "n_work_enhancement_payment_system_enhancement_payment_system",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_will_work_in_all_media_in_all_media",
+      "fromNode": "n_will_will",
+      "toNode": "n_work_in_all_media_in_all_media",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_work_in_all_media_in_all_media_2026_2026_06_june_2026",
+      "fromNode": "n_work_in_all_media_in_all_media",
+      "toNode": "n_2026_2026_06_june_2026",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_work_in_all_media_in_all_media_clients_enhancement_payment_system_enhancement_payment_system",
+      "fromNode": "n_work_in_all_media_in_all_media",
+      "toNode": "n_clients_enhancement_payment_system_enhancement_payment_system",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_work_in_all_media_in_all_media_clients_pluto_tv_paramount_pluto_tv_paramount",
+      "fromNode": "n_work_in_all_media_in_all_media",
+      "toNode": "n_clients_pluto_tv_paramount_pluto_tv_paramount",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_work_in_all_media_in_all_media_finance_finance_overview_finance",
+      "fromNode": "n_work_in_all_media_in_all_media",
+      "toNode": "n_finance_finance_overview_finance",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_work_in_all_media_in_all_media_projects_marco_erp_marco_erp",
+      "fromNode": "n_work_in_all_media_in_all_media",
+      "toNode": "n_projects_marco_erp_marco_erp",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_work_in_all_media_in_all_media_will_personal_resume_william_martinez",
+      "fromNode": "n_work_in_all_media_in_all_media",
+      "toNode": "n_will_personal_resume_william_martinez",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_work_in_all_media_in_all_media_will_resume_resume",
+      "fromNode": "n_work_in_all_media_in_all_media",
+      "toNode": "n_will_resume_resume",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_work_in_all_media_in_all_media_work_enhancement_payment_system_enhancement_payment_system",
+      "fromNode": "n_work_in_all_media_in_all_media",
+      "toNode": "n_work_enhancement_payment_system_enhancement_payment_system",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_work_in_all_media_in_all_media_clients_pluto_tv_paramount_command_center",
+      "fromNode": "n_work_in_all_media_in_all_media",
+      "toNode": "n_clients_pluto_tv_paramount_command_center",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_work_in_all_media_in_all_media_finance_overview_finance_overview",
+      "fromNode": "n_work_in_all_media_in_all_media",
+      "toNode": "n_finance_overview_finance_overview",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_work_in_all_media_in_all_media_will_will_finance_overview",
+      "fromNode": "n_work_in_all_media_in_all_media",
+      "toNode": "n_will_will_finance_overview",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_work_enhancement_payment_system_enhancement_payment_system_projects_marco_erp_marco_erp",
+      "fromNode": "n_work_enhancement_payment_system_enhancement_payment_system",
+      "toNode": "n_projects_marco_erp_marco_erp",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_work_enhancement_payment_system_enhancement_payment_system_will_resume_resume",
+      "fromNode": "n_work_enhancement_payment_system_enhancement_payment_system",
+      "toNode": "n_will_resume_resume",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_projects_marco_erp_marco_erp_projects_marco_erp_mongodb",
+      "fromNode": "n_projects_marco_erp_marco_erp",
+      "toNode": "n_projects_marco_erp_mongodb",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_projects_marco_erp_marco_erp_projects_marco_erp_nestjs",
+      "fromNode": "n_projects_marco_erp_marco_erp",
+      "toNode": "n_projects_marco_erp_nestjs",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_projects_marco_erp_marco_erp_projects_marco_erp_react",
+      "fromNode": "n_projects_marco_erp_marco_erp",
+      "toNode": "n_projects_marco_erp_react",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_projects_marco_erp_marco_erp_projects_sem_sem",
+      "fromNode": "n_projects_marco_erp_marco_erp",
+      "toNode": "n_projects_sem_sem",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_projects_marco_erp_marco_erp_will_resume_resume",
+      "fromNode": "n_projects_marco_erp_marco_erp",
+      "toNode": "n_will_resume_resume",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_projects_sem_sem_clients_aluval_aluval",
+      "fromNode": "n_projects_sem_sem",
+      "toNode": "n_clients_aluval_aluval",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_projects_sem_sem_clients_vidrieria_fmorales_vidrieria_fmorales",
+      "fromNode": "n_projects_sem_sem",
+      "toNode": "n_clients_vidrieria_fmorales_vidrieria_fmorales",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_projects_sem_sem_projects_sem_marco_erp",
+      "fromNode": "n_projects_sem_sem",
+      "toNode": "n_projects_sem_marco_erp",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_projects_sem_sem_projects_sem_visual_foxpro_6",
+      "fromNode": "n_projects_sem_sem",
+      "toNode": "n_projects_sem_visual_foxpro_6",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_projects_sem_sem_will_resume_resume",
+      "fromNode": "n_projects_sem_sem",
+      "toNode": "n_will_resume_resume",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_finance_finance_overview_finance_2026_2026_06_june_2026",
+      "fromNode": "n_finance_finance_overview_finance",
+      "toNode": "n_2026_2026_06_june_2026",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_clients_enhancement_payment_system_enhancement_payment_system_projects_sem_marco_erp",
+      "fromNode": "n_clients_enhancement_payment_system_enhancement_payment_system",
+      "toNode": "n_projects_sem_marco_erp",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_clients_pluto_tv_paramount_pluto_tv_paramount_clients_pluto_tv_paramount_command_center",
+      "fromNode": "n_clients_pluto_tv_paramount_pluto_tv_paramount",
+      "toNode": "n_clients_pluto_tv_paramount_command_center",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_clients_pluto_tv_paramount_pluto_tv_paramount_contacts_evan_caldwell_evan_caldwell",
+      "fromNode": "n_clients_pluto_tv_paramount_pluto_tv_paramount",
+      "toNode": "n_contacts_evan_caldwell_evan_caldwell",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_clients_pluto_tv_paramount_pluto_tv_paramount_contacts_jamil_modak_jamil_modak",
+      "fromNode": "n_clients_pluto_tv_paramount_pluto_tv_paramount",
+      "toNode": "n_contacts_jamil_modak_jamil_modak",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_clients_pluto_tv_paramount_pluto_tv_paramount_will_personal_resume_william_martinez",
+      "fromNode": "n_clients_pluto_tv_paramount_pluto_tv_paramount",
+      "toNode": "n_will_personal_resume_william_martinez",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_contacts_evan_caldwell_evan_caldwell",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_contacts_evan_caldwell_evan_caldwell",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_clients_pluto_tv_paramount_command_center",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_clients_pluto_tv_paramount_command_center",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_will_personal_resume_ag_software",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_will_personal_resume_ag_software",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_will_personal_resume_aws",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_will_personal_resume_aws",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_will_personal_resume_banex_findesa",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_will_personal_resume_banex_findesa",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_will_personal_resume_bupartech",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_will_personal_resume_bupartech",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_will_personal_resume_docker",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_will_personal_resume_docker",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_will_personal_resume_enhancement_payment_system",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_will_personal_resume_enhancement_payment_system",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_will_personal_resume_golang",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_will_personal_resume_golang",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_will_personal_resume_graphql",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_will_personal_resume_graphql",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_will_personal_resume_grpc",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_will_personal_resume_grpc",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_will_personal_resume_in_all_media",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_will_personal_resume_in_all_media",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_will_personal_resume_java",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_will_personal_resume_java",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_will_personal_resume_javascript",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_will_personal_resume_javascript",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_will_personal_resume_kubernetes",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_will_personal_resume_kubernetes",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_will_personal_resume_mongodb",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_will_personal_resume_mongodb",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_will_personal_resume_nestjs",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_will_personal_resume_nestjs",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_will_personal_resume_nodejs",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_will_personal_resume_nodejs",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_will_personal_resume_postgresql",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_will_personal_resume_postgresql",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_will_personal_resume_python",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_will_personal_resume_python",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_will_personal_resume_quoin_inc",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_will_personal_resume_quoin_inc",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_will_personal_resume_react",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_will_personal_resume_react",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_will_personal_resume_seaban_sa",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_will_personal_resume_seaban_sa",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_will_personal_resume_sprylms",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_will_personal_resume_sprylms",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_will_personal_resume_typescript",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_will_personal_resume_typescript",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_will_personal_resume_universidad_nacional_de_ingenieria",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_will_personal_resume_universidad_nacional_de_ingenieria",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_william_martinez_will_personal_resume_vuejs",
+      "fromNode": "n_will_personal_resume_william_martinez",
+      "toNode": "n_will_personal_resume_vuejs",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_in_all_media_will_personal_resume_adtech_platform",
+      "fromNode": "n_will_personal_resume_in_all_media",
+      "toNode": "n_will_personal_resume_adtech_platform",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_in_all_media_will_personal_resume_aws",
+      "fromNode": "n_will_personal_resume_in_all_media",
+      "toNode": "n_will_personal_resume_aws",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_in_all_media_will_personal_resume_command_center",
+      "fromNode": "n_will_personal_resume_in_all_media",
+      "toNode": "n_will_personal_resume_command_center",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_in_all_media_will_personal_resume_datadog",
+      "fromNode": "n_will_personal_resume_in_all_media",
+      "toNode": "n_will_personal_resume_datadog",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_in_all_media_will_personal_resume_expressjs",
+      "fromNode": "n_will_personal_resume_in_all_media",
+      "toNode": "n_will_personal_resume_expressjs",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_in_all_media_will_personal_resume_golang",
+      "fromNode": "n_will_personal_resume_in_all_media",
+      "toNode": "n_will_personal_resume_golang",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_in_all_media_will_personal_resume_graphql",
+      "fromNode": "n_will_personal_resume_in_all_media",
+      "toNode": "n_will_personal_resume_graphql",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_in_all_media_will_personal_resume_grpc",
+      "fromNode": "n_will_personal_resume_in_all_media",
+      "toNode": "n_will_personal_resume_grpc",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_in_all_media_will_personal_resume_mongodb",
+      "fromNode": "n_will_personal_resume_in_all_media",
+      "toNode": "n_will_personal_resume_mongodb",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_in_all_media_will_personal_resume_pluto_tv_paramount",
+      "fromNode": "n_will_personal_resume_in_all_media",
+      "toNode": "n_will_personal_resume_pluto_tv_paramount",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_in_all_media_will_personal_resume_react",
+      "fromNode": "n_will_personal_resume_in_all_media",
+      "toNode": "n_will_personal_resume_react",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_in_all_media_will_personal_resume_redux",
+      "fromNode": "n_will_personal_resume_in_all_media",
+      "toNode": "n_will_personal_resume_redux",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_in_all_media_will_personal_resume_typescript",
+      "fromNode": "n_will_personal_resume_in_all_media",
+      "toNode": "n_will_personal_resume_typescript",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_enhancement_payment_system_will_personal_resume_angularjs",
+      "fromNode": "n_will_personal_resume_enhancement_payment_system",
+      "toNode": "n_will_personal_resume_angularjs",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_enhancement_payment_system_will_personal_resume_aws",
+      "fromNode": "n_will_personal_resume_enhancement_payment_system",
+      "toNode": "n_will_personal_resume_aws",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_enhancement_payment_system_will_personal_resume_claudiajs",
+      "fromNode": "n_will_personal_resume_enhancement_payment_system",
+      "toNode": "n_will_personal_resume_claudiajs",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_enhancement_payment_system_will_personal_resume_expressjs",
+      "fromNode": "n_will_personal_resume_enhancement_payment_system",
+      "toNode": "n_will_personal_resume_expressjs",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_enhancement_payment_system_will_personal_resume_mongodb",
+      "fromNode": "n_will_personal_resume_enhancement_payment_system",
+      "toNode": "n_will_personal_resume_mongodb",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_enhancement_payment_system_will_personal_resume_nodejs",
+      "fromNode": "n_will_personal_resume_enhancement_payment_system",
+      "toNode": "n_will_personal_resume_nodejs",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_sprylms_will_personal_resume_expressjs",
+      "fromNode": "n_will_personal_resume_sprylms",
+      "toNode": "n_will_personal_resume_expressjs",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_sprylms_will_personal_resume_mongodb",
+      "fromNode": "n_will_personal_resume_sprylms",
+      "toNode": "n_will_personal_resume_mongodb",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_sprylms_will_personal_resume_nodejs",
+      "fromNode": "n_will_personal_resume_sprylms",
+      "toNode": "n_will_personal_resume_nodejs",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_sprylms_will_personal_resume_videojs",
+      "fromNode": "n_will_personal_resume_sprylms",
+      "toNode": "n_will_personal_resume_videojs",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_sprylms_will_personal_resume_vuejs",
+      "fromNode": "n_will_personal_resume_sprylms",
+      "toNode": "n_will_personal_resume_vuejs",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_sprylms_will_personal_resume_vuetify",
+      "fromNode": "n_will_personal_resume_sprylms",
+      "toNode": "n_will_personal_resume_vuetify",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_seaban_sa_will_personal_resume_cobis",
+      "fromNode": "n_will_personal_resume_seaban_sa",
+      "toNode": "n_will_personal_resume_cobis",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_seaban_sa_will_personal_resume_java",
+      "fromNode": "n_will_personal_resume_seaban_sa",
+      "toNode": "n_will_personal_resume_java",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_seaban_sa_will_personal_resume_loan_booking_platform",
+      "fromNode": "n_will_personal_resume_seaban_sa",
+      "toNode": "n_will_personal_resume_loan_booking_platform",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_seaban_sa_will_personal_resume_spring",
+      "fromNode": "n_will_personal_resume_seaban_sa",
+      "toNode": "n_will_personal_resume_spring",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_seaban_sa_will_personal_resume_sybase",
+      "fromNode": "n_will_personal_resume_seaban_sa",
+      "toNode": "n_will_personal_resume_sybase",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_ag_software_will_personal_resume_java",
+      "fromNode": "n_will_personal_resume_ag_software",
+      "toNode": "n_will_personal_resume_java",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_ag_software_will_personal_resume_mysql",
+      "fromNode": "n_will_personal_resume_ag_software",
+      "toNode": "n_will_personal_resume_mysql",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_ag_software_will_personal_resume_spring",
+      "fromNode": "n_will_personal_resume_ag_software",
+      "toNode": "n_will_personal_resume_spring",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_ag_software_will_personal_resume_quoin_inc",
+      "fromNode": "n_will_personal_resume_ag_software",
+      "toNode": "n_will_personal_resume_quoin_inc",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_quoin_inc_will_personal_resume_django",
+      "fromNode": "n_will_personal_resume_quoin_inc",
+      "toNode": "n_will_personal_resume_django",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_quoin_inc_will_personal_resume_java",
+      "fromNode": "n_will_personal_resume_quoin_inc",
+      "toNode": "n_will_personal_resume_java",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_quoin_inc_will_personal_resume_mysql",
+      "fromNode": "n_will_personal_resume_quoin_inc",
+      "toNode": "n_will_personal_resume_mysql",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_quoin_inc_will_personal_resume_postgresql",
+      "fromNode": "n_will_personal_resume_quoin_inc",
+      "toNode": "n_will_personal_resume_postgresql",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_quoin_inc_will_personal_resume_python",
+      "fromNode": "n_will_personal_resume_quoin_inc",
+      "toNode": "n_will_personal_resume_python",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_quoin_inc_will_personal_resume_spring",
+      "fromNode": "n_will_personal_resume_quoin_inc",
+      "toNode": "n_will_personal_resume_spring",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_bupartech_will_personal_resume_cobis",
+      "fromNode": "n_will_personal_resume_bupartech",
+      "toNode": "n_will_personal_resume_cobis",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_banex_findesa_will_personal_resume_cobis",
+      "fromNode": "n_will_personal_resume_banex_findesa",
+      "toNode": "n_will_personal_resume_cobis",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_will_personal_resume_adtech_platform_will_personal_resume_ad_load_configuration",
+      "fromNode": "n_will_personal_resume_adtech_platform",
+      "toNode": "n_will_personal_resume_ad_load_configuration",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_will_personal_resume_adtech_platform_will_personal_resume_error_reporting_service",
+      "fromNode": "n_will_personal_resume_adtech_platform",
+      "toNode": "n_will_personal_resume_error_reporting_service",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_contacts_evan_caldwell_evan_caldwell_contacts_jamil_modak_jamil_modak",
+      "fromNode": "n_contacts_evan_caldwell_evan_caldwell",
+      "toNode": "n_contacts_jamil_modak_jamil_modak",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_obsidian_core_plugins_bases_obsidian_workspace_will_base",
+      "fromNode": "n_obsidian_core_plugins_bases",
+      "toNode": "n_obsidian_workspace_will_base",
+      "label": "references [INFERRED]"
+    },
+    {
+      "id": "e_clients_aluval_aluval_clients_vidrieria_fmorales_vidrieria_fmorales",
+      "fromNode": "n_clients_aluval_aluval",
+      "toNode": "n_clients_vidrieria_fmorales_vidrieria_fmorales",
+      "label": "shares_data_with [INFERRED]"
+    },
+    {
+      "id": "e_obsidian_core_plugins_daily_notes_obsidian_core_plugins_templates",
+      "fromNode": "n_obsidian_core_plugins_daily_notes",
+      "toNode": "n_obsidian_core_plugins_templates",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_obsidian_core_plugins_bases_obsidian_core_plugins_canvas",
+      "fromNode": "n_obsidian_core_plugins_bases",
+      "toNode": "n_obsidian_core_plugins_canvas",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_clients_pluto_tv_paramount_pluto_tv_paramount_will_personal_resume_enhancement_payment_system",
+      "fromNode": "n_clients_pluto_tv_paramount_pluto_tv_paramount",
+      "toNode": "n_will_personal_resume_enhancement_payment_system",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_finance_finance_overview_finance_will_resume_resume",
+      "fromNode": "n_finance_finance_overview_finance",
+      "toNode": "n_will_resume_resume",
+      "label": "semantically_similar_to [INFERRED]"
+    }
+  ]
+}

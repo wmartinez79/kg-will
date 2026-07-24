@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: Work
+    filter:
+      property: tags
+      condition: contains
+      value: employer

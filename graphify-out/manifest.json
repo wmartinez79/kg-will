@@ -1,0 +1,172 @@
+{
+  "will_personal/.obsidian/app.json": {
+    "mtime": 1784922433.486769,
+    "ast_hash": "87b5d70041a76e5f2671ebcaacbd3f4a",
+    "semantic_hash": ""
+  },
+  "will_personal/.obsidian/appearance.json": {
+    "mtime": 1784922433.486769,
+    "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
+    "semantic_hash": "99914b932bd37a50b983c5e7c90ae93b"
+  },
+  "will_personal/.obsidian/core-plugins.json": {
+    "mtime": 1784922433.0205457,
+    "ast_hash": "7c877bea49eaeabb100563bd157b9051",
+    "semantic_hash": "7c877bea49eaeabb100563bd157b9051"
+  },
+  "will_personal/.obsidian/graph.json": {
+    "mtime": 1784918121.507999,
+    "ast_hash": "ea9653c478591db3f5baac87a9420596",
+    "semantic_hash": ""
+  },
+  "will_personal/.obsidian/workspace.json": {
+    "mtime": 1784927018.7833846,
+    "ast_hash": "b03092802c157e7fd0f3a832756ac4c7",
+    "semantic_hash": ""
+  },
+  "will_personal/Projects/Marco ERP.md": {
+    "mtime": 1783698950.7143066,
+    "ast_hash": "cb040f35275d6c5feb66cb90974bdb90",
+    "semantic_hash": ""
+  },
+  "will_personal/Projects/SEM.md": {
+    "mtime": 1782451489.4654675,
+    "ast_hash": "bc87cf69fcd1a2fdd69eddac7b5ee6d4",
+    "semantic_hash": ""
+  },
+  "will_personal/Resume.md": {
+    "mtime": 1782451187.5861015,
+    "ast_hash": "3f727ae8ea20fd7ae2af84854d951952",
+    "semantic_hash": ""
+  },
+  "will_personal/Contacts/Evan Caldwell.md": {
+    "mtime": 1782454464.3119566,
+    "ast_hash": "ac29b13524c56afc0b38a8d484b04725",
+    "semantic_hash": ""
+  },
+  "will_personal/Contacts/Jamil Modak.md": {
+    "mtime": 1782450376.519757,
+    "ast_hash": "2d376babd084adc855bef1a07357338e",
+    "semantic_hash": "2d376babd084adc855bef1a07357338e"
+  },
+  "will_personal/Finance Overview.md": {
+    "mtime": 1784926648.9936965,
+    "ast_hash": "92e928b8fa1a31555979fb84ad888585",
+    "semantic_hash": ""
+  },
+  ".claude/settings.local.json": {
+    "mtime": 1783207275.02859,
+    "ast_hash": "627992c4768e942d9f86a197941026c7",
+    "semantic_hash": ""
+  },
+  "CLAUDE.md": {
+    "mtime": 1782591831.622069,
+    "ast_hash": "d09bbf3a091acb487c2e8c90bc4489ac",
+    "semantic_hash": ""
+  },
+  "will_personal/Companies/ALUVAL Nicaragua.md": {
+    "mtime": 1782454239.1632137,
+    "ast_hash": "c6a83ff1de33cb55cec69aedb1cf3da6",
+    "semantic_hash": ""
+  },
+  "will_personal/Companies/Enhancement Payment System.md": {
+    "mtime": 1784917323.4278343,
+    "ast_hash": "82e0c7cd988975768026587add1d1cf9",
+    "semantic_hash": ""
+  },
+  "will_personal/Companies/In All Media.md": {
+    "mtime": 1784918201.9322176,
+    "ast_hash": "784ebae5b01fda12b97f8dc59c4d4ca4",
+    "semantic_hash": ""
+  },
+  "will_personal/Companies/Pluto TV Paramount.md": {
+    "mtime": 1782454351.6755564,
+    "ast_hash": "9ee958912e096d88e0ff950bafc90da0",
+    "semantic_hash": ""
+  },
+  "will_personal/Companies/Vidrieria FMorales.md": {
+    "mtime": 1782454407.4532437,
+    "ast_hash": "1e79132757dfa69197955b8eeb45df0b",
+    "semantic_hash": ""
+  },
+  "will_personal/Contacts/Jimmy Valverde.md": {
+    "mtime": 1782454498.6733932,
+    "ast_hash": "9bc5136d206b0bd9f47cf9693d230ab8",
+    "semantic_hash": ""
+  },
+  "will_personal/Contacts/Mike Gazlay.md": {
+    "mtime": 1782454507.0305002,
+    "ast_hash": "a5bb1419f7ecfa8e34a5c824c5daaac0",
+    "semantic_hash": ""
+  },
+  "will_personal/Projects/Marco ERP - Backend.md": {
+    "mtime": 1783207934.3523817,
+    "ast_hash": "2fa3eadb08ed23dc9156abc65bd0189e",
+    "semantic_hash": ""
+  },
+  "will_personal/Projects/Marco ERP - Frontend.md": {
+    "mtime": 1783207936.8693738,
+    "ast_hash": "f5700099c8e80a77eeeb3185df62862f",
+    "semantic_hash": ""
+  },
+  "will_personal/Projects/Queso CRM.md": {
+    "mtime": 1782450938.9404428,
+    "ast_hash": "588bef07effd2905f6986a3e1c433091",
+    "semantic_hash": ""
+  },
+  "will_personal/Projects/Sales Sling EB.md": {
+    "mtime": 1782591352.598187,
+    "ast_hash": "7ff024724c6cdee5d120d8cc3a91e622",
+    "semantic_hash": ""
+  },
+  "will_personal/Projects/Sales Sling Lambda.md": {
+    "mtime": 1782591361.8428802,
+    "ast_hash": "9e229f7abc740c3e96b9b69cde0d2d77",
+    "semantic_hash": ""
+  },
+  "will_personal/Will Martinez.md": {
+    "mtime": 1782454273.512617,
+    "ast_hash": "d00a58f8fdc6d1054478c032cef99fb6",
+    "semantic_hash": ""
+  },
+  "will_personal/Work/Contractor.md": {
+    "mtime": 1782453974.2243586,
+    "ast_hash": "e2238af594a24612828c68c475f81a55",
+    "semantic_hash": ""
+  },
+  "will_personal/Work/Freelance.md": {
+    "mtime": 1782453990.9435227,
+    "ast_hash": "7e80f39765706e51c6c14c73aaed20a7",
+    "semantic_hash": ""
+  },
+  "will_personal/Finance/2026/2026-07.md": {
+    "mtime": 1784926881.6275573,
+    "ast_hash": "fb612a93ca8923a22fa02edd1f29105c",
+    "semantic_hash": ""
+  },
+  "will_personal/Finance/_Inbox/_Bill Template.md": {
+    "mtime": 1784916694.5723736,
+    "ast_hash": "5d1012b17ba60754d9fffe682fac2a35",
+    "semantic_hash": ""
+  },
+  "will_personal/Companies/BAC.md": {
+    "mtime": 1784926938.7829063,
+    "ast_hash": "aed0a6cb6a69a982714ef1ae0e0afe58",
+    "semantic_hash": ""
+  },
+  "will_personal/Contacts/Nielsis Mendoza.md": {
+    "mtime": 1784923050.3322067,
+    "ast_hash": "78af0aa5990ec95bfda103baa9e82ea1",
+    "semantic_hash": ""
+  },
+  "will_personal/Contacts/Taller Instalaciones Martinez.md": {
+    "mtime": 1784923052.9295304,
+    "ast_hash": "830f324989c0784e9e03faadb40d7bf1",
+    "semantic_hash": ""
+  },
+  "will_personal/Finance/Debts.md": {
+    "mtime": 1784927017.781291,
+    "ast_hash": "3985a1029aaaff0514c99fc646641a6d",
+    "semantic_hash": ""
+  }
+}
