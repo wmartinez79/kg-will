@@ -19,6 +19,10 @@ tags:
 | 2026-07-22 | Visa | 2000.00 |  |
 | 2026-07-22 | Visa |  | 100.00 |
 | 2026-07-24 | Visa | 2100.00 |  |
+| 2026-07-25 | AMEX Black |  | 202.00 |
+| 2026-07-25 | Visa |  | 116.94 |
+| 2026-07-25 | PriceSmart | 6798.00 | 61.34 |
 
 ## Notes
 - Balances as of 2026-07-24, net of Visa payments below.
+- AMEX Black $202.00 payment (2026-07-25) logged; Current Debt not yet updated pending next statement.
