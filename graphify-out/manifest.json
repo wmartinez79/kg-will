@@ -168,5 +168,265 @@
     "mtime": 1784927017.781291,
     "ast_hash": "3985a1029aaaff0514c99fc646641a6d",
     "semantic_hash": ""
+  },
+  "/home/william/kg-will/.claude/settings.local.json": {
+    "mtime": 1783207275.02859,
+    "ast_hash": "627992c4768e942d9f86a197941026c7",
+    "semantic_hash": "627992c4768e942d9f86a197941026c7"
+  },
+  "/home/william/kg-will/will_personal/.obsidian/app.json": {
+    "mtime": 1784949648.874484,
+    "ast_hash": "b338b0d1555b5b2f52d7026bb390127c",
+    "semantic_hash": "b338b0d1555b5b2f52d7026bb390127c"
+  },
+  "/home/william/kg-will/will_personal/.obsidian/appearance.json": {
+    "mtime": 1784949648.8754842,
+    "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
+    "semantic_hash": "99914b932bd37a50b983c5e7c90ae93b"
+  },
+  "/home/william/kg-will/will_personal/.obsidian/community-plugins.json": {
+    "mtime": 1784949311.054193,
+    "ast_hash": "7683a82dded05a5b943945d2db5d2f5b",
+    "semantic_hash": "7683a82dded05a5b943945d2db5d2f5b"
+  },
+  "/home/william/kg-will/will_personal/.obsidian/core-plugins.json": {
+    "mtime": 1784949648.4144144,
+    "ast_hash": "7c877bea49eaeabb100563bd157b9051",
+    "semantic_hash": "7c877bea49eaeabb100563bd157b9051"
+  },
+  "/home/william/kg-will/will_personal/.obsidian/graph.json": {
+    "mtime": 1785019553.186,
+    "ast_hash": "41ffa915f9d880d061cd7db53a247fe1",
+    "semantic_hash": "41ffa915f9d880d061cd7db53a247fe1"
+  },
+  "/home/william/kg-will/will_personal/.obsidian/plugins/obsidian-git/data.json": {
+    "mtime": 1784949342.190638,
+    "ast_hash": "e86c20549335cc446b0fc3f1acc5be90",
+    "semantic_hash": "e86c20549335cc446b0fc3f1acc5be90"
+  },
+  "/home/william/kg-will/will_personal/.obsidian/plugins/obsidian-git/main.js": {
+    "mtime": 1784949300.145037,
+    "ast_hash": "71ec12c13f2c145d7accb3c109854e83",
+    "semantic_hash": "71ec12c13f2c145d7accb3c109854e83"
+  },
+  "/home/william/kg-will/will_personal/.obsidian/plugins/obsidian-git/manifest.json": {
+    "mtime": 1784949300.6900449,
+    "ast_hash": "39355b86b9df909f1fac90c94d03a737",
+    "semantic_hash": "39355b86b9df909f1fac90c94d03a737"
+  },
+  "/home/william/kg-will/will_personal/.obsidian/plugins/obsidian-git/obsidian_askpass.sh": {
+    "mtime": 1784949655.8774745,
+    "ast_hash": "f662d5f216d371e86d1b108ba5d22a5f",
+    "semantic_hash": "f662d5f216d371e86d1b108ba5d22a5f"
+  },
+  "/home/william/kg-will/CLAUDE.md": {
+    "mtime": 1782591831.622069,
+    "ast_hash": "d09bbf3a091acb487c2e8c90bc4489ac",
+    "semantic_hash": "d09bbf3a091acb487c2e8c90bc4489ac"
+  },
+  "/home/william/kg-will/will_personal/Companies/ALUVAL Nicaragua.md": {
+    "mtime": 1782454239.1632137,
+    "ast_hash": "c6a83ff1de33cb55cec69aedb1cf3da6",
+    "semantic_hash": "c6a83ff1de33cb55cec69aedb1cf3da6"
+  },
+  "/home/william/kg-will/will_personal/Companies/BAC.md": {
+    "mtime": 1784926938.7829063,
+    "ast_hash": "aed0a6cb6a69a982714ef1ae0e0afe58",
+    "semantic_hash": "aed0a6cb6a69a982714ef1ae0e0afe58"
+  },
+  "/home/william/kg-will/will_personal/Companies/Enhancement Payment System.md": {
+    "mtime": 1784917323.4278343,
+    "ast_hash": "82e0c7cd988975768026587add1d1cf9",
+    "semantic_hash": "82e0c7cd988975768026587add1d1cf9"
+  },
+  "/home/william/kg-will/will_personal/Companies/Ficohsa.md": {
+    "mtime": 1784935986.8805513,
+    "ast_hash": "fe5cb520575801384a75b44748790520",
+    "semantic_hash": "fe5cb520575801384a75b44748790520"
+  },
+  "/home/william/kg-will/will_personal/Companies/In All Media.md": {
+    "mtime": 1784918201.9322176,
+    "ast_hash": "784ebae5b01fda12b97f8dc59c4d4ca4",
+    "semantic_hash": "784ebae5b01fda12b97f8dc59c4d4ca4"
+  },
+  "/home/william/kg-will/will_personal/Companies/Pluto TV Paramount.md": {
+    "mtime": 1782454351.6755564,
+    "ast_hash": "9ee958912e096d88e0ff950bafc90da0",
+    "semantic_hash": "9ee958912e096d88e0ff950bafc90da0"
+  },
+  "/home/william/kg-will/will_personal/Companies/Vidrieria FMorales.md": {
+    "mtime": 1782454407.4532437,
+    "ast_hash": "1e79132757dfa69197955b8eeb45df0b",
+    "semantic_hash": "1e79132757dfa69197955b8eeb45df0b"
+  },
+  "/home/william/kg-will/will_personal/Contacts/Evan Caldwell.md": {
+    "mtime": 1782454464.3119566,
+    "ast_hash": "ac29b13524c56afc0b38a8d484b04725",
+    "semantic_hash": "ac29b13524c56afc0b38a8d484b04725"
+  },
+  "/home/william/kg-will/will_personal/Contacts/Jamil Modak.md": {
+    "mtime": 1782450376.519757,
+    "ast_hash": "2d376babd084adc855bef1a07357338e",
+    "semantic_hash": "2d376babd084adc855bef1a07357338e"
+  },
+  "/home/william/kg-will/will_personal/Contacts/Jimmy Valverde.md": {
+    "mtime": 1782454498.6733932,
+    "ast_hash": "9bc5136d206b0bd9f47cf9693d230ab8",
+    "semantic_hash": "9bc5136d206b0bd9f47cf9693d230ab8"
+  },
+  "/home/william/kg-will/will_personal/Contacts/Mike Gazlay.md": {
+    "mtime": 1782454507.0305002,
+    "ast_hash": "a5bb1419f7ecfa8e34a5c824c5daaac0",
+    "semantic_hash": "a5bb1419f7ecfa8e34a5c824c5daaac0"
+  },
+  "/home/william/kg-will/will_personal/Contacts/Nielsis Mendoza.md": {
+    "mtime": 1784923050.3322067,
+    "ast_hash": "78af0aa5990ec95bfda103baa9e82ea1",
+    "semantic_hash": "78af0aa5990ec95bfda103baa9e82ea1"
+  },
+  "/home/william/kg-will/will_personal/Contacts/Taller Instalaciones Martinez.md": {
+    "mtime": 1784923052.9295304,
+    "ast_hash": "830f324989c0784e9e03faadb40d7bf1",
+    "semantic_hash": "830f324989c0784e9e03faadb40d7bf1"
+  },
+  "/home/william/kg-will/will_personal/Finance Overview.md": {
+    "mtime": 1784955965.855912,
+    "ast_hash": "47be3c4c68946d706fc844493c6d2ec8",
+    "semantic_hash": "47be3c4c68946d706fc844493c6d2ec8"
+  },
+  "/home/william/kg-will/will_personal/Finance/2026.md": {
+    "mtime": 1784956304.7425659,
+    "ast_hash": "8059ff140001c107136e0e02f4d39e48",
+    "semantic_hash": "8059ff140001c107136e0e02f4d39e48"
+  },
+  "/home/william/kg-will/will_personal/Finance/2026/2026-07.md": {
+    "mtime": 1785019462.6498845,
+    "ast_hash": "edffa166bc2d0fa7bd5c3b04024e6c91",
+    "semantic_hash": "edffa166bc2d0fa7bd5c3b04024e6c91"
+  },
+  "/home/william/kg-will/will_personal/Finance/Credit Cards.md": {
+    "mtime": 1784927623.7568953,
+    "ast_hash": "89e0dbe266bdcb561a78cc07e0d6df31",
+    "semantic_hash": "89e0dbe266bdcb561a78cc07e0d6df31"
+  },
+  "/home/william/kg-will/will_personal/Finance/Debts.md": {
+    "mtime": 1784936061.9152389,
+    "ast_hash": "a7aa3e9ccbae161a2471d8b2087e69b1",
+    "semantic_hash": "a7aa3e9ccbae161a2471d8b2087e69b1"
+  },
+  "/home/william/kg-will/will_personal/Finance/Loans.md": {
+    "mtime": 1784936058.5901651,
+    "ast_hash": "ca642018e51b2685e7bce1cb23adbe40",
+    "semantic_hash": "ca642018e51b2685e7bce1cb23adbe40"
+  },
+  "/home/william/kg-will/will_personal/Finance/_Inbox/Bill_2026-07-25_Nacatamales.md": {
+    "mtime": 1784997320.7904012,
+    "ast_hash": "3b1c3c3c8664c6f2056106ae7ba75f98",
+    "semantic_hash": "3b1c3c3c8664c6f2056106ae7ba75f98"
+  },
+  "/home/william/kg-will/will_personal/Finance/_Inbox/_Bill Template.md": {
+    "mtime": 1784955792.5886831,
+    "ast_hash": "5681a4baf06a9b056e418dd0db75abb4",
+    "semantic_hash": "5681a4baf06a9b056e418dd0db75abb4"
+  },
+  "/home/william/kg-will/will_personal/Projects/Marco ERP - Backend.md": {
+    "mtime": 1783207934.3523817,
+    "ast_hash": "2fa3eadb08ed23dc9156abc65bd0189e",
+    "semantic_hash": "2fa3eadb08ed23dc9156abc65bd0189e"
+  },
+  "/home/william/kg-will/will_personal/Projects/Marco ERP - Frontend.md": {
+    "mtime": 1783207936.8693738,
+    "ast_hash": "f5700099c8e80a77eeeb3185df62862f",
+    "semantic_hash": "f5700099c8e80a77eeeb3185df62862f"
+  },
+  "/home/william/kg-will/will_personal/Projects/Marco ERP.md": {
+    "mtime": 1783698950.7143066,
+    "ast_hash": "cb040f35275d6c5feb66cb90974bdb90",
+    "semantic_hash": "cb040f35275d6c5feb66cb90974bdb90"
+  },
+  "/home/william/kg-will/will_personal/Projects/Queso CRM.md": {
+    "mtime": 1782450938.9404428,
+    "ast_hash": "588bef07effd2905f6986a3e1c433091",
+    "semantic_hash": "588bef07effd2905f6986a3e1c433091"
+  },
+  "/home/william/kg-will/will_personal/Projects/SEM.md": {
+    "mtime": 1782451489.4654675,
+    "ast_hash": "bc87cf69fcd1a2fdd69eddac7b5ee6d4",
+    "semantic_hash": "bc87cf69fcd1a2fdd69eddac7b5ee6d4"
+  },
+  "/home/william/kg-will/will_personal/Projects/Sales Sling EB.md": {
+    "mtime": 1782591352.598187,
+    "ast_hash": "7ff024724c6cdee5d120d8cc3a91e622",
+    "semantic_hash": "7ff024724c6cdee5d120d8cc3a91e622"
+  },
+  "/home/william/kg-will/will_personal/Projects/Sales Sling Lambda.md": {
+    "mtime": 1782591361.8428802,
+    "ast_hash": "9e229f7abc740c3e96b9b69cde0d2d77",
+    "semantic_hash": "9e229f7abc740c3e96b9b69cde0d2d77"
+  },
+  "/home/william/kg-will/will_personal/Resume.md": {
+    "mtime": 1782451187.5861015,
+    "ast_hash": "3f727ae8ea20fd7ae2af84854d951952",
+    "semantic_hash": "3f727ae8ea20fd7ae2af84854d951952"
+  },
+  "/home/william/kg-will/will_personal/Will Martinez.md": {
+    "mtime": 1782454273.512617,
+    "ast_hash": "d00a58f8fdc6d1054478c032cef99fb6",
+    "semantic_hash": "d00a58f8fdc6d1054478c032cef99fb6"
+  },
+  "/home/william/kg-will/will_personal/Work/Contractor.md": {
+    "mtime": 1782453974.2243586,
+    "ast_hash": "e2238af594a24612828c68c475f81a55",
+    "semantic_hash": "e2238af594a24612828c68c475f81a55"
+  },
+  "/home/william/kg-will/will_personal/Work/Freelance.md": {
+    "mtime": 1782453990.9435227,
+    "ast_hash": "7e80f39765706e51c6c14c73aaed20a7",
+    "semantic_hash": "7e80f39765706e51c6c14c73aaed20a7"
+  },
+  "/home/william/kg-will/.obsidian/app.json": {
+    "mtime": 1785019374.084818,
+    "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
+    "semantic_hash": "99914b932bd37a50b983c5e7c90ae93b"
+  },
+  "/home/william/kg-will/.obsidian/appearance.json": {
+    "mtime": 1785019374.084818,
+    "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
+    "semantic_hash": "99914b932bd37a50b983c5e7c90ae93b"
+  },
+  "/home/william/kg-will/.obsidian/core-plugins.json": {
+    "mtime": 1785019374.0918179,
+    "ast_hash": "10370325bff9bd6c1d198b62652d52ed",
+    "semantic_hash": "10370325bff9bd6c1d198b62652d52ed"
+  },
+  "/home/william/kg-will/.obsidian/workspace-mobile.json": {
+    "mtime": 1785019374.093818,
+    "ast_hash": "0437f035676bba20c150c2d7e44841fc",
+    "semantic_hash": "0437f035676bba20c150c2d7e44841fc"
+  },
+  "/home/william/kg-will/will_personal/.obsidian/workspace.json": {
+    "mtime": 1785019583.9983506,
+    "ast_hash": "0528a172136d1d223d3027bacaf10c3f",
+    "semantic_hash": "0528a172136d1d223d3027bacaf10c3f"
+  },
+  "/home/william/kg-will/will_personal/Finance/_Inbox/2026-07-25_PriceSmart-8902.md": {
+    "mtime": 1785019374.0958178,
+    "ast_hash": "c45482b830cb81b79117c927b627da49",
+    "semantic_hash": "c45482b830cb81b79117c927b627da49"
+  },
+  "/home/william/kg-will/will_personal/Finance/_Inbox/2026-07-25_PriceSmart-Food-Service.md": {
+    "mtime": 1785019374.096818,
+    "ast_hash": "13b6b9fe869a82c2227279e929720344",
+    "semantic_hash": "13b6b9fe869a82c2227279e929720344"
+  },
+  "/home/william/kg-will/will_personal/Finance/_Inbox/Bill_2026-07-25_AmarceCoffee1.md": {
+    "mtime": 1785019374.098818,
+    "ast_hash": "fb7c6df4a33c9f80b6de4ba10f217d01",
+    "semantic_hash": "fb7c6df4a33c9f80b6de4ba10f217d01"
+  },
+  "/home/william/kg-will/will_personal/Finance/_Inbox/Bill_2026-07-25_AmarceCoffee2.md": {
+    "mtime": 1785019374.101818,
+    "ast_hash": "e01e81badcce2283297136cd7db9c880",
+    "semantic_hash": "e01e81badcce2283297136cd7db9c880"
   }
 }

@@ -1,24 +1,7 @@
 {
   "directed": false,
   "multigraph": false,
-  "graph": {
-    "hyperedges": [
-      {
-        "id": "command_center_engagement",
-        "label": "Command Center Enterprise Platform Engagement",
-        "nodes": [
-          "clients_pluto_tv_paramount_pluto_tv_paramount",
-          "work_in_all_media_in_all_media",
-          "resume_william_donald_martinez_avellan",
-          "clients_pluto_tv_paramount_command_center"
-        ],
-        "relation": "participate_in",
-        "confidence": "EXTRACTED",
-        "confidence_score": 1.0,
-        "source_file": "will_personal/Clients/Pluto TV Paramount.md"
-      }
-    ]
-  },
+  "graph": {},
   "nodes": [
     {
       "label": "app.json",
@@ -26,9 +9,9 @@
       "source_file": "will_personal/.obsidian/app.json",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "obsidian_app",
-      "community": 9,
-      "norm_label": "app.json"
+      "community": 19,
+      "norm_label": "app.json",
+      "id": "obsidian_app"
     },
     {
       "label": "alwaysUpdateLinks",
@@ -36,9 +19,9 @@
       "source_file": "will_personal/.obsidian/app.json",
       "source_location": "L2",
       "_origin": "ast",
-      "id": "obsidian_app_alwaysupdatelinks",
-      "community": 9,
-      "norm_label": "alwaysupdatelinks"
+      "community": 19,
+      "norm_label": "alwaysupdatelinks",
+      "id": "obsidian_app_alwaysupdatelinks"
     },
     {
       "label": "CLAUDE.md",
@@ -46,19 +29,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "claude",
-      "community": 5,
-      "norm_label": "claude.md"
-    },
-    {
-      "label": "CLAUDE.md",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "claude_claude_md",
-      "community": 5,
-      "norm_label": "claude.md"
+      "community": 8,
+      "norm_label": "claude.md",
+      "id": "claude"
     },
     {
       "label": "What This Repo Is",
@@ -66,9 +39,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L5",
       "_origin": "ast",
-      "id": "claude_what_this_repo_is",
-      "community": 5,
-      "norm_label": "what this repo is"
+      "community": 8,
+      "norm_label": "what this repo is",
+      "id": "claude_what_this_repo_is"
     },
     {
       "label": "Directory Structure",
@@ -76,9 +49,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L9",
       "_origin": "ast",
-      "id": "claude_directory_structure",
-      "community": 5,
-      "norm_label": "directory structure"
+      "community": 8,
+      "norm_label": "directory structure",
+      "id": "claude_directory_structure"
     },
     {
       "label": "Key Entities",
@@ -86,9 +59,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L28",
       "_origin": "ast",
-      "id": "claude_key_entities",
-      "community": 5,
-      "norm_label": "key entities"
+      "community": 8,
+      "norm_label": "key entities",
+      "id": "claude_key_entities"
     },
     {
       "label": "graphify-out",
@@ -96,9 +69,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L46",
       "_origin": "ast",
-      "id": "claude_graphify_out",
-      "community": 5,
-      "norm_label": "graphify-out"
+      "community": 8,
+      "norm_label": "graphify-out",
+      "id": "claude_graphify_out"
     },
     {
       "label": "Working With This Repo",
@@ -106,9 +79,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L54",
       "_origin": "ast",
-      "id": "claude_working_with_this_repo",
-      "community": 5,
-      "norm_label": "working with this repo"
+      "community": 8,
+      "norm_label": "working with this repo",
+      "id": "claude_working_with_this_repo"
     },
     {
       "label": "ALUVAL Nicaragua.md",
@@ -116,9 +89,9 @@
       "source_file": "will_personal/Companies/ALUVAL Nicaragua.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "companies_aluval_nicaragua",
-      "community": 16,
-      "norm_label": "aluval nicaragua.md"
+      "community": 2,
+      "norm_label": "aluval nicaragua.md",
+      "id": "companies_aluval_nicaragua"
     },
     {
       "label": "Aluval",
@@ -126,9 +99,9 @@
       "source_file": "will_personal/Companies/ALUVAL Nicaragua.md",
       "source_location": "L11",
       "_origin": "ast",
-      "id": "companies_aluval_nicaragua_aluval",
-      "community": 16,
-      "norm_label": "aluval"
+      "community": 2,
+      "norm_label": "aluval",
+      "id": "companies_aluval_nicaragua_aluval"
     },
     {
       "label": "CRM",
@@ -136,9 +109,9 @@
       "source_file": "will_personal/Companies/ALUVAL Nicaragua.md",
       "source_location": "L18",
       "_origin": "ast",
-      "id": "companies_aluval_nicaragua_crm",
-      "community": 16,
-      "norm_label": "crm"
+      "community": 2,
+      "norm_label": "crm",
+      "id": "companies_aluval_nicaragua_crm"
     },
     {
       "label": "Links",
@@ -146,9 +119,9 @@
       "source_file": "will_personal/Companies/ALUVAL Nicaragua.md",
       "source_location": "L21",
       "_origin": "ast",
-      "id": "companies_aluval_nicaragua_links",
-      "community": 16,
-      "norm_label": "links"
+      "community": 2,
+      "norm_label": "links",
+      "id": "companies_aluval_nicaragua_links"
     },
     {
       "label": "BAC.md",
@@ -156,9 +129,9 @@
       "source_file": "will_personal/Companies/BAC.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "companies_bac",
-      "community": 23,
-      "norm_label": "bac.md"
+      "community": 3,
+      "norm_label": "bac.md",
+      "id": "companies_bac"
     },
     {
       "label": "BAC (Banco de America Central)",
@@ -166,9 +139,9 @@
       "source_file": "will_personal/Companies/BAC.md",
       "source_location": "L11",
       "_origin": "ast",
-      "id": "companies_bac_bac_banco_de_america_central",
-      "community": 23,
-      "norm_label": "bac (banco de america central)"
+      "community": 3,
+      "norm_label": "bac (banco de america central)",
+      "id": "companies_bac_bac_banco_de_america_central"
     },
     {
       "label": "Links",
@@ -176,9 +149,9 @@
       "source_file": "will_personal/Companies/BAC.md",
       "source_location": "L15",
       "_origin": "ast",
-      "id": "companies_bac_links",
-      "community": 23,
-      "norm_label": "links"
+      "community": 3,
+      "norm_label": "links",
+      "id": "companies_bac_links"
     },
     {
       "label": "Enhancement Payment System.md",
@@ -186,19 +159,9 @@
       "source_file": "will_personal/Companies/Enhancement Payment System.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "companies_enhancement_payment_system",
-      "community": 8,
-      "norm_label": "enhancement payment system.md"
-    },
-    {
-      "label": "Enhancement Payment System (EPS)",
-      "file_type": "document",
-      "source_file": "will_personal/Companies/Enhancement Payment System.md",
-      "source_location": "L12",
-      "_origin": "ast",
-      "id": "companies_enhancement_payment_system_enhancement_payment_system_eps",
-      "community": 8,
-      "norm_label": "enhancement payment system (eps)"
+      "community": 9,
+      "norm_label": "enhancement payment system.md",
+      "id": "companies_enhancement_payment_system"
     },
     {
       "label": "Contact",
@@ -206,9 +169,9 @@
       "source_file": "will_personal/Companies/Enhancement Payment System.md",
       "source_location": "L16",
       "_origin": "ast",
-      "id": "companies_enhancement_payment_system_contact",
-      "community": 8,
-      "norm_label": "contact"
+      "community": 9,
+      "norm_label": "contact",
+      "id": "companies_enhancement_payment_system_contact"
     },
     {
       "label": "Projects",
@@ -216,9 +179,9 @@
       "source_file": "will_personal/Companies/Enhancement Payment System.md",
       "source_location": "L19",
       "_origin": "ast",
-      "id": "companies_enhancement_payment_system_projects",
-      "community": 8,
-      "norm_label": "projects"
+      "community": 9,
+      "norm_label": "projects",
+      "id": "companies_enhancement_payment_system_projects"
     },
     {
       "label": "Payment Terms",
@@ -226,9 +189,9 @@
       "source_file": "will_personal/Companies/Enhancement Payment System.md",
       "source_location": "L24",
       "_origin": "ast",
-      "id": "companies_enhancement_payment_system_payment_terms",
-      "community": 8,
-      "norm_label": "payment terms"
+      "community": 9,
+      "norm_label": "payment terms",
+      "id": "companies_enhancement_payment_system_payment_terms"
     },
     {
       "label": "Links",
@@ -236,9 +199,9 @@
       "source_file": "will_personal/Companies/Enhancement Payment System.md",
       "source_location": "L34",
       "_origin": "ast",
-      "id": "companies_enhancement_payment_system_links",
-      "community": 8,
-      "norm_label": "links"
+      "community": 9,
+      "norm_label": "links",
+      "id": "companies_enhancement_payment_system_links"
     },
     {
       "label": "In All Media.md",
@@ -246,9 +209,9 @@
       "source_file": "will_personal/Companies/In All Media.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "companies_in_all_media",
-      "community": 6,
-      "norm_label": "in all media.md"
+      "community": 2,
+      "norm_label": "in all media.md",
+      "id": "companies_in_all_media"
     },
     {
       "label": "In All Media (Coderfull SA)",
@@ -256,9 +219,9 @@
       "source_file": "will_personal/Companies/In All Media.md",
       "source_location": "L13",
       "_origin": "ast",
-      "id": "companies_in_all_media_in_all_media_coderfull_sa",
-      "community": 6,
-      "norm_label": "in all media (coderfull sa)"
+      "community": 2,
+      "norm_label": "in all media (coderfull sa)",
+      "id": "companies_in_all_media_in_all_media_coderfull_sa"
     },
     {
       "label": "Role",
@@ -266,9 +229,9 @@
       "source_file": "will_personal/Companies/In All Media.md",
       "source_location": "L17",
       "_origin": "ast",
-      "id": "companies_in_all_media_role",
-      "community": 6,
-      "norm_label": "role"
+      "community": 2,
+      "norm_label": "role",
+      "id": "companies_in_all_media_role"
     },
     {
       "label": "Engagement History",
@@ -276,9 +239,9 @@
       "source_file": "will_personal/Companies/In All Media.md",
       "source_location": "L20",
       "_origin": "ast",
-      "id": "companies_in_all_media_engagement_history",
-      "community": 6,
-      "norm_label": "engagement history"
+      "community": 2,
+      "norm_label": "engagement history",
+      "id": "companies_in_all_media_engagement_history"
     },
     {
       "label": "Statement of Work (Current)",
@@ -286,9 +249,9 @@
       "source_file": "will_personal/Companies/In All Media.md",
       "source_location": "L25",
       "_origin": "ast",
-      "id": "companies_in_all_media_statement_of_work_current",
-      "community": 6,
-      "norm_label": "statement of work (current)"
+      "community": 2,
+      "norm_label": "statement of work (current)",
+      "id": "companies_in_all_media_statement_of_work_current"
     },
     {
       "label": "Payment Terms",
@@ -296,9 +259,9 @@
       "source_file": "will_personal/Companies/In All Media.md",
       "source_location": "L32",
       "_origin": "ast",
-      "id": "companies_in_all_media_payment_terms",
-      "community": 6,
-      "norm_label": "payment terms"
+      "community": 2,
+      "norm_label": "payment terms",
+      "id": "companies_in_all_media_payment_terms"
     },
     {
       "label": "Clients",
@@ -306,9 +269,9 @@
       "source_file": "will_personal/Companies/In All Media.md",
       "source_location": "L41",
       "_origin": "ast",
-      "id": "companies_in_all_media_clients",
-      "community": 6,
-      "norm_label": "clients"
+      "community": 2,
+      "norm_label": "clients",
+      "id": "companies_in_all_media_clients"
     },
     {
       "label": "Links",
@@ -316,9 +279,9 @@
       "source_file": "will_personal/Companies/In All Media.md",
       "source_location": "L44",
       "_origin": "ast",
-      "id": "companies_in_all_media_links",
-      "community": 6,
-      "norm_label": "links"
+      "community": 2,
+      "norm_label": "links",
+      "id": "companies_in_all_media_links"
     },
     {
       "label": "Pluto TV Paramount.md",
@@ -326,9 +289,9 @@
       "source_file": "will_personal/Companies/Pluto TV Paramount.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "companies_pluto_tv_paramount",
-      "community": 7,
-      "norm_label": "pluto tv paramount.md"
+      "community": 4,
+      "norm_label": "pluto tv paramount.md",
+      "id": "companies_pluto_tv_paramount"
     },
     {
       "label": "Pluto TV / Paramount",
@@ -336,9 +299,9 @@
       "source_file": "will_personal/Companies/Pluto TV Paramount.md",
       "source_location": "L9",
       "_origin": "ast",
-      "id": "companies_pluto_tv_paramount_pluto_tv_paramount",
-      "community": 7,
-      "norm_label": "pluto tv / paramount"
+      "community": 4,
+      "norm_label": "pluto tv / paramount",
+      "id": "companies_pluto_tv_paramount_pluto_tv_paramount"
     },
     {
       "label": "Contacts",
@@ -346,9 +309,9 @@
       "source_file": "will_personal/Companies/Pluto TV Paramount.md",
       "source_location": "L13",
       "_origin": "ast",
-      "id": "companies_pluto_tv_paramount_contacts",
-      "community": 7,
-      "norm_label": "contacts"
+      "community": 4,
+      "norm_label": "contacts",
+      "id": "companies_pluto_tv_paramount_contacts"
     },
     {
       "label": "Project",
@@ -356,9 +319,9 @@
       "source_file": "will_personal/Companies/Pluto TV Paramount.md",
       "source_location": "L17",
       "_origin": "ast",
-      "id": "companies_pluto_tv_paramount_project",
-      "community": 7,
-      "norm_label": "project"
+      "community": 4,
+      "norm_label": "project",
+      "id": "companies_pluto_tv_paramount_project"
     },
     {
       "label": "Links",
@@ -366,9 +329,9 @@
       "source_file": "will_personal/Companies/Pluto TV Paramount.md",
       "source_location": "L20",
       "_origin": "ast",
-      "id": "companies_pluto_tv_paramount_links",
-      "community": 7,
-      "norm_label": "links"
+      "community": 4,
+      "norm_label": "links",
+      "id": "companies_pluto_tv_paramount_links"
     },
     {
       "label": "Vidrieria FMorales.md",
@@ -376,19 +339,9 @@
       "source_file": "will_personal/Companies/Vidrieria FMorales.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "companies_vidrieria_fmorales",
-      "community": 0,
-      "norm_label": "vidrieria fmorales.md"
-    },
-    {
-      "label": "Vidrieria F. Morales",
-      "file_type": "document",
-      "source_file": "will_personal/Companies/Vidrieria FMorales.md",
-      "source_location": "L8",
-      "_origin": "ast",
-      "id": "companies_vidrieria_fmorales_vidrieria_f_morales",
-      "community": 0,
-      "norm_label": "vidrieria f. morales"
+      "community": 1,
+      "norm_label": "vidrieria fmorales.md",
+      "id": "companies_vidrieria_fmorales"
     },
     {
       "label": "CRM",
@@ -396,9 +349,9 @@
       "source_file": "will_personal/Companies/Vidrieria FMorales.md",
       "source_location": "L12",
       "_origin": "ast",
-      "id": "companies_vidrieria_fmorales_crm",
-      "community": 0,
-      "norm_label": "crm"
+      "community": 1,
+      "norm_label": "crm",
+      "id": "companies_vidrieria_fmorales_crm"
     },
     {
       "label": "Links",
@@ -406,9 +359,9 @@
       "source_file": "will_personal/Companies/Vidrieria FMorales.md",
       "source_location": "L15",
       "_origin": "ast",
-      "id": "companies_vidrieria_fmorales_links",
-      "community": 0,
-      "norm_label": "links"
+      "community": 1,
+      "norm_label": "links",
+      "id": "companies_vidrieria_fmorales_links"
     },
     {
       "label": "Evan Caldwell.md",
@@ -416,9 +369,9 @@
       "source_file": "will_personal/Contacts/Evan Caldwell.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "contacts_evan_caldwell",
-      "community": 7,
-      "norm_label": "evan caldwell.md"
+      "community": 4,
+      "norm_label": "evan caldwell.md",
+      "id": "contacts_evan_caldwell"
     },
     {
       "label": "Evan Caldwell",
@@ -426,9 +379,9 @@
       "source_file": "will_personal/Contacts/Evan Caldwell.md",
       "source_location": "L9",
       "_origin": "ast",
-      "id": "contacts_evan_caldwell_evan_caldwell",
-      "community": 7,
-      "norm_label": "evan caldwell"
+      "community": 4,
+      "norm_label": "evan caldwell",
+      "id": "contacts_evan_caldwell_evan_caldwell"
     },
     {
       "label": "Reports to",
@@ -436,9 +389,9 @@
       "source_file": "will_personal/Contacts/Evan Caldwell.md",
       "source_location": "L13",
       "_origin": "ast",
-      "id": "contacts_evan_caldwell_reports_to",
-      "community": 7,
-      "norm_label": "reports to"
+      "community": 4,
+      "norm_label": "reports to",
+      "id": "contacts_evan_caldwell_reports_to"
     },
     {
       "label": "Links",
@@ -446,9 +399,9 @@
       "source_file": "will_personal/Contacts/Evan Caldwell.md",
       "source_location": "L16",
       "_origin": "ast",
-      "id": "contacts_evan_caldwell_links",
-      "community": 7,
-      "norm_label": "links"
+      "community": 4,
+      "norm_label": "links",
+      "id": "contacts_evan_caldwell_links"
     },
     {
       "label": "Jamil Modak.md",
@@ -456,9 +409,9 @@
       "source_file": "will_personal/Contacts/Jamil Modak.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "contacts_jamil_modak",
-      "community": 7,
-      "norm_label": "jamil modak.md"
+      "community": 4,
+      "norm_label": "jamil modak.md",
+      "id": "contacts_jamil_modak"
     },
     {
       "label": "Jamil Modak",
@@ -466,9 +419,9 @@
       "source_file": "will_personal/Contacts/Jamil Modak.md",
       "source_location": "L8",
       "_origin": "ast",
-      "id": "contacts_jamil_modak_jamil_modak",
-      "community": 7,
-      "norm_label": "jamil modak"
+      "community": 4,
+      "norm_label": "jamil modak",
+      "id": "contacts_jamil_modak_jamil_modak"
     },
     {
       "label": "Direct reports",
@@ -476,9 +429,9 @@
       "source_file": "will_personal/Contacts/Jamil Modak.md",
       "source_location": "L12",
       "_origin": "ast",
-      "id": "contacts_jamil_modak_direct_reports",
-      "community": 7,
-      "norm_label": "direct reports"
+      "community": 4,
+      "norm_label": "direct reports",
+      "id": "contacts_jamil_modak_direct_reports"
     },
     {
       "label": "Links",
@@ -486,9 +439,9 @@
       "source_file": "will_personal/Contacts/Jamil Modak.md",
       "source_location": "L15",
       "_origin": "ast",
-      "id": "contacts_jamil_modak_links",
-      "community": 7,
-      "norm_label": "links"
+      "community": 4,
+      "norm_label": "links",
+      "id": "contacts_jamil_modak_links"
     },
     {
       "label": "Jimmy Valverde.md",
@@ -496,9 +449,9 @@
       "source_file": "will_personal/Contacts/Jimmy Valverde.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "contacts_jimmy_valverde",
-      "community": 19,
-      "norm_label": "jimmy valverde.md"
+      "community": 17,
+      "norm_label": "jimmy valverde.md",
+      "id": "contacts_jimmy_valverde"
     },
     {
       "label": "Jimmy Valverde",
@@ -506,9 +459,9 @@
       "source_file": "will_personal/Contacts/Jimmy Valverde.md",
       "source_location": "L10",
       "_origin": "ast",
-      "id": "contacts_jimmy_valverde_jimmy_valverde",
-      "community": 19,
-      "norm_label": "jimmy valverde"
+      "community": 17,
+      "norm_label": "jimmy valverde",
+      "id": "contacts_jimmy_valverde_jimmy_valverde"
     },
     {
       "label": "Links",
@@ -516,9 +469,9 @@
       "source_file": "will_personal/Contacts/Jimmy Valverde.md",
       "source_location": "L12",
       "_origin": "ast",
-      "id": "contacts_jimmy_valverde_links",
-      "community": 19,
-      "norm_label": "links"
+      "community": 17,
+      "norm_label": "links",
+      "id": "contacts_jimmy_valverde_links"
     },
     {
       "label": "Mike Gazlay.md",
@@ -526,9 +479,9 @@
       "source_file": "will_personal/Contacts/Mike Gazlay.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "contacts_mike_gazlay",
-      "community": 20,
-      "norm_label": "mike gazlay.md"
+      "community": 18,
+      "norm_label": "mike gazlay.md",
+      "id": "contacts_mike_gazlay"
     },
     {
       "label": "Mike Gazlay",
@@ -536,9 +489,9 @@
       "source_file": "will_personal/Contacts/Mike Gazlay.md",
       "source_location": "L8",
       "_origin": "ast",
-      "id": "contacts_mike_gazlay_mike_gazlay",
-      "community": 20,
-      "norm_label": "mike gazlay"
+      "community": 18,
+      "norm_label": "mike gazlay",
+      "id": "contacts_mike_gazlay_mike_gazlay"
     },
     {
       "label": "Links",
@@ -546,9 +499,9 @@
       "source_file": "will_personal/Contacts/Mike Gazlay.md",
       "source_location": "L12",
       "_origin": "ast",
-      "id": "contacts_mike_gazlay_links",
-      "community": 20,
-      "norm_label": "links"
+      "community": 18,
+      "norm_label": "links",
+      "id": "contacts_mike_gazlay_links"
     },
     {
       "label": "Nielsis Mendoza.md",
@@ -556,9 +509,9 @@
       "source_file": "will_personal/Contacts/Nielsis Mendoza.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "contacts_nielsis_mendoza",
-      "community": 24,
-      "norm_label": "nielsis mendoza.md"
+      "community": 3,
+      "norm_label": "nielsis mendoza.md",
+      "id": "contacts_nielsis_mendoza"
     },
     {
       "label": "Nielsis Mendoza",
@@ -566,9 +519,9 @@
       "source_file": "will_personal/Contacts/Nielsis Mendoza.md",
       "source_location": "L7",
       "_origin": "ast",
-      "id": "contacts_nielsis_mendoza_nielsis_mendoza",
-      "community": 24,
-      "norm_label": "nielsis mendoza"
+      "community": 3,
+      "norm_label": "nielsis mendoza",
+      "id": "contacts_nielsis_mendoza_nielsis_mendoza"
     },
     {
       "label": "Links",
@@ -576,9 +529,9 @@
       "source_file": "will_personal/Contacts/Nielsis Mendoza.md",
       "source_location": "L11",
       "_origin": "ast",
-      "id": "contacts_nielsis_mendoza_links",
-      "community": 24,
-      "norm_label": "links"
+      "community": 3,
+      "norm_label": "links",
+      "id": "contacts_nielsis_mendoza_links"
     },
     {
       "label": "Taller Instalaciones Martinez.md",
@@ -586,9 +539,9 @@
       "source_file": "will_personal/Contacts/Taller Instalaciones Martinez.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "contacts_taller_instalaciones_martinez",
-      "community": 25,
-      "norm_label": "taller instalaciones martinez.md"
+      "community": 3,
+      "norm_label": "taller instalaciones martinez.md",
+      "id": "contacts_taller_instalaciones_martinez"
     },
     {
       "label": "Taller Instalaciones Martinez",
@@ -596,9 +549,9 @@
       "source_file": "will_personal/Contacts/Taller Instalaciones Martinez.md",
       "source_location": "L7",
       "_origin": "ast",
-      "id": "contacts_taller_instalaciones_martinez_taller_instalaciones_martinez",
-      "community": 25,
-      "norm_label": "taller instalaciones martinez"
+      "community": 3,
+      "norm_label": "taller instalaciones martinez",
+      "id": "contacts_taller_instalaciones_martinez_taller_instalaciones_martinez"
     },
     {
       "label": "Links",
@@ -606,9 +559,9 @@
       "source_file": "will_personal/Contacts/Taller Instalaciones Martinez.md",
       "source_location": "L11",
       "_origin": "ast",
-      "id": "contacts_taller_instalaciones_martinez_links",
-      "community": 25,
-      "norm_label": "links"
+      "community": 3,
+      "norm_label": "links",
+      "id": "contacts_taller_instalaciones_martinez_links"
     },
     {
       "label": "Finance Overview.md",
@@ -616,19 +569,9 @@
       "source_file": "will_personal/Finance Overview.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "will_personal_finance_overview",
-      "community": 0,
-      "norm_label": "finance overview.md"
-    },
-    {
-      "label": "Finance Overview",
-      "file_type": "document",
-      "source_file": "will_personal/Finance Overview.md",
-      "source_location": "L7",
-      "_origin": "ast",
-      "id": "will_personal_finance_overview_finance_overview",
-      "community": 0,
-      "norm_label": "finance overview"
+      "community": 3,
+      "norm_label": "finance overview.md",
+      "id": "will_personal_finance_overview"
     },
     {
       "label": "Workflow",
@@ -636,9 +579,9 @@
       "source_file": "will_personal/Finance Overview.md",
       "source_location": "L12",
       "_origin": "ast",
-      "id": "will_personal_finance_overview_workflow",
-      "community": 0,
-      "norm_label": "workflow"
+      "community": 3,
+      "norm_label": "workflow",
+      "id": "will_personal_finance_overview_workflow"
     },
     {
       "label": "Income sources",
@@ -646,9 +589,9 @@
       "source_file": "will_personal/Finance Overview.md",
       "source_location": "L18",
       "_origin": "ast",
-      "id": "will_personal_finance_overview_income_sources",
-      "community": 0,
-      "norm_label": "income sources"
+      "community": 3,
+      "norm_label": "income sources",
+      "id": "will_personal_finance_overview_income_sources"
     },
     {
       "label": "2026-07.md",
@@ -656,9 +599,9 @@
       "source_file": "will_personal/Finance/2026/2026-07.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "2026_2026_07",
       "community": 2,
-      "norm_label": "2026-07.md"
+      "norm_label": "2026-07.md",
+      "id": "2026_2026_07"
     },
     {
       "label": "July 2026",
@@ -666,9 +609,9 @@
       "source_file": "will_personal/Finance/2026/2026-07.md",
       "source_location": "L8",
       "_origin": "ast",
-      "id": "2026_2026_07_july_2026",
       "community": 2,
-      "norm_label": "july 2026"
+      "norm_label": "july 2026",
+      "id": "2026_2026_07_july_2026"
     },
     {
       "label": "Income",
@@ -676,9 +619,9 @@
       "source_file": "will_personal/Finance/2026/2026-07.md",
       "source_location": "L10",
       "_origin": "ast",
-      "id": "2026_2026_07_income",
       "community": 2,
-      "norm_label": "income"
+      "norm_label": "income",
+      "id": "2026_2026_07_income"
     },
     {
       "label": "Bills / Expenses",
@@ -686,9 +629,9 @@
       "source_file": "will_personal/Finance/2026/2026-07.md",
       "source_location": "L19",
       "_origin": "ast",
-      "id": "2026_2026_07_bills_expenses",
       "community": 2,
-      "norm_label": "bills / expenses"
+      "norm_label": "bills / expenses",
+      "id": "2026_2026_07_bills_expenses"
     },
     {
       "label": "Notes",
@@ -696,9 +639,9 @@
       "source_file": "will_personal/Finance/2026/2026-07.md",
       "source_location": "L23",
       "_origin": "ast",
-      "id": "2026_2026_07_notes",
       "community": 2,
-      "norm_label": "notes"
+      "norm_label": "notes",
+      "id": "2026_2026_07_notes"
     },
     {
       "label": "Debts.md",
@@ -706,9 +649,9 @@
       "source_file": "will_personal/Finance/Debts.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "finance_debts",
-      "community": 21,
-      "norm_label": "debts.md"
+      "community": 3,
+      "norm_label": "debts.md",
+      "id": "finance_debts"
     },
     {
       "label": "Debts",
@@ -716,9 +659,9 @@
       "source_file": "will_personal/Finance/Debts.md",
       "source_location": "L7",
       "_origin": "ast",
-      "id": "finance_debts_debts",
-      "community": 21,
-      "norm_label": "debts"
+      "community": 3,
+      "norm_label": "debts",
+      "id": "finance_debts_debts"
     },
     {
       "label": "Loans",
@@ -726,9 +669,9 @@
       "source_file": "will_personal/Finance/Debts.md",
       "source_location": "L9",
       "_origin": "ast",
-      "id": "finance_debts_loans",
-      "community": 21,
-      "norm_label": "loans"
+      "community": 3,
+      "norm_label": "loans",
+      "id": "finance_debts_loans"
     },
     {
       "label": "Credit Cards",
@@ -736,9 +679,9 @@
       "source_file": "will_personal/Finance/Debts.md",
       "source_location": "L17",
       "_origin": "ast",
-      "id": "finance_debts_credit_cards",
-      "community": 21,
-      "norm_label": "credit cards"
+      "community": 3,
+      "norm_label": "credit cards",
+      "id": "finance_debts_credit_cards"
     },
     {
       "label": "Notes",
@@ -746,9 +689,9 @@
       "source_file": "will_personal/Finance/Debts.md",
       "source_location": "L21",
       "_origin": "ast",
-      "id": "finance_debts_notes",
-      "community": 21,
-      "norm_label": "notes"
+      "community": 3,
+      "norm_label": "notes",
+      "id": "finance_debts_notes"
     },
     {
       "label": "_Bill Template.md",
@@ -756,9 +699,9 @@
       "source_file": "will_personal/Finance/_Inbox/_Bill Template.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "inbox_bill_template",
-      "community": 22,
-      "norm_label": "_bill template.md"
+      "community": 20,
+      "norm_label": "_bill template.md",
+      "id": "inbox_bill_template"
     },
     {
       "label": "Bill",
@@ -766,9 +709,9 @@
       "source_file": "will_personal/Finance/_Inbox/_Bill Template.md",
       "source_location": "L12",
       "_origin": "ast",
-      "id": "inbox_bill_template_bill",
-      "community": 22,
-      "norm_label": "bill"
+      "community": 20,
+      "norm_label": "bill",
+      "id": "inbox_bill_template_bill"
     },
     {
       "label": "Marco ERP - Backend.md",
@@ -776,9 +719,9 @@
       "source_file": "will_personal/Projects/Marco ERP - Backend.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "projects_marco_erp_backend",
       "community": 10,
-      "norm_label": "marco erp - backend.md"
+      "norm_label": "marco erp - backend.md",
+      "id": "projects_marco_erp_backend"
     },
     {
       "label": "Marco ERP - Backend",
@@ -786,9 +729,9 @@
       "source_file": "will_personal/Projects/Marco ERP - Backend.md",
       "source_location": "L20",
       "_origin": "ast",
-      "id": "projects_marco_erp_backend_marco_erp_backend",
       "community": 10,
-      "norm_label": "marco erp - backend"
+      "norm_label": "marco erp - backend",
+      "id": "projects_marco_erp_backend_marco_erp_backend"
     },
     {
       "label": "Repo",
@@ -796,9 +739,9 @@
       "source_file": "will_personal/Projects/Marco ERP - Backend.md",
       "source_location": "L24",
       "_origin": "ast",
-      "id": "projects_marco_erp_backend_repo",
       "community": 10,
-      "norm_label": "repo"
+      "norm_label": "repo",
+      "id": "projects_marco_erp_backend_repo"
     },
     {
       "label": "Code Knowledge Graph",
@@ -806,9 +749,9 @@
       "source_file": "will_personal/Projects/Marco ERP - Backend.md",
       "source_location": "L32",
       "_origin": "ast",
-      "id": "projects_marco_erp_backend_code_knowledge_graph",
       "community": 10,
-      "norm_label": "code knowledge graph"
+      "norm_label": "code knowledge graph",
+      "id": "projects_marco_erp_backend_code_knowledge_graph"
     },
     {
       "label": "Links",
@@ -816,9 +759,9 @@
       "source_file": "will_personal/Projects/Marco ERP - Backend.md",
       "source_location": "L40",
       "_origin": "ast",
-      "id": "projects_marco_erp_backend_links",
       "community": 10,
-      "norm_label": "links"
+      "norm_label": "links",
+      "id": "projects_marco_erp_backend_links"
     },
     {
       "label": "Marco ERP - Frontend.md",
@@ -826,9 +769,9 @@
       "source_file": "will_personal/Projects/Marco ERP - Frontend.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "projects_marco_erp_frontend",
       "community": 11,
-      "norm_label": "marco erp - frontend.md"
+      "norm_label": "marco erp - frontend.md",
+      "id": "projects_marco_erp_frontend"
     },
     {
       "label": "Marco ERP - Frontend",
@@ -836,9 +779,9 @@
       "source_file": "will_personal/Projects/Marco ERP - Frontend.md",
       "source_location": "L22",
       "_origin": "ast",
-      "id": "projects_marco_erp_frontend_marco_erp_frontend",
       "community": 11,
-      "norm_label": "marco erp - frontend"
+      "norm_label": "marco erp - frontend",
+      "id": "projects_marco_erp_frontend_marco_erp_frontend"
     },
     {
       "label": "Repo",
@@ -846,9 +789,9 @@
       "source_file": "will_personal/Projects/Marco ERP - Frontend.md",
       "source_location": "L26",
       "_origin": "ast",
-      "id": "projects_marco_erp_frontend_repo",
       "community": 11,
-      "norm_label": "repo"
+      "norm_label": "repo",
+      "id": "projects_marco_erp_frontend_repo"
     },
     {
       "label": "Code Knowledge Graph",
@@ -856,9 +799,9 @@
       "source_file": "will_personal/Projects/Marco ERP - Frontend.md",
       "source_location": "L37",
       "_origin": "ast",
-      "id": "projects_marco_erp_frontend_code_knowledge_graph",
       "community": 11,
-      "norm_label": "code knowledge graph"
+      "norm_label": "code knowledge graph",
+      "id": "projects_marco_erp_frontend_code_knowledge_graph"
     },
     {
       "label": "Links",
@@ -866,9 +809,9 @@
       "source_file": "will_personal/Projects/Marco ERP - Frontend.md",
       "source_location": "L45",
       "_origin": "ast",
-      "id": "projects_marco_erp_frontend_links",
       "community": 11,
-      "norm_label": "links"
+      "norm_label": "links",
+      "id": "projects_marco_erp_frontend_links"
     },
     {
       "label": "Marco ERP.md",
@@ -876,9 +819,9 @@
       "source_file": "will_personal/Projects/Marco ERP.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "projects_marco_erp",
-      "community": 0,
-      "norm_label": "marco erp.md"
+      "community": 1,
+      "norm_label": "marco erp.md",
+      "id": "projects_marco_erp"
     },
     {
       "label": "Marco ERP",
@@ -886,9 +829,9 @@
       "source_file": "will_personal/Projects/Marco ERP.md",
       "source_location": "L29",
       "_origin": "ast",
-      "id": "projects_marco_erp_marco_erp",
-      "community": 0,
-      "norm_label": "marco erp"
+      "community": 1,
+      "norm_label": "marco erp",
+      "id": "projects_marco_erp_marco_erp"
     },
     {
       "label": "Summary",
@@ -896,9 +839,9 @@
       "source_file": "will_personal/Projects/Marco ERP.md",
       "source_location": "L33",
       "_origin": "ast",
-      "id": "projects_marco_erp_summary",
-      "community": 0,
-      "norm_label": "summary"
+      "community": 1,
+      "norm_label": "summary",
+      "id": "projects_marco_erp_summary"
     },
     {
       "label": "Modules",
@@ -906,9 +849,9 @@
       "source_file": "will_personal/Projects/Marco ERP.md",
       "source_location": "L45",
       "_origin": "ast",
-      "id": "projects_marco_erp_modules",
-      "community": 0,
-      "norm_label": "modules"
+      "community": 1,
+      "norm_label": "modules",
+      "id": "projects_marco_erp_modules"
     },
     {
       "label": "Architecture",
@@ -916,9 +859,9 @@
       "source_file": "will_personal/Projects/Marco ERP.md",
       "source_location": "L61",
       "_origin": "ast",
-      "id": "projects_marco_erp_architecture",
-      "community": 0,
-      "norm_label": "architecture"
+      "community": 1,
+      "norm_label": "architecture",
+      "id": "projects_marco_erp_architecture"
     },
     {
       "label": "Backend ([[Marco ERP - Backend|marco-backend]])",
@@ -926,9 +869,9 @@
       "source_file": "will_personal/Projects/Marco ERP.md",
       "source_location": "L68",
       "_origin": "ast",
-      "id": "projects_marco_erp_backend_marco_erp_backend_marco_backend",
-      "community": 0,
-      "norm_label": "backend ([[marco erp - backend|marco-backend]])"
+      "community": 1,
+      "norm_label": "backend ([[marco erp - backend|marco-backend]])",
+      "id": "projects_marco_erp_backend_marco_erp_backend_marco_backend"
     },
     {
       "label": "Frontend ([[Marco ERP - Frontend|marco-frontend]])",
@@ -936,9 +879,9 @@
       "source_file": "will_personal/Projects/Marco ERP.md",
       "source_location": "L78",
       "_origin": "ast",
-      "id": "projects_marco_erp_frontend_marco_erp_frontend_marco_frontend",
-      "community": 0,
-      "norm_label": "frontend ([[marco erp - frontend|marco-frontend]])"
+      "community": 1,
+      "norm_label": "frontend ([[marco erp - frontend|marco-frontend]])",
+      "id": "projects_marco_erp_frontend_marco_erp_frontend_marco_frontend"
     },
     {
       "label": "Backend Modules (`api/src/domain/`)",
@@ -946,9 +889,9 @@
       "source_file": "will_personal/Projects/Marco ERP.md",
       "source_location": "L87",
       "_origin": "ast",
-      "id": "projects_marco_erp_backend_modules_api_src_domain",
-      "community": 0,
-      "norm_label": "backend modules (`api/src/domain/`)"
+      "community": 1,
+      "norm_label": "backend modules (`api/src/domain/`)",
+      "id": "projects_marco_erp_backend_modules_api_src_domain"
     },
     {
       "label": "People",
@@ -956,9 +899,9 @@
       "source_file": "will_personal/Projects/Marco ERP.md",
       "source_location": "L101",
       "_origin": "ast",
-      "id": "projects_marco_erp_people",
-      "community": 0,
-      "norm_label": "people"
+      "community": 1,
+      "norm_label": "people",
+      "id": "projects_marco_erp_people"
     },
     {
       "label": "Links",
@@ -966,9 +909,9 @@
       "source_file": "will_personal/Projects/Marco ERP.md",
       "source_location": "L103",
       "_origin": "ast",
-      "id": "projects_marco_erp_links",
-      "community": 0,
-      "norm_label": "links"
+      "community": 1,
+      "norm_label": "links",
+      "id": "projects_marco_erp_links"
     },
     {
       "label": "Queso CRM.md",
@@ -976,9 +919,9 @@
       "source_file": "will_personal/Projects/Queso CRM.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "projects_queso_crm",
-      "community": 17,
-      "norm_label": "queso crm.md"
+      "community": 15,
+      "norm_label": "queso crm.md",
+      "id": "projects_queso_crm"
     },
     {
       "label": "Queso CRM",
@@ -986,9 +929,9 @@
       "source_file": "will_personal/Projects/Queso CRM.md",
       "source_location": "L10",
       "_origin": "ast",
-      "id": "projects_queso_crm_queso_crm",
-      "community": 17,
-      "norm_label": "queso crm"
+      "community": 15,
+      "norm_label": "queso crm",
+      "id": "projects_queso_crm_queso_crm"
     },
     {
       "label": "Stack",
@@ -996,9 +939,9 @@
       "source_file": "will_personal/Projects/Queso CRM.md",
       "source_location": "L14",
       "_origin": "ast",
-      "id": "projects_queso_crm_stack",
-      "community": 17,
-      "norm_label": "stack"
+      "community": 15,
+      "norm_label": "stack",
+      "id": "projects_queso_crm_stack"
     },
     {
       "label": "Links",
@@ -1006,9 +949,9 @@
       "source_file": "will_personal/Projects/Queso CRM.md",
       "source_location": "L20",
       "_origin": "ast",
-      "id": "projects_queso_crm_links",
-      "community": 17,
-      "norm_label": "links"
+      "community": 15,
+      "norm_label": "links",
+      "id": "projects_queso_crm_links"
     },
     {
       "label": "SEM.md",
@@ -1016,9 +959,9 @@
       "source_file": "will_personal/Projects/SEM.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "projects_sem",
-      "community": 0,
-      "norm_label": "sem.md"
+      "community": 1,
+      "norm_label": "sem.md",
+      "id": "projects_sem"
     },
     {
       "label": "SEM",
@@ -1026,9 +969,9 @@
       "source_file": "will_personal/Projects/SEM.md",
       "source_location": "L8",
       "_origin": "ast",
-      "id": "projects_sem_sem",
-      "community": 0,
-      "norm_label": "sem"
+      "community": 1,
+      "norm_label": "sem",
+      "id": "projects_sem_sem"
     },
     {
       "label": "Tech Stack",
@@ -1036,9 +979,9 @@
       "source_file": "will_personal/Projects/SEM.md",
       "source_location": "L12",
       "_origin": "ast",
-      "id": "projects_sem_tech_stack",
-      "community": 0,
-      "norm_label": "tech stack"
+      "community": 1,
+      "norm_label": "tech stack",
+      "id": "projects_sem_tech_stack"
     },
     {
       "label": "Status",
@@ -1046,9 +989,9 @@
       "source_file": "will_personal/Projects/SEM.md",
       "source_location": "L15",
       "_origin": "ast",
-      "id": "projects_sem_status",
-      "community": 0,
-      "norm_label": "status"
+      "community": 1,
+      "norm_label": "status",
+      "id": "projects_sem_status"
     },
     {
       "label": "Successor",
@@ -1056,9 +999,9 @@
       "source_file": "will_personal/Projects/SEM.md",
       "source_location": "L18",
       "_origin": "ast",
-      "id": "projects_sem_successor",
-      "community": 0,
-      "norm_label": "successor"
+      "community": 1,
+      "norm_label": "successor",
+      "id": "projects_sem_successor"
     },
     {
       "label": "Active Deployments",
@@ -1066,9 +1009,9 @@
       "source_file": "will_personal/Projects/SEM.md",
       "source_location": "L21",
       "_origin": "ast",
-      "id": "projects_sem_active_deployments",
-      "community": 0,
-      "norm_label": "active deployments"
+      "community": 1,
+      "norm_label": "active deployments",
+      "id": "projects_sem_active_deployments"
     },
     {
       "label": "Notes",
@@ -1076,9 +1019,9 @@
       "source_file": "will_personal/Projects/SEM.md",
       "source_location": "L25",
       "_origin": "ast",
-      "id": "projects_sem_notes",
-      "community": 0,
-      "norm_label": "notes"
+      "community": 1,
+      "norm_label": "notes",
+      "id": "projects_sem_notes"
     },
     {
       "label": "Sales Sling EB.md",
@@ -1086,9 +1029,9 @@
       "source_file": "will_personal/Projects/Sales Sling EB.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "projects_sales_sling_eb",
       "community": 12,
-      "norm_label": "sales sling eb.md"
+      "norm_label": "sales sling eb.md",
+      "id": "projects_sales_sling_eb"
     },
     {
       "label": "Sales Sling (Elastic Beanstalk)",
@@ -1096,9 +1039,9 @@
       "source_file": "will_personal/Projects/Sales Sling EB.md",
       "source_location": "L10",
       "_origin": "ast",
-      "id": "projects_sales_sling_eb_sales_sling_elastic_beanstalk",
       "community": 12,
-      "norm_label": "sales sling (elastic beanstalk)"
+      "norm_label": "sales sling (elastic beanstalk)",
+      "id": "projects_sales_sling_eb_sales_sling_elastic_beanstalk"
     },
     {
       "label": "Stack",
@@ -1106,9 +1049,9 @@
       "source_file": "will_personal/Projects/Sales Sling EB.md",
       "source_location": "L14",
       "_origin": "ast",
-      "id": "projects_sales_sling_eb_stack",
       "community": 12,
-      "norm_label": "stack"
+      "norm_label": "stack",
+      "id": "projects_sales_sling_eb_stack"
     },
     {
       "label": "Related",
@@ -1116,9 +1059,9 @@
       "source_file": "will_personal/Projects/Sales Sling EB.md",
       "source_location": "L19",
       "_origin": "ast",
-      "id": "projects_sales_sling_eb_related",
       "community": 12,
-      "norm_label": "related"
+      "norm_label": "related",
+      "id": "projects_sales_sling_eb_related"
     },
     {
       "label": "Links",
@@ -1126,9 +1069,9 @@
       "source_file": "will_personal/Projects/Sales Sling EB.md",
       "source_location": "L23",
       "_origin": "ast",
-      "id": "projects_sales_sling_eb_links",
       "community": 12,
-      "norm_label": "links"
+      "norm_label": "links",
+      "id": "projects_sales_sling_eb_links"
     },
     {
       "label": "Sales Sling Lambda.md",
@@ -1136,9 +1079,9 @@
       "source_file": "will_personal/Projects/Sales Sling Lambda.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "projects_sales_sling_lambda",
       "community": 13,
-      "norm_label": "sales sling lambda.md"
+      "norm_label": "sales sling lambda.md",
+      "id": "projects_sales_sling_lambda"
     },
     {
       "label": "Sales Sling (Lambda)",
@@ -1146,9 +1089,9 @@
       "source_file": "will_personal/Projects/Sales Sling Lambda.md",
       "source_location": "L10",
       "_origin": "ast",
-      "id": "projects_sales_sling_lambda_sales_sling_lambda",
       "community": 13,
-      "norm_label": "sales sling (lambda)"
+      "norm_label": "sales sling (lambda)",
+      "id": "projects_sales_sling_lambda_sales_sling_lambda"
     },
     {
       "label": "Stack",
@@ -1156,9 +1099,9 @@
       "source_file": "will_personal/Projects/Sales Sling Lambda.md",
       "source_location": "L14",
       "_origin": "ast",
-      "id": "projects_sales_sling_lambda_stack",
       "community": 13,
-      "norm_label": "stack"
+      "norm_label": "stack",
+      "id": "projects_sales_sling_lambda_stack"
     },
     {
       "label": "Related",
@@ -1166,9 +1109,9 @@
       "source_file": "will_personal/Projects/Sales Sling Lambda.md",
       "source_location": "L19",
       "_origin": "ast",
-      "id": "projects_sales_sling_lambda_related",
       "community": 13,
-      "norm_label": "related"
+      "norm_label": "related",
+      "id": "projects_sales_sling_lambda_related"
     },
     {
       "label": "Links",
@@ -1176,9 +1119,9 @@
       "source_file": "will_personal/Projects/Sales Sling Lambda.md",
       "source_location": "L24",
       "_origin": "ast",
-      "id": "projects_sales_sling_lambda_links",
       "community": 13,
-      "norm_label": "links"
+      "norm_label": "links",
+      "id": "projects_sales_sling_lambda_links"
     },
     {
       "label": "Resume.md",
@@ -1186,9 +1129,9 @@
       "source_file": "will_personal/Resume.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "will_personal_resume",
-      "community": 3,
-      "norm_label": "resume.md"
+      "community": 0,
+      "norm_label": "resume.md",
+      "id": "will_personal_resume"
     },
     {
       "label": "William Donald Mart\u00ednez Avellan",
@@ -1196,9 +1139,9 @@
       "source_file": "will_personal/Resume.md",
       "source_location": "L16",
       "_origin": "ast",
-      "id": "will_personal_resume_william_donald_mart\u00ednez_avellan",
-      "community": 3,
-      "norm_label": "william donald martinez avellan"
+      "community": 0,
+      "norm_label": "william donald martinez avellan",
+      "id": "will_personal_resume_william_donald_mart\u00ednez_avellan"
     },
     {
       "label": "Summary",
@@ -1206,9 +1149,9 @@
       "source_file": "will_personal/Resume.md",
       "source_location": "L20",
       "_origin": "ast",
-      "id": "will_personal_resume_summary",
-      "community": 3,
-      "norm_label": "summary"
+      "community": 0,
+      "norm_label": "summary",
+      "id": "will_personal_resume_summary"
     },
     {
       "label": "Skills",
@@ -1216,9 +1159,9 @@
       "source_file": "will_personal/Resume.md",
       "source_location": "L24",
       "_origin": "ast",
-      "id": "will_personal_resume_skills",
-      "community": 3,
-      "norm_label": "skills"
+      "community": 0,
+      "norm_label": "skills",
+      "id": "will_personal_resume_skills"
     },
     {
       "label": "Core",
@@ -1226,9 +1169,9 @@
       "source_file": "will_personal/Resume.md",
       "source_location": "L26",
       "_origin": "ast",
-      "id": "will_personal_resume_core",
-      "community": 3,
-      "norm_label": "core"
+      "community": 0,
+      "norm_label": "core",
+      "id": "will_personal_resume_core"
     },
     {
       "label": "Additional",
@@ -1236,9 +1179,9 @@
       "source_file": "will_personal/Resume.md",
       "source_location": "L34",
       "_origin": "ast",
-      "id": "will_personal_resume_additional",
-      "community": 3,
-      "norm_label": "additional"
+      "community": 0,
+      "norm_label": "additional",
+      "id": "will_personal_resume_additional"
     },
     {
       "label": "Experience",
@@ -1246,9 +1189,9 @@
       "source_file": "will_personal/Resume.md",
       "source_location": "L42",
       "_origin": "ast",
-      "id": "will_personal_resume_experience",
-      "community": 4,
-      "norm_label": "experience"
+      "community": 7,
+      "norm_label": "experience",
+      "id": "will_personal_resume_experience"
     },
     {
       "label": "[[In All Media]] \u2014 Senior Software Engineer",
@@ -1256,9 +1199,9 @@
       "source_file": "will_personal/Resume.md",
       "source_location": "L44",
       "_origin": "ast",
-      "id": "will_personal_resume_in_all_media_senior_software_engineer",
-      "community": 4,
-      "norm_label": "[[in all media]] \u2014 senior software engineer"
+      "community": 7,
+      "norm_label": "[[in all media]] \u2014 senior software engineer",
+      "id": "will_personal_resume_in_all_media_senior_software_engineer"
     },
     {
       "label": "[[Enhancement Payment System]] \u2014 Senior Software Engineer",
@@ -1266,9 +1209,9 @@
       "source_file": "will_personal/Resume.md",
       "source_location": "L63",
       "_origin": "ast",
-      "id": "will_personal_resume_enhancement_payment_system_senior_software_engineer",
-      "community": 4,
-      "norm_label": "[[enhancement payment system]] \u2014 senior software engineer"
+      "community": 7,
+      "norm_label": "[[enhancement payment system]] \u2014 senior software engineer",
+      "id": "will_personal_resume_enhancement_payment_system_senior_software_engineer"
     },
     {
       "label": "SpryLMS \u2014 Senior Software Engineer / Frontend Technical Lead",
@@ -1276,9 +1219,9 @@
       "source_file": "will_personal/Resume.md",
       "source_location": "L75",
       "_origin": "ast",
-      "id": "will_personal_resume_sprylms_senior_software_engineer_frontend_technical_lead",
-      "community": 4,
-      "norm_label": "sprylms \u2014 senior software engineer / frontend technical lead"
+      "community": 7,
+      "norm_label": "sprylms \u2014 senior software engineer / frontend technical lead",
+      "id": "will_personal_resume_sprylms_senior_software_engineer_frontend_technical_lead"
     },
     {
       "label": "Seaban S.A \u2014 Regional Technology Consultant",
@@ -1286,9 +1229,9 @@
       "source_file": "will_personal/Resume.md",
       "source_location": "L87",
       "_origin": "ast",
-      "id": "will_personal_resume_seaban_s_a_regional_technology_consultant",
-      "community": 4,
-      "norm_label": "seaban s.a \u2014 regional technology consultant"
+      "community": 7,
+      "norm_label": "seaban s.a \u2014 regional technology consultant",
+      "id": "will_personal_resume_seaban_s_a_regional_technology_consultant"
     },
     {
       "label": "AG Software \u2014 Technical Lead / Senior Software Engineer",
@@ -1296,9 +1239,9 @@
       "source_file": "will_personal/Resume.md",
       "source_location": "L99",
       "_origin": "ast",
-      "id": "will_personal_resume_ag_software_technical_lead_senior_software_engineer",
-      "community": 4,
-      "norm_label": "ag software \u2014 technical lead / senior software engineer"
+      "community": 7,
+      "norm_label": "ag software \u2014 technical lead / senior software engineer",
+      "id": "will_personal_resume_ag_software_technical_lead_senior_software_engineer"
     },
     {
       "label": "Quoin Inc / AG Software \u2014 Senior Software Engineer / Technical Lead",
@@ -1306,9 +1249,9 @@
       "source_file": "will_personal/Resume.md",
       "source_location": "L110",
       "_origin": "ast",
-      "id": "will_personal_resume_quoin_inc_ag_software_senior_software_engineer_technical_lead",
-      "community": 4,
-      "norm_label": "quoin inc / ag software \u2014 senior software engineer / technical lead"
+      "community": 7,
+      "norm_label": "quoin inc / ag software \u2014 senior software engineer / technical lead",
+      "id": "will_personal_resume_quoin_inc_ag_software_senior_software_engineer_technical_lead"
     },
     {
       "label": "Bupartech \u2014 Regional Technology Consultant",
@@ -1316,9 +1259,9 @@
       "source_file": "will_personal/Resume.md",
       "source_location": "L121",
       "_origin": "ast",
-      "id": "will_personal_resume_bupartech_regional_technology_consultant",
-      "community": 4,
-      "norm_label": "bupartech \u2014 regional technology consultant"
+      "community": 7,
+      "norm_label": "bupartech \u2014 regional technology consultant",
+      "id": "will_personal_resume_bupartech_regional_technology_consultant"
     },
     {
       "label": "Banex / Findesa \u2014 Programmer Analyst",
@@ -1326,9 +1269,9 @@
       "source_file": "will_personal/Resume.md",
       "source_location": "L129",
       "_origin": "ast",
-      "id": "will_personal_resume_banex_findesa_programmer_analyst",
-      "community": 4,
-      "norm_label": "banex / findesa \u2014 programmer analyst"
+      "community": 7,
+      "norm_label": "banex / findesa \u2014 programmer analyst",
+      "id": "will_personal_resume_banex_findesa_programmer_analyst"
     },
     {
       "label": "Education",
@@ -1336,9 +1279,9 @@
       "source_file": "will_personal/Resume.md",
       "source_location": "L135",
       "_origin": "ast",
-      "id": "will_personal_resume_education",
-      "community": 3,
-      "norm_label": "education"
+      "community": 0,
+      "norm_label": "education",
+      "id": "will_personal_resume_education"
     },
     {
       "label": "Links",
@@ -1346,9 +1289,9 @@
       "source_file": "will_personal/Resume.md",
       "source_location": "L141",
       "_origin": "ast",
-      "id": "will_personal_resume_links",
-      "community": 3,
-      "norm_label": "links"
+      "community": 0,
+      "norm_label": "links",
+      "id": "will_personal_resume_links"
     },
     {
       "label": "Will Martinez.md",
@@ -1356,19 +1299,9 @@
       "source_file": "will_personal/Will Martinez.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "will_personal_will_martinez",
-      "community": 14,
-      "norm_label": "will martinez.md"
-    },
-    {
-      "label": "William Donald Martinez Avellan",
-      "file_type": "document",
-      "source_file": "will_personal/Will Martinez.md",
-      "source_location": "L11",
-      "_origin": "ast",
-      "id": "will_personal_will_martinez_william_donald_martinez_avellan",
-      "community": 14,
-      "norm_label": "william donald martinez avellan"
+      "community": 0,
+      "norm_label": "will martinez.md",
+      "id": "will_personal_will_martinez"
     },
     {
       "label": "Work",
@@ -1376,9 +1309,9 @@
       "source_file": "will_personal/Will Martinez.md",
       "source_location": "L15",
       "_origin": "ast",
-      "id": "will_personal_will_martinez_work",
-      "community": 14,
-      "norm_label": "work"
+      "community": 0,
+      "norm_label": "work",
+      "id": "will_personal_will_martinez_work"
     },
     {
       "label": "Finance",
@@ -1386,9 +1319,9 @@
       "source_file": "will_personal/Will Martinez.md",
       "source_location": "L19",
       "_origin": "ast",
-      "id": "will_personal_will_martinez_finance",
-      "community": 14,
-      "norm_label": "finance"
+      "community": 0,
+      "norm_label": "finance",
+      "id": "will_personal_will_martinez_finance"
     },
     {
       "label": "Resume",
@@ -1396,9 +1329,9 @@
       "source_file": "will_personal/Will Martinez.md",
       "source_location": "L22",
       "_origin": "ast",
-      "id": "will_personal_will_martinez_resume",
-      "community": 14,
-      "norm_label": "resume"
+      "community": 0,
+      "norm_label": "resume",
+      "id": "will_personal_will_martinez_resume"
     },
     {
       "label": "Contractor.md",
@@ -1406,9 +1339,9 @@
       "source_file": "will_personal/Work/Contractor.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "work_contractor",
-      "community": 18,
-      "norm_label": "contractor.md"
+      "community": 16,
+      "norm_label": "contractor.md",
+      "id": "work_contractor"
     },
     {
       "label": "Contractor",
@@ -1416,9 +1349,9 @@
       "source_file": "will_personal/Work/Contractor.md",
       "source_location": "L8",
       "_origin": "ast",
-      "id": "work_contractor_contractor",
-      "community": 18,
-      "norm_label": "contractor"
+      "community": 16,
+      "norm_label": "contractor",
+      "id": "work_contractor_contractor"
     },
     {
       "label": "Active",
@@ -1426,9 +1359,9 @@
       "source_file": "will_personal/Work/Contractor.md",
       "source_location": "L12",
       "_origin": "ast",
-      "id": "work_contractor_active",
-      "community": 18,
-      "norm_label": "active"
+      "community": 16,
+      "norm_label": "active",
+      "id": "work_contractor_active"
     },
     {
       "label": "Link",
@@ -1436,9 +1369,9 @@
       "source_file": "will_personal/Work/Contractor.md",
       "source_location": "L15",
       "_origin": "ast",
-      "id": "work_contractor_link",
-      "community": 18,
-      "norm_label": "link"
+      "community": 16,
+      "norm_label": "link",
+      "id": "work_contractor_link"
     },
     {
       "label": "Freelance.md",
@@ -1446,9 +1379,9 @@
       "source_file": "will_personal/Work/Freelance.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "work_freelance",
-      "community": 15,
-      "norm_label": "freelance.md"
+      "community": 14,
+      "norm_label": "freelance.md",
+      "id": "work_freelance"
     },
     {
       "label": "Freelance",
@@ -1456,9 +1389,9 @@
       "source_file": "will_personal/Work/Freelance.md",
       "source_location": "L8",
       "_origin": "ast",
-      "id": "work_freelance_freelance",
-      "community": 15,
-      "norm_label": "freelance"
+      "community": 14,
+      "norm_label": "freelance",
+      "id": "work_freelance_freelance"
     },
     {
       "label": "Active Clients",
@@ -1466,9 +1399,9 @@
       "source_file": "will_personal/Work/Freelance.md",
       "source_location": "L12",
       "_origin": "ast",
-      "id": "work_freelance_active_clients",
-      "community": 15,
-      "norm_label": "active clients"
+      "community": 14,
+      "norm_label": "active clients",
+      "id": "work_freelance_active_clients"
     },
     {
       "label": "Inactive Clients",
@@ -1476,9 +1409,9 @@
       "source_file": "will_personal/Work/Freelance.md",
       "source_location": "L16",
       "_origin": "ast",
-      "id": "work_freelance_inactive_clients",
-      "community": 15,
-      "norm_label": "inactive clients"
+      "community": 14,
+      "norm_label": "inactive clients",
+      "id": "work_freelance_inactive_clients"
     },
     {
       "label": "Link",
@@ -1486,9 +1419,9 @@
       "source_file": "will_personal/Work/Freelance.md",
       "source_location": "L19",
       "_origin": "ast",
-      "id": "work_freelance_link",
-      "community": 15,
-      "norm_label": "link"
+      "community": 14,
+      "norm_label": "link",
+      "id": "work_freelance_link"
     },
     {
       "label": "Obsidian Core Plugins Configuration",
@@ -1499,7 +1432,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 5,
       "norm_label": "obsidian core plugins configuration",
       "id": "obsidian_core_plugins"
     },
@@ -1512,7 +1445,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 5,
       "norm_label": "obsidian graph view settings",
       "id": "obsidian_graph"
     },
@@ -1525,7 +1458,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 5,
       "norm_label": "obsidian workspace layout",
       "id": "obsidian_workspace"
     },
@@ -1538,7 +1471,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 5,
       "norm_label": "welcome note",
       "id": "will_personal_welcome"
     },
@@ -1551,7 +1484,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 5,
       "norm_label": "obsidian sync plugin",
       "id": "obsidian_core_plugins_sync"
     },
@@ -1564,7 +1497,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 5,
       "norm_label": "obsidian bases plugin",
       "id": "obsidian_core_plugins_bases"
     },
@@ -1577,7 +1510,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 5,
       "norm_label": "obsidian canvas plugin",
       "id": "obsidian_core_plugins_canvas"
     },
@@ -1590,7 +1523,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 5,
       "norm_label": "daily notes plugin",
       "id": "obsidian_core_plugins_daily_notes"
     },
@@ -1603,7 +1536,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 5,
       "norm_label": "graph view plugin",
       "id": "obsidian_core_plugins_graph"
     },
@@ -1616,7 +1549,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 5,
       "norm_label": "backlink plugin",
       "id": "obsidian_core_plugins_backlink"
     },
@@ -1629,7 +1562,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 5,
       "norm_label": "templates plugin",
       "id": "obsidian_core_plugins_templates"
     },
@@ -1642,7 +1575,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 5,
       "norm_label": "will base (obsidian bases file)",
       "id": "obsidian_workspace_will_base"
     },
@@ -1655,7 +1588,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 5,
       "norm_label": "create a link (unresolved wikilink target)",
       "id": "will_personal_welcome_create_link"
     },
@@ -1668,7 +1601,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 1,
       "norm_label": "will",
       "id": "will_will"
     },
@@ -1681,7 +1614,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 1,
       "norm_label": "in all media",
       "id": "work_in_all_media_in_all_media"
     },
@@ -1694,7 +1627,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 1,
       "norm_label": "enhancement payment system",
       "id": "work_enhancement_payment_system_enhancement_payment_system"
     },
@@ -1707,7 +1640,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 1,
       "norm_label": "resume",
       "id": "will_resume_resume"
     },
@@ -1720,7 +1653,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 1,
       "norm_label": "react",
       "id": "projects_marco_erp_react"
     },
@@ -1733,7 +1666,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 1,
       "norm_label": "nestjs",
       "id": "projects_marco_erp_nestjs"
     },
@@ -1746,7 +1679,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 1,
       "norm_label": "mongodb",
       "id": "projects_marco_erp_mongodb"
     },
@@ -1759,7 +1692,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 1,
       "norm_label": "visual foxpro 6",
       "id": "projects_sem_visual_foxpro_6"
     },
@@ -1772,7 +1705,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 1,
       "norm_label": "aluval",
       "id": "clients_aluval_aluval"
     },
@@ -1785,7 +1718,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 1,
       "norm_label": "enhancement payment system",
       "id": "clients_enhancement_payment_system_enhancement_payment_system"
     },
@@ -1798,7 +1731,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 1,
       "norm_label": "marco erp",
       "id": "projects_sem_marco_erp"
     },
@@ -1811,7 +1744,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 1,
       "norm_label": "finance overview",
       "id": "will_will_finance_overview"
     },
@@ -1824,7 +1757,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 1,
       "norm_label": "resume",
       "id": "will_will_resume"
     },
@@ -1837,7 +1770,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "in all media",
       "id": "will_personal_resume_in_all_media"
     },
@@ -1850,7 +1783,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "enhancement payment system",
       "id": "will_personal_resume_enhancement_payment_system"
     },
@@ -1863,7 +1796,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "sprylms",
       "id": "will_personal_resume_sprylms"
     },
@@ -1876,7 +1809,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 26,
+      "community": 6,
       "norm_label": "seaban s.a",
       "id": "will_personal_resume_seaban_sa"
     },
@@ -1889,7 +1822,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 26,
+      "community": 6,
       "norm_label": "ag software",
       "id": "will_personal_resume_ag_software"
     },
@@ -1902,7 +1835,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 26,
+      "community": 6,
       "norm_label": "quoin inc",
       "id": "will_personal_resume_quoin_inc"
     },
@@ -1915,7 +1848,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 26,
+      "community": 0,
       "norm_label": "bupartech",
       "id": "will_personal_resume_bupartech"
     },
@@ -1928,7 +1861,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 26,
+      "community": 0,
       "norm_label": "banex / findesa",
       "id": "will_personal_resume_banex_findesa"
     },
@@ -1941,7 +1874,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "pluto tv paramount",
       "id": "will_personal_resume_pluto_tv_paramount"
     },
@@ -1954,7 +1887,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "typescript",
       "id": "will_personal_resume_typescript"
     },
@@ -1967,7 +1900,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "javascript",
       "id": "will_personal_resume_javascript"
     },
@@ -1980,7 +1913,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "golang",
       "id": "will_personal_resume_golang"
     },
@@ -1993,7 +1926,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "react.js",
       "id": "will_personal_resume_react"
     },
@@ -2006,7 +1939,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "node.js",
       "id": "will_personal_resume_nodejs"
     },
@@ -2019,7 +1952,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "express.js",
       "id": "will_personal_resume_expressjs"
     },
@@ -2032,7 +1965,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "mongodb",
       "id": "will_personal_resume_mongodb"
     },
@@ -2045,7 +1978,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 26,
+      "community": 6,
       "norm_label": "postgresql",
       "id": "will_personal_resume_postgresql"
     },
@@ -2058,7 +1991,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "aws",
       "id": "will_personal_resume_aws"
     },
@@ -2071,7 +2004,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "docker",
       "id": "will_personal_resume_docker"
     },
@@ -2084,7 +2017,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "kubernetes",
       "id": "will_personal_resume_kubernetes"
     },
@@ -2097,7 +2030,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "graphql",
       "id": "will_personal_resume_graphql"
     },
@@ -2110,7 +2043,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "grpc",
       "id": "will_personal_resume_grpc"
     },
@@ -2123,7 +2056,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 26,
+      "community": 6,
       "norm_label": "python",
       "id": "will_personal_resume_python"
     },
@@ -2136,7 +2069,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 26,
+      "community": 6,
       "norm_label": "django",
       "id": "will_personal_resume_django"
     },
@@ -2149,7 +2082,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 26,
+      "community": 6,
       "norm_label": "java",
       "id": "will_personal_resume_java"
     },
@@ -2162,7 +2095,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "nestjs",
       "id": "will_personal_resume_nestjs"
     },
@@ -2175,7 +2108,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "vue.js",
       "id": "will_personal_resume_vuejs"
     },
@@ -2188,7 +2121,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "angularjs",
       "id": "will_personal_resume_angularjs"
     },
@@ -2201,7 +2134,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "vuetify",
       "id": "will_personal_resume_vuetify"
     },
@@ -2214,7 +2147,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "redux",
       "id": "will_personal_resume_redux"
     },
@@ -2227,7 +2160,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 26,
+      "community": 6,
       "norm_label": "spring",
       "id": "will_personal_resume_spring"
     },
@@ -2240,7 +2173,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 26,
+      "community": 6,
       "norm_label": "mysql",
       "id": "will_personal_resume_mysql"
     },
@@ -2253,7 +2186,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 26,
+      "community": 6,
       "norm_label": "sybase",
       "id": "will_personal_resume_sybase"
     },
@@ -2266,7 +2199,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "datadog",
       "id": "will_personal_resume_datadog"
     },
@@ -2279,7 +2212,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "claudiajs",
       "id": "will_personal_resume_claudiajs"
     },
@@ -2292,7 +2225,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "video.js",
       "id": "will_personal_resume_videojs"
     },
@@ -2305,7 +2238,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "universidad nacional de ingenieria",
       "id": "will_personal_resume_universidad_nacional_de_ingenieria"
     },
@@ -2318,7 +2251,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "command center",
       "id": "will_personal_resume_command_center"
     },
@@ -2331,7 +2264,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "adtech platform",
       "id": "will_personal_resume_adtech_platform"
     },
@@ -2344,7 +2277,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "error reporting service",
       "id": "will_personal_resume_error_reporting_service"
     },
@@ -2357,7 +2290,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 0,
       "norm_label": "ad load configuration",
       "id": "will_personal_resume_ad_load_configuration"
     },
@@ -2370,7 +2303,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 26,
+      "community": 0,
       "norm_label": "cobis",
       "id": "will_personal_resume_cobis"
     },
@@ -2383,7 +2316,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 26,
+      "community": 6,
       "norm_label": "loan booking platform",
       "id": "will_personal_resume_loan_booking_platform"
     },
@@ -2396,9 +2329,281 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 4,
       "norm_label": "command center (enterprise platform)",
       "id": "clients_pluto_tv_paramount_command_center"
+    },
+    {
+      "label": "enableCommunityPlugins",
+      "file_type": "code",
+      "source_file": "will_personal/.obsidian/app.json",
+      "source_location": "L3",
+      "_origin": "ast",
+      "community": 19,
+      "norm_label": "enablecommunityplugins",
+      "id": "obsidian_app_enablecommunityplugins"
+    },
+    {
+      "label": "Ficohsa",
+      "file_type": "document",
+      "source_file": "will_personal/Companies/Ficohsa.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 3,
+      "norm_label": "ficohsa",
+      "id": "companies_ficohsa"
+    },
+    {
+      "label": "Finance Overview",
+      "file_type": "document",
+      "source_file": "will_personal/Finance Overview.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 3,
+      "norm_label": "finance overview",
+      "id": "finance_overview"
+    },
+    {
+      "label": "2026 (Finance Year Index)",
+      "file_type": "document",
+      "source_file": "will_personal/Finance/2026.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 3,
+      "norm_label": "2026 (finance year index)",
+      "id": "finance_2026"
+    },
+    {
+      "label": "Credit Cards",
+      "file_type": "document",
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Balances table is as of 2026-07-24 and already net of the two Visa payments recorded in the Payments table below it (2000 NIO + $100 on 2026-07-22, 2100 NIO on 2026-07-24), so the outstanding Visa figure reflects post-payment balance, not the pre-payment statement amount.",
+      "community": 3,
+      "norm_label": "credit cards",
+      "id": "finance_credit_cards"
+    },
+    {
+      "label": "Loans",
+      "file_type": "document",
+      "source_file": "will_personal/Finance/Loans.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 3,
+      "norm_label": "loans",
+      "id": "finance_loans"
+    },
+    {
+      "label": "Bill: Nacatamales (2026-07-25)",
+      "file_type": "document",
+      "source_file": "will_personal/Finance/_Inbox/Bill_2026-07-25_Nacatamales.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 2,
+      "norm_label": "bill: nacatamales (2026-07-25)",
+      "id": "_inbox_bill_2026_07_25_nacatamales"
+    },
+    {
+      "label": "Bill Template",
+      "file_type": "document",
+      "source_file": "will_personal/Finance/_Inbox/_Bill Template.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 2,
+      "norm_label": "bill template",
+      "id": "_inbox_bill_template"
+    },
+    {
+      "label": "Enhancement Payment System",
+      "file_type": "document",
+      "source_file": "will_personal/Projects/Enhancement Payment System.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "rationale": "Billed at $25/h x 8h x 5d = $1000/wk, invoiced via Payoneer every Friday and paid same day. A $20.79 withdrawal fee is deducted at withdrawal time, netting $979.21 per invoice; actual bank deposit was $980.00 because a leftover $0.79 Payoneer balance was folded into that withdrawal, not part of the invoice itself.",
+      "community": 3,
+      "norm_label": "enhancement payment system",
+      "id": "projects_enhancement_payment_system"
+    },
+    {
+      "label": "Fritoni",
+      "file_type": "document",
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 2,
+      "norm_label": "fritoni",
+      "id": "2026_2026_07_fritoni"
+    },
+    {
+      "label": "ECSA Uno Los Robles",
+      "file_type": "document",
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 2,
+      "norm_label": "ecsa uno los robles",
+      "id": "2026_2026_07_ecsa_uno_los_robles"
+    },
+    {
+      "label": "Cafeteria El Molino VI",
+      "file_type": "document",
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 2,
+      "norm_label": "cafeteria el molino vi",
+      "id": "2026_2026_07_cafeteria_el_molino_vi"
+    },
+    {
+      "label": "McDonald's Km 11.5 Carr. Masaya",
+      "file_type": "document",
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 2,
+      "norm_label": "mcdonald's km 11.5 carr. masaya",
+      "id": "2026_2026_07_mcdonalds_km_11_5_carr_masaya"
+    },
+    {
+      "label": "Tigo Recarga",
+      "file_type": "document",
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 2,
+      "norm_label": "tigo recarga",
+      "id": "2026_2026_07_tigo_recarga"
+    },
+    {
+      "label": "PriceSmart (Credit Card)",
+      "file_type": "document",
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 3,
+      "norm_label": "pricesmart (credit card)",
+      "id": "finance_credit_cards_pricesmart"
+    },
+    {
+      "label": "AMEX Black (Credit Card)",
+      "file_type": "document",
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 3,
+      "norm_label": "amex black (credit card)",
+      "id": "finance_credit_cards_amex_black"
+    },
+    {
+      "label": "Visa (Credit Card)",
+      "file_type": "document",
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 3,
+      "norm_label": "visa (credit card)",
+      "id": "finance_credit_cards_visa"
+    },
+    {
+      "label": "PriceSmart 8902 Purchase (2026-07-25)",
+      "file_type": "document",
+      "source_file": "will_personal/Finance/_Inbox/2026-07-25_PriceSmart-8902.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "_inbox_2026_07_25_pricesmart_8902",
+      "community": 2,
+      "norm_label": "pricesmart 8902 purchase (2026-07-25)"
+    },
+    {
+      "label": "PriceSmart Food Service Purchase (2026-07-25)",
+      "file_type": "document",
+      "source_file": "will_personal/Finance/_Inbox/2026-07-25_PriceSmart-Food-Service.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "_inbox_2026_07_25_pricesmart_food_service",
+      "community": 2,
+      "norm_label": "pricesmart food service purchase (2026-07-25)"
+    },
+    {
+      "label": "Amarce Coffee & Bakery - Food Order (2026-07-25)",
+      "file_type": "document",
+      "source_file": "will_personal/Finance/_Inbox/Bill_2026-07-25_AmarceCoffee1.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "_inbox_bill_2026_07_25_amarcecoffee1",
+      "community": 2,
+      "norm_label": "amarce coffee & bakery - food order (2026-07-25)"
+    },
+    {
+      "label": "Amarce Coffee & Bakery - Car Wash Combo (2026-07-25)",
+      "file_type": "document",
+      "source_file": "will_personal/Finance/_Inbox/Bill_2026-07-25_AmarceCoffee2.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "_inbox_bill_2026_07_25_amarcecoffee2",
+      "community": 2,
+      "norm_label": "amarce coffee & bakery - car wash combo (2026-07-25)"
     }
   ],
   "links": [
@@ -2415,12 +2620,12 @@
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L1",
+      "source_file": "will_personal/.obsidian/app.json",
+      "source_location": "L3",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "claude",
-      "target": "claude_claude_md"
+      "source": "obsidian_app",
+      "target": "obsidian_app_enablecommunityplugins"
     },
     {
       "relation": "contains",
@@ -2429,7 +2634,7 @@
       "source_location": "L9",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "claude_claude_md",
+      "source": "claude",
       "target": "claude_directory_structure"
     },
     {
@@ -2439,7 +2644,7 @@
       "source_location": "L46",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "claude_claude_md",
+      "source": "claude",
       "target": "claude_graphify_out"
     },
     {
@@ -2449,7 +2654,7 @@
       "source_location": "L28",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "claude_claude_md",
+      "source": "claude",
       "target": "claude_key_entities"
     },
     {
@@ -2459,7 +2664,7 @@
       "source_location": "L5",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "claude_claude_md",
+      "source": "claude",
       "target": "claude_what_this_repo_is"
     },
     {
@@ -2469,8 +2674,18 @@
       "source_location": "L54",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "claude_claude_md",
+      "source": "claude",
       "target": "claude_working_with_this_repo"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "companies_aluval_nicaragua"
     },
     {
       "relation": "contains",
@@ -2481,6 +2696,16 @@
       "confidence_score": 1.0,
       "source": "companies_aluval_nicaragua",
       "target": "companies_aluval_nicaragua_aluval"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance Overview.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_overview",
+      "target": "companies_aluval_nicaragua"
     },
     {
       "relation": "contains",
@@ -2508,9 +2733,59 @@
       "source_file": "will_personal/Companies/BAC.md",
       "source_location": "L11",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "companies_bac",
-      "target": "companies_bac_bac_banco_de_america_central",
-      "confidence_score": 1.0
+      "target": "companies_bac_bac_banco_de_america_central"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_credit_cards",
+      "target": "companies_bac"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_credit_cards_amex_black",
+      "target": "companies_bac"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_credit_cards_pricesmart",
+      "target": "companies_bac"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_credit_cards_visa",
+      "target": "companies_bac"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Loans.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_loans",
+      "target": "companies_bac"
     },
     {
       "relation": "contains",
@@ -2518,19 +2793,9 @@
       "source_file": "will_personal/Companies/BAC.md",
       "source_location": "L15",
       "weight": 1.0,
-      "source": "companies_bac_bac_banco_de_america_central",
-      "target": "companies_bac_links",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "will_personal/Companies/Enhancement Payment System.md",
-      "source_location": "L12",
-      "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "companies_enhancement_payment_system",
-      "target": "companies_enhancement_payment_system_enhancement_payment_system_eps"
+      "source": "companies_bac_bac_banco_de_america_central",
+      "target": "companies_bac_links"
     },
     {
       "relation": "contains",
@@ -2539,7 +2804,7 @@
       "source_location": "L16",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "companies_enhancement_payment_system_enhancement_payment_system_eps",
+      "source": "companies_enhancement_payment_system",
       "target": "companies_enhancement_payment_system_contact"
     },
     {
@@ -2549,7 +2814,7 @@
       "source_location": "L24",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "companies_enhancement_payment_system_enhancement_payment_system_eps",
+      "source": "companies_enhancement_payment_system",
       "target": "companies_enhancement_payment_system_links"
     },
     {
@@ -2559,7 +2824,7 @@
       "source_location": "L24",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "companies_enhancement_payment_system_enhancement_payment_system_eps",
+      "source": "companies_enhancement_payment_system",
       "target": "companies_enhancement_payment_system_payment_terms"
     },
     {
@@ -2569,8 +2834,18 @@
       "source_location": "L19",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "companies_enhancement_payment_system_enhancement_payment_system_eps",
+      "source": "companies_enhancement_payment_system",
       "target": "companies_enhancement_payment_system_projects"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "companies_in_all_media"
     },
     {
       "relation": "contains",
@@ -2581,6 +2856,16 @@
       "confidence_score": 1.0,
       "source": "companies_in_all_media",
       "target": "companies_in_all_media_in_all_media_coderfull_sa"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance Overview.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_overview",
+      "target": "companies_in_all_media"
     },
     {
       "relation": "contains",
@@ -2753,16 +3038,6 @@
       "target": "companies_pluto_tv_paramount_pluto_tv_paramount"
     },
     {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "will_personal/Companies/Vidrieria FMorales.md",
-      "source_location": "L8",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "companies_vidrieria_fmorales",
-      "target": "companies_vidrieria_fmorales_vidrieria_f_morales"
-    },
-    {
       "relation": "shares_data_with",
       "confidence": "INFERRED",
       "confidence_score": 0.85,
@@ -2770,7 +3045,7 @@
       "source_location": "lines 23-24 (both listed as SEM deployment sites)",
       "weight": 0.85,
       "source": "clients_aluval_aluval",
-      "target": "companies_vidrieria_fmorales_vidrieria_f_morales"
+      "target": "companies_vidrieria_fmorales"
     },
     {
       "relation": "contains",
@@ -2779,7 +3054,7 @@
       "source_location": "L12",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "companies_vidrieria_fmorales_vidrieria_f_morales",
+      "source": "companies_vidrieria_fmorales",
       "target": "companies_vidrieria_fmorales_crm"
     },
     {
@@ -2789,7 +3064,7 @@
       "source_location": "L15",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "companies_vidrieria_fmorales_vidrieria_f_morales",
+      "source": "companies_vidrieria_fmorales",
       "target": "companies_vidrieria_fmorales_links"
     },
     {
@@ -2799,7 +3074,7 @@
       "source_file": "will_personal/Clients/Vidrieria FMorales.md",
       "source_location": "line 6 (frontmatter crm: SEM); line 13 ([[SEM]] wikilink)",
       "weight": 1.0,
-      "source": "companies_vidrieria_fmorales_vidrieria_f_morales",
+      "source": "companies_vidrieria_fmorales",
       "target": "projects_sem_sem"
     },
     {
@@ -2809,7 +3084,7 @@
       "source_file": "will_personal/Clients/Vidrieria FMorales.md",
       "source_location": "line 16 ([[Will]] wikilink)",
       "weight": 1.0,
-      "source": "companies_vidrieria_fmorales_vidrieria_f_morales",
+      "source": "companies_vidrieria_fmorales",
       "target": "will_will"
     },
     {
@@ -2933,6 +3208,16 @@
       "target": "contacts_mike_gazlay_links"
     },
     {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "contacts_nielsis_mendoza"
+    },
+    {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "will_personal/Contacts/Nielsis Mendoza.md",
@@ -2941,6 +3226,16 @@
       "confidence_score": 1.0,
       "source": "contacts_nielsis_mendoza",
       "target": "contacts_nielsis_mendoza_nielsis_mendoza"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance Overview.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_overview",
+      "target": "contacts_nielsis_mendoza"
     },
     {
       "relation": "contains",
@@ -2963,6 +3258,16 @@
       "target": "contacts_taller_instalaciones_martinez_taller_instalaciones_martinez"
     },
     {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "contacts_taller_instalaciones_martinez_taller_instalaciones_martinez"
+    },
+    {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "will_personal/Contacts/Taller Instalaciones Martinez.md",
@@ -2973,6 +3278,16 @@
       "target": "contacts_taller_instalaciones_martinez_links"
     },
     {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance Overview.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_overview",
+      "target": "contacts_taller_instalaciones_martinez_taller_instalaciones_martinez"
+    },
+    {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "will_personal/Finance Overview.md",
@@ -2980,17 +3295,7 @@
       "weight": 1.0,
       "confidence_score": 1.0,
       "source": "will_personal_finance_overview",
-      "target": "will_personal_finance_overview_finance_overview"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "will_personal/Finance Overview.md",
-      "source_location": "L17",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "will_personal_finance_overview_finance_overview",
-      "target": "will_personal_finance_overview_income_sources"
+      "target": "finance_overview"
     },
     {
       "relation": "contains",
@@ -2999,38 +3304,48 @@
       "source_location": "L11",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "will_personal_finance_overview_finance_overview",
+      "source": "finance_overview",
       "target": "will_personal_finance_overview_workflow"
     },
     {
-      "relation": "semantically_similar_to",
-      "confidence": "INFERRED",
-      "confidence_score": 0.55,
-      "source_file": "will_personal/Finance/Finance Overview.md",
-      "source_location": null,
-      "weight": 0.55,
-      "source": "will_personal_finance_overview_finance_overview",
-      "target": "will_resume_resume"
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "will_personal/Finance Overview.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "finance_overview",
+      "target": "will_personal_finance_overview_income_sources"
     },
     {
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "will_personal/Finance/Finance Overview.md",
+      "source_file": "will_personal/Finance/2026/2026-07.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "will_personal_finance_overview_finance_overview",
-      "target": "work_in_all_media_in_all_media"
+      "source": "2026_2026_07",
+      "target": "2026_2026_07_cafeteria_el_molino_vi"
     },
     {
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "will_personal/Will.md",
+      "source_file": "will_personal/Finance/2026/2026-07.md",
       "source_location": null,
       "weight": 1.0,
-      "source": "will_will",
-      "target": "will_personal_finance_overview_finance_overview"
+      "source": "2026_2026_07",
+      "target": "2026_2026_07_ecsa_uno_los_robles"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "2026_2026_07_fritoni"
     },
     {
       "relation": "contains",
@@ -3041,6 +3356,96 @@
       "confidence_score": 1.0,
       "source": "2026_2026_07",
       "target": "2026_2026_07_july_2026"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "2026_2026_07_mcdonalds_km_11_5_carr_masaya"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "2026_2026_07_tigo_recarga"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "projects_enhancement_payment_system"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "will_personal/Finance/_Inbox/2026-07-25_PriceSmart-8902.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "_inbox_2026_07_25_pricesmart_8902",
+      "target": "2026_2026_07"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "will_personal/Finance/_Inbox/2026-07-25_PriceSmart-Food-Service.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "_inbox_2026_07_25_pricesmart_food_service",
+      "target": "2026_2026_07"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "will_personal/Finance/_Inbox/Bill_2026-07-25_AmarceCoffee1.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "_inbox_bill_2026_07_25_amarcecoffee1",
+      "target": "2026_2026_07"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "will_personal/Finance/_Inbox/Bill_2026-07-25_AmarceCoffee2.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "_inbox_bill_2026_07_25_amarcecoffee2",
+      "target": "2026_2026_07"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.3,
+      "source_file": "will_personal/Finance/_Inbox/Bill_2026-07-25_Nacatamales.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "_inbox_bill_2026_07_25_nacatamales",
+      "target": "2026_2026_07"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_2026",
+      "target": "2026_2026_07"
     },
     {
       "relation": "contains",
@@ -3073,6 +3478,16 @@
       "target": "2026_2026_07_notes"
     },
     {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Debts.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_debts",
+      "target": "finance_credit_cards"
+    },
+    {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "will_personal/Finance/Debts.md",
@@ -3083,14 +3498,34 @@
       "target": "finance_debts_debts"
     },
     {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Debts.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_debts",
+      "target": "finance_loans"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance Overview.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_overview",
+      "target": "finance_debts"
+    },
+    {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "will_personal/Finance/Debts.md",
       "source_location": "L17",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "finance_debts_debts",
-      "target": "finance_debts_credit_cards",
-      "confidence_score": 1.0
+      "target": "finance_debts_credit_cards"
     },
     {
       "relation": "contains",
@@ -3913,6 +4348,36 @@
       "target": "will_personal_resume_vuejs"
     },
     {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "will_personal/Will Martinez.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "will_personal_resume_william_donald_mart\u00ednez_avellan",
+      "target": "will_personal_will_martinez_finance"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "will_personal/Will Martinez.md",
+      "source_location": "L22",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "will_personal_resume_william_donald_mart\u00ednez_avellan",
+      "target": "will_personal_will_martinez_resume"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "will_personal/Will Martinez.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "will_personal_resume_william_donald_mart\u00ednez_avellan",
+      "target": "will_personal_will_martinez_work"
+    },
+    {
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
@@ -3921,6 +4386,16 @@
       "weight": 1.0,
       "source": "will_personal_resume_william_donald_mart\u00ednez_avellan",
       "target": "work_in_all_media_in_all_media"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "will_personal/Will Martinez.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "will_personal_will_martinez",
+      "target": "will_personal_resume_william_donald_mart\u00ednez_avellan"
     },
     {
       "relation": "contains",
@@ -4021,46 +4496,6 @@
       "confidence_score": 1.0,
       "source": "will_personal_resume_experience",
       "target": "will_personal_resume_sprylms_senior_software_engineer_frontend_technical_lead"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "will_personal/Will Martinez.md",
-      "source_location": "L11",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "will_personal_will_martinez",
-      "target": "will_personal_will_martinez_william_donald_martinez_avellan"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "will_personal/Will Martinez.md",
-      "source_location": "L19",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "will_personal_will_martinez_william_donald_martinez_avellan",
-      "target": "will_personal_will_martinez_finance"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "will_personal/Will Martinez.md",
-      "source_location": "L22",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "will_personal_will_martinez_william_donald_martinez_avellan",
-      "target": "will_personal_will_martinez_resume"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "will_personal/Will Martinez.md",
-      "source_location": "L15",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "will_personal_will_martinez_william_donald_martinez_avellan",
-      "target": "will_personal_will_martinez_work"
     },
     {
       "relation": "contains",
@@ -4357,6 +4792,16 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "will_personal/Will.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "will_will",
+      "target": "finance_overview"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Will.md",
       "source_location": "line 15 ([[Marco ERP]] wikilink, active build)",
       "weight": 1.0,
       "source": "will_will",
@@ -4426,6 +4871,16 @@
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Finance Overview.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_overview",
+      "target": "work_in_all_media_in_all_media"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
       "source_file": "will_personal/Resume.md",
       "source_location": null,
       "weight": 1.0,
@@ -4471,6 +4926,16 @@
       "weight": 1.0,
       "source": "will_resume_resume",
       "target": "work_enhancement_payment_system_enhancement_payment_system"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.55,
+      "source_file": "will_personal/Finance/Finance Overview.md",
+      "source_location": null,
+      "weight": 0.55,
+      "source": "finance_overview",
+      "target": "will_resume_resume"
     },
     {
       "relation": "references",
@@ -4921,22 +5386,168 @@
       "weight": 1.0,
       "source": "will_personal_resume_adtech_platform",
       "target": "will_personal_resume_error_reporting_service"
-    }
-  ],
-  "hyperedges": [
+    },
     {
-      "id": "command_center_engagement",
-      "label": "Command Center Enterprise Platform Engagement",
-      "nodes": [
-        "clients_pluto_tv_paramount_pluto_tv_paramount",
-        "work_in_all_media_in_all_media",
-        "resume_william_donald_martinez_avellan",
-        "clients_pluto_tv_paramount_command_center"
-      ],
-      "relation": "participate_in",
+      "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "will_personal/Clients/Pluto TV Paramount.md"
+      "source_file": "will_personal/Companies/Ficohsa.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "companies_ficohsa",
+      "target": "finance_loans"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_2026",
+      "target": "finance_overview"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance Overview.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_overview",
+      "target": "_inbox_bill_template"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance Overview.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_overview",
+      "target": "finance_credit_cards"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance Overview.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_overview",
+      "target": "finance_loans"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance Overview.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_overview",
+      "target": "projects_enhancement_payment_system"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_credit_cards",
+      "target": "finance_credit_cards_amex_black"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_credit_cards",
+      "target": "finance_credit_cards_pricesmart"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_credit_cards",
+      "target": "finance_credit_cards_visa"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "will_personal/Finance/_Inbox/Bill_2026-07-25_Nacatamales.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "_inbox_bill_2026_07_25_nacatamales",
+      "target": "_inbox_bill_template"
+    },
+    {
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "will_personal/Finance/_Inbox/2026-07-25_PriceSmart-8902.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "_inbox_2026_07_25_pricesmart_8902",
+      "target": "_inbox_bill_template"
+    },
+    {
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "will_personal/Finance/_Inbox/2026-07-25_PriceSmart-Food-Service.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "_inbox_2026_07_25_pricesmart_food_service",
+      "target": "_inbox_bill_template"
+    },
+    {
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "will_personal/Finance/_Inbox/Bill_2026-07-25_AmarceCoffee1.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "_inbox_bill_2026_07_25_amarcecoffee1",
+      "target": "_inbox_bill_template"
+    },
+    {
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "will_personal/Finance/_Inbox/Bill_2026-07-25_AmarceCoffee2.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "_inbox_bill_2026_07_25_amarcecoffee2",
+      "target": "_inbox_bill_template"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "will_personal/Finance/_Inbox/2026-07-25_PriceSmart-8902.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "_inbox_2026_07_25_pricesmart_8902",
+      "target": "_inbox_2026_07_25_pricesmart_food_service"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "will_personal/Finance/_Inbox/Bill_2026-07-25_AmarceCoffee1.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "_inbox_bill_2026_07_25_amarcecoffee1",
+      "target": "_inbox_bill_2026_07_25_amarcecoffee2"
     }
-  ]
+  ],
+  "hyperedges": [],
+  "built_at_commit": "68210266abb0446a058b31212a14866580fcf416"
 }
