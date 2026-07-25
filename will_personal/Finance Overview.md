@@ -6,8 +6,13 @@ tags:
 
 # Finance Overview
 
-Monthly snapshots: [[Finance/2026]]
+Monthly snapshots: [[Finance/2026]] — full year, list of months with detail
 Loans / liabilities: [[Debts]]
+
+## Debts at a glance
+- Loans: 6 open, **$35,093.63** — detail: [[Loans]]
+- Credit Cards: 3 open (BAC), **$5,254.89 / NIO 577,757.32** — detail: [[Credit Cards]]
+- **Total debt: $40,348.52**
 
 ## Workflow
 
