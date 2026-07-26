@@ -11,8 +11,8 @@ Loans / liabilities: [[Debts]]
 
 ## Debts at a glance
 - Loans: 8 open, **$45,000.08** (pending exact capital on wife's BAC car loan; AVANZ is estimated) — detail: [[Loans]]
-- Credit Cards: 5 open (3 BAC, 1 Ficohsa, 1 Lafise), **$13,848.96 / NIO 983,607.51** (net of today's payments) — detail: [[Credit Cards]]
-- **Total debt: $58,849.04**
+- Credit Cards: 5 open (3 BAC, 1 Ficohsa, 1 Lafise), $13,848.96 USD + NIO 992,598.11 (net of today's payments and charges) — detail: [[Credit Cards]]
+- **Total debt (consolidated USD): $85,951.21** (NIO converted @ 36.6243 BCN official rate) — detail: [[Debts]]
 
 ## Workflow
 
