@@ -290,9 +290,9 @@
     "semantic_hash": "830f324989c0784e9e03faadb40d7bf1"
   },
   "/home/william/kg-will/will_personal/Finance Overview.md": {
-    "mtime": 1784955965.855912,
-    "ast_hash": "47be3c4c68946d706fc844493c6d2ec8",
-    "semantic_hash": "47be3c4c68946d706fc844493c6d2ec8"
+    "mtime": 1785025061.224207,
+    "ast_hash": "dd41dc561ab8d2429c28d62bf72647c5",
+    "semantic_hash": "dd41dc561ab8d2429c28d62bf72647c5"
   },
   "/home/william/kg-will/will_personal/Finance/2026.md": {
     "mtime": 1784956304.7425659,
@@ -300,29 +300,24 @@
     "semantic_hash": "8059ff140001c107136e0e02f4d39e48"
   },
   "/home/william/kg-will/will_personal/Finance/2026/2026-07.md": {
-    "mtime": 1785019462.6498845,
-    "ast_hash": "edffa166bc2d0fa7bd5c3b04024e6c91",
-    "semantic_hash": "edffa166bc2d0fa7bd5c3b04024e6c91"
+    "mtime": 1785025069.9314551,
+    "ast_hash": "0cdb8fcbe4dc18560341ae0ea29f6f59",
+    "semantic_hash": "0cdb8fcbe4dc18560341ae0ea29f6f59"
   },
   "/home/william/kg-will/will_personal/Finance/Credit Cards.md": {
-    "mtime": 1784927623.7568953,
-    "ast_hash": "89e0dbe266bdcb561a78cc07e0d6df31",
-    "semantic_hash": "89e0dbe266bdcb561a78cc07e0d6df31"
+    "mtime": 1785025039.4815872,
+    "ast_hash": "892446b9cb36dc008fe6b8d60398ec2a",
+    "semantic_hash": "892446b9cb36dc008fe6b8d60398ec2a"
   },
   "/home/william/kg-will/will_personal/Finance/Debts.md": {
-    "mtime": 1784936061.9152389,
-    "ast_hash": "a7aa3e9ccbae161a2471d8b2087e69b1",
-    "semantic_hash": "a7aa3e9ccbae161a2471d8b2087e69b1"
+    "mtime": 1785025054.8740258,
+    "ast_hash": "d5f0f870595a995a5f71e5448cf71d50",
+    "semantic_hash": "d5f0f870595a995a5f71e5448cf71d50"
   },
   "/home/william/kg-will/will_personal/Finance/Loans.md": {
-    "mtime": 1784936058.5901651,
-    "ast_hash": "ca642018e51b2685e7bce1cb23adbe40",
-    "semantic_hash": "ca642018e51b2685e7bce1cb23adbe40"
-  },
-  "/home/william/kg-will/will_personal/Finance/_Inbox/Bill_2026-07-25_Nacatamales.md": {
-    "mtime": 1784997320.7904012,
-    "ast_hash": "3b1c3c3c8664c6f2056106ae7ba75f98",
-    "semantic_hash": "3b1c3c3c8664c6f2056106ae7ba75f98"
+    "mtime": 1785022754.31478,
+    "ast_hash": "0ac4530e8715591a6d7b866ab1353f7c",
+    "semantic_hash": "0ac4530e8715591a6d7b866ab1353f7c"
   },
   "/home/william/kg-will/will_personal/Finance/_Inbox/_Bill Template.md": {
     "mtime": 1784955792.5886831,
@@ -405,28 +400,23 @@
     "semantic_hash": "0437f035676bba20c150c2d7e44841fc"
   },
   "/home/william/kg-will/will_personal/.obsidian/workspace.json": {
-    "mtime": 1785019583.9983506,
-    "ast_hash": "0528a172136d1d223d3027bacaf10c3f",
-    "semantic_hash": "0528a172136d1d223d3027bacaf10c3f"
+    "mtime": 1785025070.9344838,
+    "ast_hash": "c3a3b1e74ce4cb2d5412034ffa058e5a",
+    "semantic_hash": "c3a3b1e74ce4cb2d5412034ffa058e5a"
   },
-  "/home/william/kg-will/will_personal/Finance/_Inbox/2026-07-25_PriceSmart-8902.md": {
-    "mtime": 1785019374.0958178,
-    "ast_hash": "c45482b830cb81b79117c927b627da49",
-    "semantic_hash": "c45482b830cb81b79117c927b627da49"
+  "/home/william/kg-will/will_personal/Companies/AVANZ.md": {
+    "mtime": 1785022911.0458,
+    "ast_hash": "d7f87ccf34242c6d08990ea3bfa33ee2",
+    "semantic_hash": "d7f87ccf34242c6d08990ea3bfa33ee2"
   },
-  "/home/william/kg-will/will_personal/Finance/_Inbox/2026-07-25_PriceSmart-Food-Service.md": {
-    "mtime": 1785019374.096818,
-    "ast_hash": "13b6b9fe869a82c2227279e929720344",
-    "semantic_hash": "13b6b9fe869a82c2227279e929720344"
+  "/home/william/kg-will/will_personal/Companies/Lafise.md": {
+    "mtime": 1785022906.2776694,
+    "ast_hash": "5e17992af8ae497af02e812e045d7748",
+    "semantic_hash": "5e17992af8ae497af02e812e045d7748"
   },
-  "/home/william/kg-will/will_personal/Finance/_Inbox/Bill_2026-07-25_AmarceCoffee1.md": {
-    "mtime": 1785019374.098818,
-    "ast_hash": "fb7c6df4a33c9f80b6de4ba10f217d01",
-    "semantic_hash": "fb7c6df4a33c9f80b6de4ba10f217d01"
-  },
-  "/home/william/kg-will/will_personal/Finance/_Inbox/Bill_2026-07-25_AmarceCoffee2.md": {
-    "mtime": 1785019374.101818,
-    "ast_hash": "e01e81badcce2283297136cd7db9c880",
-    "semantic_hash": "e01e81badcce2283297136cd7db9c880"
+  "/home/william/kg-will/will_personal/Contacts/Andres Cornejo.md": {
+    "mtime": 1785023928.6424732,
+    "ast_hash": "c4a72c3aacdde640326e2f5ee8e3a3c2",
+    "semantic_hash": "c4a72c3aacdde640326e2f5ee8e3a3c2"
   }
 }
