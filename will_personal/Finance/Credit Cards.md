@@ -9,7 +9,7 @@ tags:
 
 | Creditor | Card | Current Debt (NIO) | Current Debt (USD) | Min Payment (NIO) | Min Payment (USD) | APR (NIO) | APR (USD) | Max Payment Date | Status |
 |---|---|---|---|---|---|---|---|---|---|
-| [[BAC]] | PriceSmart | 102658.88 | 0.11 | 6798.00 | 11.00 | 45% | 20.04% | 2026-08-19 | open |
+| [[BAC]] | PriceSmart | 102658.88 | 0.00 | 6798.00 | 11.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[BAC]] | AMEX Black | 264281.86 | 4774.47 | 16248.00 | 202.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[BAC]] | Visa | 170161.18 | 100.03 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[Ficohsa]] | (unnamed) | 311917.34 | 4616.62 | 20218.46 | 234.43 | 39% | 19.8% | 2026-08-11 | open |
@@ -41,3 +41,4 @@ tags:
 - 2026-07-25: applied all logged payments to date (Visa $116.94, AMEX $202.00, PriceSmart NIO 6798/$61.34, Lafise NIO 11000/$230) directly against Current Debt above — real-time balance, not yet bank-confirmed via next statement.
 - 2026-07-25: applied new charges above (bills paid via card, increasing balance) directly against Current Debt — AMEX +NIO 8,110.89 (electricity + internet), PriceSmart +NIO 879.71 (cable).
 - NIO and USD are independent sub-balances per card (not a currency conversion of each other) — pay down separately.
+- 2026-07-25: PriceSmart USD $0.11 was bonificable interest (waived) — full USD debt paid, bank reverts this residual, set to $0.00.
