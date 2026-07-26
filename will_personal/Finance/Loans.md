@@ -13,9 +13,10 @@ tags:
 | [[BAC]]     | 008781001        | 297.70             | 112.71             | 2026-07-27       | open   |
 | [[BAC]]     | 010255001        | 3414.28            | 117.92             | 2026-08-03       | open   |
 | [[BAC]]     | 011195771        | 6623.61            | 312.78             | 2026-08-12       | open   |
-| [[Ficohsa]] | 0000044006       | 15638.78           | 565.28             | 2026-07-26       | open   |
-| [[Ficohsa]] | 2211             | 6579.93            | 592.34             | 2026-08-02       | open   |
+| [[Ficohsa]] | 0000044006       | 15338.11           | 565.28             | 2026-07-26       | open   |
+| [[Ficohsa]] | 2211             | 5983.59            | 592.34             | 2026-08-02       | open   |
 | [[BAC]]     | (car loan, wife) | 4509.68            | 300.00             | 2026-10-25       | open   |
+| [[AVANZ]]   | (loan, wife)     | 7031.67            | 490.82             | 2026-08-16       | open   |
 
 ## Payment History
 
@@ -43,10 +44,12 @@ tags:
 ### Ficohsa 0000044006
 | Date | Paid (USD) | Due (USD) | Capital (USD) | Balance After (USD) |
 |---|---|---|---|---|
+| 2026-07-25 | 565.28 | 565.28 | 300.67 (corrected, per Ficohsa site) | 15338.11 |
 
 ### Ficohsa 2211
 | Date | Paid (USD) | Due (USD) | Capital (USD) | Balance After (USD) |
 |---|---|---|---|---|
+| 2026-07-25 | 592.34 | 592.34 | 596.34 (calc.) | 5983.59 (per Ficohsa site) — $4.00 gap between payment and balance drop, unexplained |
 
 ### BAC (car loan, wife)
 $300/mo payment, ~$184.25 capital + ~$115.75 interest per payment (approx, pending actual per-payment confirmation).
@@ -54,5 +57,10 @@ $300/mo payment, ~$184.25 capital + ~$115.75 interest per payment (approx, pendi
 | Date | Paid (USD) | Due (USD) | Capital (USD) | Balance After (USD) |
 |---|---|---|---|---|
 | 2026-07-25 | 300.00 | 300.00 | 200.00 (placeholder, pending exact) | 4509.68 (pending) |
+
+### AVANZ (loan, wife)
+| Date | Paid (USD) | Due (USD) | Capital (USD) | Balance After (USD) |
+|---|---|---|---|---|
+| 2026-07-25 | 1200.00 (Will $500 + wife $700) | 490.82 | 1043.15 (est., ~1.9424%/mo implied rate) | 7031.67 (est.) |
 
 ## Notes

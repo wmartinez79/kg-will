@@ -9,7 +9,7 @@ tags:
 Summary of liabilities. Detail in category files.
 
 ## Categories
-- [[Loans]] — 7 open, total $38,865.42 (pending exact capital on wife's car loan)
-- [[Credit Cards]] — 3 open (BAC), total $5,254.89 / NIO 577,757.32
+- [[Loans]] — 8 open, total $45,000.08 (pending exact capital on wife's BAC car loan; AVANZ is estimated)
+- [[Credit Cards]] — 5 open (3 BAC, 1 Ficohsa, 1 Lafise), total $13,848.96 / NIO 983,607.51 (net of today's payments)
 
 ## Notes

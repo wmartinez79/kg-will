@@ -10,9 +10,9 @@ Monthly snapshots: [[Finance/2026]] — full year, list of months with detail
 Loans / liabilities: [[Debts]]
 
 ## Debts at a glance
-- Loans: 6 open, **$35,093.63** — detail: [[Loans]]
-- Credit Cards: 3 open (BAC), **$5,254.89 / NIO 577,757.32** — detail: [[Credit Cards]]
-- **Total debt: $40,348.52**
+- Loans: 8 open, **$45,000.08** (pending exact capital on wife's BAC car loan; AVANZ is estimated) — detail: [[Loans]]
+- Credit Cards: 5 open (3 BAC, 1 Ficohsa, 1 Lafise), **$13,848.96 / NIO 983,607.51** (net of today's payments) — detail: [[Credit Cards]]
+- **Total debt: $58,849.04**
 
 ## Workflow
 
