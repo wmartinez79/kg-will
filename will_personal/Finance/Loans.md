@@ -13,7 +13,7 @@ tags:
 | [[BAC]]     | 008781001        | 297.70             | 112.71             | 16.2%               | 2026-07-27       | open   |
 | [[BAC]]     | 010255001        | 3414.28            | 117.92             | 16.2%               | 2026-08-03       | open   |
 | [[BAC]]     | 011195771        | 6623.61            | 312.78             | 16.92%              | 2026-08-12       | open   |
-| [[Ficohsa]] | 0000044006       | 15338.11           | 565.28             | ~20.3% (est.)       | 2026-07-26       | open   |
+| [[Ficohsa]] | 0000044006       | 15338.11           | 565.28             | 18.62%              | 2026-07-26       | open   |
 | [[Ficohsa]] | 2211             | 5983.59            | 592.34             | unclear (~20% est.) | 2026-08-02       | open   |
 | [[BAC]]     | (car loan, wife) | 4509.68            | 300.00              | 10.5%               | 2026-10-25       | open   |
 | [[AVANZ]]   | (loan, wife)     | 7031.67            | 490.82             | ~23.3% (est.)       | 2026-08-16       | open   |
@@ -42,14 +42,20 @@ tags:
 | 2026-07-25 | 320.00 | 312.78 | 216.51 | 6623.61 |
 
 ### Ficohsa 0000044006
-| Date | Paid (USD) | Due (USD) | Capital (USD) | Balance After (USD) |
-|---|---|---|---|---|
-| 2026-07-25 | 565.28 | 565.28 | 300.67 (corrected, per Ficohsa site) | 15338.11 |
+| Date | Paid (USD) | Due (USD) | Capital (USD) | Interest (USD) | Insurance (USD) | Balance After (USD) |
+|---|---|---|---|---|---|---|
+| 2026-07-25 | 565.28 | 565.28 | 289.88 | 245.40 | 30.00 | 15338.11 |
+
+Reconciles cleanly (289.88+245.40+30.00 = 565.28). Implied monthly rate: 245.40 / (15338.11+289.88) = ~1.57%/mo → ~18.85% APR, consistent with the confirmed 18.62% rate.
 
 ### Ficohsa 2211
 | Date | Paid (USD) | Due (USD) | Capital (USD) | Balance After (USD) |
 |---|---|---|---|---|
 | 2026-07-25 | 592.34 | 592.34 | 596.34 (calc.) | 5983.59 (per Ficohsa site) — $4.00 gap between payment and balance drop, unexplained |
+
+**Historical reference (Dec 2025 statement, balance unknown — cannot derive current APR from this alone):**
+Cuota $605.36 = capital $394.36 + interest $175.77 + otros cargos (seguro) $8.33 → sums to $578.46, still $26.90 short of the $605.36 cuota, unexplained. Confirms cuota has a 3rd component (insurance) beyond capital+interest, which is likely the real source of the $4 gap noted above on 2026-07-25 — not a full explanation on its own since the numbers still don't fully reconcile.
+Rate remains **unclear/~20% est.** — need a statement with the outstanding balance alongside the interest charge to compute the real APR.
 
 ### BAC (car loan, wife)
 $300/mo payment, ~$184.25 capital + ~$115.75 interest per payment (approx, pending actual per-payment confirmation).
@@ -64,3 +70,4 @@ $300/mo payment, ~$184.25 capital + ~$115.75 interest per payment (approx, pendi
 | 2026-07-25 | 1200.00 (Will $500 + wife $700) | 490.82 | 1043.15 (est., ~1.9424%/mo implied rate) | 7031.67 (est.) |
 
 ## Notes
+- AVANZ is a top payoff priority by family agreement (not purely rate-driven) — treat as Tier 1 alongside the highest-rate NIO credit card balances, even though its ~23.3% est. rate is below BAC/Ficohsa/Lafise NIO card rates (45%/39%/35%).
