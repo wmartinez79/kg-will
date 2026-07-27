@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "will_personal/Finance/2026/2026-07.md",
+                "file": "will_personal/Finance/Loans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07"
+              "title": "Loans"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:finance",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -100,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "8606b0c7c1afb04d",
@@ -170,6 +170,8 @@
   },
   "active": "9c81d0612770d4e0",
   "lastOpenFiles": [
+    "will_personal/Finance/Credit Cards.md",
+    "will_personal/Finance/2026/2026-07.md",
     "will_personal/Finance/2026.md",
     "will_personal/Finance Overview.md"
   ]
