@@ -26,4 +26,5 @@ Running log of food expenses across months. Month summary: [[2026-07|July 2026]]
 | 2026-07-27 | Lunch David (cash) | 6.28 | 230.00 | paid |
 | 2026-07-27 | PedidosYa*Market | 14.89 | 545.50 | paid |
 | 2026-07-27 | PedidosYa*Propina | 0.41 | 15.00 | paid |
-| **Total** | | **412.63** | **15,108.51** | |
+| 2026-07-27 | PedidosYa*Chicharron T | 8.35 | 306.00 | paid |
+| **Total** | | **420.98** | **15,414.51** | |

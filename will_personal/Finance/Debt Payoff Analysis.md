@@ -31,7 +31,7 @@ Hybrid **avalanche** (highest interest rate first) with a **quick-win sweep** up
 ## Payoff order
 
 **Tier 0 — Quick-win sweep** (do immediately, in parallel with everything below)
-1. BAC Visa CC (USD) — $100.03 @ 20.04% — near zero, clear it
+1. ~~BAC Visa CC (USD) — $100.03 @ 20.04%~~ — **done 2026-07-27**, confirmed $0.00 via online banking, ahead of the 08-01 target
 2. BAC loan 008781001 — $297.70 @ 16.2% — lowest-balance loan, frees $112.71/mo minimum
 
 **Tier 1 — Top priority: AVANZ (family agreement) + worst-rate NIO credit cards**
@@ -73,7 +73,6 @@ USD column converts NIO balances @ 36.6243 (BCN official rate); USD-denominated 
 |---|---|---|---|
 | 2026-08-01 (Sat) | Ficohsa min payment (USD) | $234.43 | EPS income |
 | 2026-08-01 (Sat) | Ficohsa min payment (NIO, partial) | NIO 5,000.00 (of 20,218.46 min due) | EPS income |
-| 2026-08-01 (Sat) | Visa current debt (USD), paid in full | $100.03 | cash on hand |
 | 2026-08-08 (Sat) | Ficohsa min payment (NIO, remainder) | NIO 15,218.46 | EPS income |
 | 2026-08-08 (Sat) | Visa — pay down accumulated charges from the week | TBD (accrues 08/01–08/08) | EPS income |
 | 2026-07-27 (Mon) | BAC loan 008781001 (Tier 0 #2, $297.70 @ 16.2%), extra paydown | $120.00 | [[Taller Instalaciones Martinez]] income |
@@ -83,7 +82,7 @@ Notes:
 - Going forward, BAC Visa is the primary card for day-to-day personal/family expenses (Will's wife and two older children hold additional cards on the same Visa account) — Visa balance will keep accumulating between EPS paydays and needs a standing payoff step each cycle.
 
 ### Review against tier strategy
-- **Visa USD payoff (08-01, $100.03) is exactly right** — it's Tier 0 item #1, the quick-win sweep. Good execution, zero conflict with strategy.
+- **Visa USD payoff done 2026-07-27, ahead of the 08-01 target** — Tier 0 item #1 closed at $0.00, confirmed via online banking. Good execution, zero conflict with strategy.
 - **Ficohsa min payments (both legs) are mandatory upkeep, not discretionary paydown** — correct to send only the minimum here. Ficohsa CC sits at Tier 1 #7 (NIO) and Tier 2 #11 (USD), both behind AVANZ and the three BAC NIO cards; no extra cash should go to Ficohsa beyond the minimum until those higher-tier items are cleared.
 - **Tier 0 item #2 (BAC loan 008781001, $297.70 @ 16.2%) now covered** — $120 from Taller Instalaciones Martinez on 07/27 chips it down to ~$177.70. Right target: exactly the other quick win, frees $112.71/mo of minimum-payment cash flow once fully cleared.
 - **AVANZ (Tier 1 #3) is ongoing per family agreement, outside this plan** — keep its payments going, don't let it slip while attention is on Visa/Ficohsa.
