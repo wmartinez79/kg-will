@@ -1,0 +1,17 @@
+---
+tags:
+  - finance
+  - expenses
+  - category
+category: health
+---
+
+# Health
+
+Running log of health expenses across months. Month summary: [[2026-07|July 2026]].
+
+## 2026-07
+| Date | Item | Amount (USD) | Amount (NIO) | Status |
+|---|---|---|---|---|
+| 2026-07-26 | Starbien supplement | 33.88 | 1,240.00 | paid |
+| **Total** | | **33.88** | **1,240.00** | |
