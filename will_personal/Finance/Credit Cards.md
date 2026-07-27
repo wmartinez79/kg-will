@@ -40,6 +40,8 @@ tags:
 | 2026-07-26 | Visa | 15.00 |  | PedidosYa*Propina |
 | 2026-07-26 | Visa | 1368.10 |  | Dim Sum Esquipulas KM (card ...3364) |
 
+Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and execution in one place.
+
 ## Notes
 - 2026-07-26: BAC card ending 8848 identified as the BAC Visa card above; card ...3364 confirmed as an additional card on the same Visa account.
 - 2026-07-26: applied PedidosYa (NIO 564.00) + Dim Sum (NIO 1,368.10) charges above directly against Visa Current Debt, total +NIO 1,932.10.
