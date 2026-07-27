@@ -11,7 +11,7 @@ tags:
 |---|---|---|---|---|---|---|---|---|---|
 | [[BAC]] | PriceSmart | 102658.88 | 0.00 | 6798.00 | 11.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[BAC]] | AMEX Black | 264281.86 | 4774.47 | 16248.00 | 202.00 | 45% | 20.04% | 2026-08-19 | open |
-| [[BAC]] | Visa (...8848, ...3364 additional) | 178435.78 | 0.00 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
+| [[BAC]] | Visa (...8848, ...3364, ...7910 additional) | 188873.71 | 0.00 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[Ficohsa]] | (unnamed) | 311917.34 | 4616.62 | 20218.46 | 234.43 | 39% | 19.8% | 2026-08-11 | open |
 | [[Lafise]] | Lafise Bancentro | 143578.85 | 4357.73 | 9324.00 | 226.00 | 35% | 19% | 2026-08-04 | open |
 
@@ -46,6 +46,7 @@ tags:
 | 2026-07-27 | Visa | 8941.00 |  | Colegio Centroamerica (David's school) |
 | 2026-07-27 | Visa | 306.00 |  | PedidosYa*Chicharron T |
 | 2026-07-27 | Visa | 15.00 |  | PedidosYa*Propina |
+| 2026-07-27 | Visa | 10437.93 |  | Keiser University (Xochilt Alexandra, card ...7910) |
 
 Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and execution in one place.
 
