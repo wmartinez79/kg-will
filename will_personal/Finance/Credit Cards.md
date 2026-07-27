@@ -11,7 +11,7 @@ tags:
 |---|---|---|---|---|---|---|---|---|---|
 | [[BAC]] | PriceSmart | 102658.88 | 0.00 | 6798.00 | 11.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[BAC]] | AMEX Black | 264281.86 | 4774.47 | 16248.00 | 202.00 | 45% | 20.04% | 2026-08-19 | open |
-| [[BAC]] | Visa (...8848) | 170725.18 | 100.03 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
+| [[BAC]] | Visa (...8848, ...3364 additional) | 172093.28 | 100.03 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[Ficohsa]] | (unnamed) | 311917.34 | 4616.62 | 20218.46 | 234.43 | 39% | 19.8% | 2026-08-11 | open |
 | [[Lafise]] | Lafise Bancentro | 143578.85 | 4357.73 | 9324.00 | 226.00 | 35% | 19% | 2026-08-04 | open |
 
@@ -38,11 +38,11 @@ tags:
 | 2026-07-25 | PriceSmart | 879.71 |  | Tia Margarita Cable |
 | 2026-07-26 | Visa | 549.00 |  | PedidosYa*La Churreria |
 | 2026-07-26 | Visa | 15.00 |  | PedidosYa*Propina |
+| 2026-07-26 | Visa | 1368.10 |  | Dim Sum Esquipulas KM (card ...3364) |
 
 ## Notes
-- 2026-07-26: BAC card ending 8848 identified as the BAC Visa card above.
-- 2026-07-26: applied PedidosYa charges above (NIO 549.00 + 15.00 = 564.00) directly against Visa Current Debt.
-- 2026-07-26: Dim Sum Esquipulas bill (2026-07-26, $37.35 / NIO 1,368.10) used "Tarjeta adicional BAC 3364" — not yet matched to a tracked card/row. Not applied to any balance above. Need ID: which BAC card is 3364?
+- 2026-07-26: BAC card ending 8848 identified as the BAC Visa card above; card ...3364 confirmed as an additional card on the same Visa account.
+- 2026-07-26: applied PedidosYa (NIO 564.00) + Dim Sum (NIO 1,368.10) charges above directly against Visa Current Debt, total +NIO 1,932.10.
 - 2026-07-25: applied all logged payments to date (Visa $116.94, AMEX $202.00, PriceSmart NIO 6798/$61.34, Lafise NIO 11000/$230) directly against Current Debt above — real-time balance, not yet bank-confirmed via next statement.
 - 2026-07-25: applied new charges above (bills paid via card, increasing balance) directly against Current Debt — AMEX +NIO 8,110.89 (electricity + internet), PriceSmart +NIO 879.71 (cable).
 - NIO and USD are independent sub-balances per card (not a currency conversion of each other) — pay down separately.
