@@ -23,4 +23,7 @@ Running log of food expenses across months. Month summary: [[2026-07|July 2026]]
 | 2026-07-26 | Dim Sum Esquipulas KM | 37.35 | 1,368.10 | paid |
 | 2026-07-26 | PedidosYa*La Churreria | 14.99 | 549.00 | paid |
 | 2026-07-26 | PedidosYa*Propina | 0.41 | 15.00 | paid |
-| **Total** | | **390.64** | **14,318.51** | |
+| 2026-07-27 | Lunch David (cash) | 6.28 | 230.00 | paid |
+| 2026-07-27 | PedidosYa*Market | 14.89 | 545.50 | paid |
+| 2026-07-27 | PedidosYa*Propina | 0.41 | 15.00 | paid |
+| **Total** | | **412.63** | **15,108.51** | |

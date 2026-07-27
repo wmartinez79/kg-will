@@ -14,4 +14,5 @@ Running log of health expenses across months. Month summary: [[2026-07|July 2026
 | Date | Item | Amount (USD) | Amount (NIO) | Status |
 |---|---|---|---|---|
 | 2026-07-26 | Starbien supplement | 33.88 | 1,240.00 | paid |
-| **Total** | | **33.88** | **1,240.00** | |
+| 2026-07-27 | Hospital Vivian Pellas | 6.01 | 220.00 | paid |
+| **Total** | | **39.89** | **1,460.00** | |
