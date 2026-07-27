@@ -15,7 +15,7 @@ Track for house projects: work, cost, status.
 
 ### 1. Muro final lateral derecho
 - Status: planned
-- Cost: NIO 7,674.00 est. (Todo Materiales quote #189997, NIO 5,984.00 + piedra cantera NIO 1,690.00 est. @ NIO 65/stone; excludes labor)
+- Cost: NIO 7,674.00 est. (Todo Materiales quote #189997 NIO 5,984.00 + piedra cantera NIO 1,690.00 est. @ NIO 65/stone; formaleta boards bought separately, cost TBD; excludes labor)
 - Contractor:
 - Dims: 3.35m width x 2.60m height
 - Structure: 2 columns (0.20x0.20m, full height), 3 beams (bottom/mid/top, 0.20x0.20m, 2.95m clear span between columns)
@@ -36,10 +36,10 @@ Track for house projects: work, cost, status.
 | Cement (50kg bag) | 6 bags (5 concrete + 1 mortar) | 434.00 | 2,604.00 |
 | Sand (5-gal bucket) | 21 buckets (16 concrete + 5 mortar) = 0.397 m³ | 895.00/m³ | 447.50 |
 | Grava (5-gal bucket) | 23 buckets = 0.434 m³ | 1,125.00/m³ | 562.50 |
-| Formaleta board (1"x8"x5 varas / 4m) | 4 boards (reused across stages) |  | — (on hand/separate purchase) |
+| Formaleta board (1"x8"x5 varas / 4m) | 4 boards (reused across stages) | TBD (separate vendor) | TBD |
 | Transporte |  | 1.00/UN x 200 | 200.00 |
 | Labor |  |  |  |
-| **Total** |  |  | **7,674.00** |
+| **Total (excl. formaleta)** |  |  | **7,674.00** |
 
 Calc detail: concrete vol 0.562 m³ (columns 0.208 + beams 0.354). Dry volume method: wet vol x 1.54 = 0.8655 m³ dry, split 1:2:3 (6 parts) → cement 0.1443 m³ /0.0347 m³ per 50kg bag = 4.16→5 bags; sand 0.2885 m³ /0.0189 m³ per 5-gal bucket = 15.26→16; grava 0.4328 m³ /0.0189 = 22.9→23. Stone area 5.90 m² (wall 8.71 m² minus columns/beams 2.81 m²). Longitudinal rod 56.2m total / 6m sticks. Stirrups: 21/column x2 + 23/beam x3 = 111, +spares.
 
