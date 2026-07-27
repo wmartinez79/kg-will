@@ -18,7 +18,7 @@ Loans / liabilities: [[Debts]]
 
 **Income** — reported directly by Will in chat (monthly / weekly / milestone depending on client), filed into the current month's table.
 
-**Bills / Expenses** — captured on phone via Claude mobile app using [[_Bill Template]], saved as a note in Obsidian mobile. No auto-sync configured yet, so files move manually (AirDrop/share/email) into `Finance/_Inbox/` on this machine. Next Claude Code session files them into the matching `Finance/2026/YYYY-MM.md` table and clears the inbox.
+**Bills / Expenses** — captured on phone via Claude mobile app using [[_Bill Template]], saved as a note in Obsidian mobile, synced via GitSync into `Bills_Inbox/` (top-level folder, easy drop target from phone). Next Claude Code session files them into the matching category note under `Finance/Expenses/Categories/` and the current month's summary table, then clears the inbox.
 
 ## Income sources
 - [[In All Media]] — contractor, monthly
