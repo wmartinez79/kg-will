@@ -28,15 +28,18 @@ Track for house projects: work, cost, status.
 
 **Bill of materials:**
 
-| Material | Qty |
-|---|---|
-| Piedra cantera (0.6x0.4m) | ~26 stones (23 net + waste) — NIO 65.00/stone est. = NIO 1,690.00 |
-| Rod 3/8" (6m stick), longitudinal | 10 sticks |
-| Estribos 1/4" (pre-built) | ~120 |
-| Cement (50kg bag) | 6 bags (5 concrete + 1 mortar) |
-| Sand (5-gal bucket) | 21 buckets (16 concrete + 5 mortar) = 0.397 m³ |
-| Grava (5-gal bucket) | 23 buckets = 0.434 m³ |
-| Formaleta board (1"x8"x5 varas / 4m) | 4 boards (reused across stages) |
+| Material | Qty | Cost (NIO) |
+|---|---|---|
+| Piedra cantera (0.6x0.4m) | ~26 stones (23 net + waste) | 1,690.00 est. @ NIO 65/stone |
+| Rod 3/8" (6m stick), longitudinal | 10 sticks | 1,510.00 |
+| Estribos 1/4" (pre-built) | ~120 | 660.00 |
+| Cement (50kg bag) | 6 bags (5 concrete + 1 mortar) | 2,604.00 |
+| Sand (5-gal bucket) | 21 buckets (16 concrete + 5 mortar) = 0.397 m³ | 447.50 |
+| Grava (5-gal bucket) | 23 buckets = 0.434 m³ | 562.50 |
+| Formaleta board (1"x8"x5 varas / 4m) | 4 boards (reused across stages) | — (on hand/separate purchase) |
+| Transporte |  | 200.00 |
+| Labor |  |  |
+| **Total** |  | **7,674.00** |
 
 Calc detail: concrete vol 0.562 m³ (columns 0.208 + beams 0.354). Dry volume method: wet vol x 1.54 = 0.8655 m³ dry, split 1:2:3 (6 parts) → cement 0.1443 m³ /0.0347 m³ per 50kg bag = 4.16→5 bags; sand 0.2885 m³ /0.0189 m³ per 5-gal bucket = 15.26→16; grava 0.4328 m³ /0.0189 = 22.9→23. Stone area 5.90 m² (wall 8.71 m² minus columns/beams 2.81 m²). Longitudinal rod 56.2m total / 6m sticks. Stirrups: 21/column x2 + 23/beam x3 = 111, +spares.
 

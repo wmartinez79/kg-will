@@ -27,4 +27,5 @@ Running log of food expenses across months. Month summary: [[2026-07|July 2026]]
 | 2026-07-27 | PedidosYa*Market | 14.89 | 545.50 | paid |
 | 2026-07-27 | PedidosYa*Propina | 0.41 | 15.00 | paid |
 | 2026-07-27 | PedidosYa*Chicharron T | 8.35 | 306.00 | paid |
-| **Total** | | **420.98** | **15,414.51** | |
+| 2026-07-27 | PedidosYa*Propina | 0.41 | 15.00 | paid |
+| **Total** | | **421.39** | **15,429.51** | |
