@@ -15,7 +15,7 @@ Track for house projects: work, cost, status.
 
 ### 1. Muro final lateral derecho
 - Status: planned
-- Cost:
+- Cost: NIO 7,674.00 est. (Todo Materiales quote #189997, NIO 5,984.00 + piedra cantera NIO 1,690.00 est. @ NIO 65/stone; excludes labor)
 - Contractor:
 - Dims: 3.35m width x 2.60m height
 - Structure: 2 columns (0.20x0.20m, full height), 3 beams (bottom/mid/top, 0.20x0.20m, 2.95m clear span between columns)
@@ -30,7 +30,7 @@ Track for house projects: work, cost, status.
 
 | Material | Qty |
 |---|---|
-| Piedra cantera (0.6x0.4m) | ~26 stones (23 net + waste) |
+| Piedra cantera (0.6x0.4m) | ~26 stones (23 net + waste) — NIO 65.00/stone est. = NIO 1,690.00 |
 | Rod 3/8" (6m stick), longitudinal | 10 sticks |
 | Estribos 1/4" (pre-built) | ~120 |
 | Cement (50kg bag) | 6 bags (5 concrete + 1 mortar) |
