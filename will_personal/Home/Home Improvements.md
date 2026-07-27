@@ -28,18 +28,18 @@ Track for house projects: work, cost, status.
 
 **Bill of materials:**
 
-| Material | Qty | Unit Cost (NIO) | Subtotal (NIO) |
-|---|---|---|---|
-| Piedra cantera (0.6x0.4m) | ~26 stones (23 net + waste) | 65.00 est./stone | 1,690.00 |
-| Rod 3/8" (6m stick), longitudinal | 10 sticks | 151.00 | 1,510.00 |
-| Estribos 1/4" (pre-built) | ~120 | 5.50 | 660.00 |
-| Cement (50kg bag) | 6 bags (5 concrete + 1 mortar) | 434.00 | 2,604.00 |
-| Sand (5-gal bucket) | 21 buckets (16 concrete + 5 mortar) = 0.397 m³ | 895.00/m³ | 447.50 |
-| Grava (5-gal bucket) | 23 buckets = 0.434 m³ | 1,125.00/m³ | 562.50 |
-| Formaleta board (1"x8"x5 varas / 4m) | 4 boards (reused across stages) | TBD (separate vendor) | TBD |
-| Transporte |  | 1.00/UN x 200 | 200.00 |
-| Labor |  |  |  |
-| **Total (excl. formaleta)** |  |  | **7,674.00** |
+| Material | Qty | Unit Cost (NIO) | Subtotal (NIO) | Observations |
+|---|---:|---:|---:|---|
+| Piedra cantera (0.6x0.4m) | 26 | 65.00 est. | 1,690.00 | 23 net (see calc below) + waste allowance; buying separately, price est. |
+| Rod 3/8" (6m stick), longitudinal | 10 | 151.00 | 1,510.00 | |
+| Estribos 1/4" (pre-built) | 120 | 5.50 | 660.00 | |
+| Cement (50kg bag) | 6 | 434.00 | 2,604.00 | 5 bags concrete + 1 bag mortar |
+| Sand (m³) | 0.5 | 895.00 | 447.50 | 21 buckets (16 concrete + 5 mortar) = 0.397 m³ calc, rounded up to 0.5 m³ purchase |
+| Grava (m³) | 0.5 | 1,125.00 | 562.50 | 23 buckets = 0.434 m³ calc, rounded up to 0.5 m³ purchase |
+| Formaleta board (1"x8"x5 varas / 4m) | 4 | TBD | TBD | Reused across pour stages; buying separately, cost TBD |
+| Transporte | 200 | 1.00 | 200.00 | Delivery fee, per quote |
+| Labor | | | | |
+| **Total (excl. formaleta)** | | | **7,674.00** | |
 
 Calc detail: concrete vol 0.562 m³ (columns 0.208 + beams 0.354). Dry volume method: wet vol x 1.54 = 0.8655 m³ dry, split 1:2:3 (6 parts) → cement 0.1443 m³ /0.0347 m³ per 50kg bag = 4.16→5 bags; sand 0.2885 m³ /0.0189 m³ per 5-gal bucket = 15.26→16; grava 0.4328 m³ /0.0189 = 22.9→23. Stone area 5.90 m² (wall 8.71 m² minus columns/beams 2.81 m²). Longitudinal rod 56.2m total / 6m sticks. Stirrups: 21/column x2 + 23/beam x3 = 111, +spares.
 
