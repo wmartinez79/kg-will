@@ -15,4 +15,5 @@ Running log of transport expenses across months. Month summary: [[2026-07|July 2
 |---|---|---|---|---|
 | 2026-07-24 | ECSA Uno Los Robles | 54.30 | 1,999.44 | paid |
 | 2026-07-25 | Amarce Coffee & Bakery (car wash) | 12.29 | 450.00 | paid |
-| **Total** | | **66.59** | **2,449.44** | |
+| 2026-07-28 | Puma Gueguense-Pista (gas, card ...0038, unidentified) | 41.21 | 1,509.29 | paid |
+| **Total** | | **107.80** | **3,958.73** | |

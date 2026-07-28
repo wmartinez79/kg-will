@@ -66,3 +66,4 @@ Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and ex
 - 2026-07-27: Visa USD debt confirmed at $0.00 via online banking (was $100.03) — this is the Tier 0 quick-win payoff, done ahead of the scheduled 2026-08-01 date. No corresponding payment logged here (bank-side payoff, not entered by Will) — reconciled straight to bank-reported balance.
 - 2026-07-27: applied 3 new Visa charges on card 8848 (Farmavalue NIO 1,408.34, PedidosYa*Market 401.25, PedidosYa*Propina 15.00 — NIO 1,824.59 total) directly against Current Debt, new balance NIO 190,698.30.
 - 2026-07-27: card ...3040 confirmed as BAC AMEX Black — Cafeteria El Molino SA charge ($8.96 / NIO 328.17) applied to AMEX Black Current Debt, new balance NIO 264,610.03.
+- 2026-07-28: Puma Gueguense-Pista charge ($41.21 / NIO 1,509.29, card ...0038 "adicional") filed to [[Transport]] only — card ...0038 doesn't match any tracked BAC card; balance not applied anywhere pending identification.
