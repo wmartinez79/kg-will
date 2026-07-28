@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:finance",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -100,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "8606b0c7c1afb04d",
@@ -168,7 +168,7 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "9c81d0612770d4e0",
+  "active": "4c2b3c441bb7d976",
   "lastOpenFiles": [
     "will_personal/Finance/Debts.md",
     "will_personal/Finance/Debt Payoff Analysis.md",
