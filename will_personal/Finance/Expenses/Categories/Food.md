@@ -28,7 +28,7 @@ Running log of food expenses across months. Month summary: [[2026-07|July 2026]]
 | 2026-07-27 | PedidosYa*Propina | 0.41 | 15.00 | paid |
 | 2026-07-27 | PedidosYa*Chicharron T | 8.35 | 306.00 | paid |
 | 2026-07-27 | PedidosYa*Propina | 0.41 | 15.00 | paid |
-| 2026-07-27 | Cafeteria El Molino SA (card ...3040, unidentified) | 8.96 | 328.17 | paid |
+| 2026-07-27 | Cafeteria El Molino SA (card ...3040, AMEX Black) | 8.96 | 328.17 | paid |
 | 2026-07-27 | PedidosYa*Market | 10.96 | 401.25 | paid |
 | 2026-07-27 | PedidosYa*Propina | 0.41 | 15.00 | paid |
 | **Total** | | **441.72** | **16,173.93** | |
