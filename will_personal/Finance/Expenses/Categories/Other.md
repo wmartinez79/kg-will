@@ -15,3 +15,5 @@ Running log of miscellaneous expenses across months. Month summary: [[2026-07|Ju
 |---|---|---|---|---|
 | 2026-07-27 | Mesada David (cash) | 5.46 | 200.00 | paid |
 | **Total** | | **5.46** | **200.00** | |
+
+Moved PedidosYa*Plus to [[Subscriptions]] — recurring monthly, not a one-off.
