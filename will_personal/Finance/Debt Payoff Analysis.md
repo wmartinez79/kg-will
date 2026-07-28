@@ -75,7 +75,7 @@ USD column converts NIO balances @ 36.6243 (BCN official rate); USD-denominated 
 | 2026-08-01 (Sat) | Ficohsa min payment (NIO, partial) | NIO 5,000.00 (of 20,218.46 min due) | EPS income |
 | 2026-08-08 (Sat) | Ficohsa min payment (NIO, remainder) | NIO 15,218.46 | EPS income |
 | 2026-08-08 (Sat) | Visa — pay down accumulated charges from the week | TBD (accrues 08/01–08/08) | EPS income |
-| 2026-07-27 (Mon) | BAC loan 008781001 (Tier 0 #2, $297.70 @ 16.2%), extra paydown | $120.00 | [[Taller Instalaciones Martinez]] income |
+| 2026-07-27 (Mon) | Visa (NIO) — actual destination of this income, not the BAC loan originally planned below | NIO 4,358.40 (~$120.00) | [[Taller Instalaciones Martinez]] income |
 
 Notes:
 - Ficohsa min payment due date is 2026-08-11; plan front-loads it across two Saturdays since Will's cash flow runs on the biweekly EPS cycle.
@@ -84,7 +84,7 @@ Notes:
 ### Review against tier strategy
 - **Visa USD payoff done 2026-07-27, ahead of the 08-01 target** — Tier 0 item #1 closed at $0.00, confirmed via online banking. Good execution, zero conflict with strategy.
 - **Ficohsa min payments (both legs) are mandatory upkeep, not discretionary paydown** — correct to send only the minimum here. Ficohsa CC sits at Tier 1 #7 (NIO) and Tier 2 #11 (USD), both behind AVANZ and the three BAC NIO cards; no extra cash should go to Ficohsa beyond the minimum until those higher-tier items are cleared.
-- **Tier 0 item #2 (BAC loan 008781001, $297.70 @ 16.2%) now covered** — $120 from Taller Instalaciones Martinez on 07/27 chips it down to ~$177.70. Right target: exactly the other quick win, frees $112.71/mo of minimum-payment cash flow once fully cleared.
+- **Correction:** Tier 0 item #2 (BAC loan 008781001, $297.70 @ 16.2%) did **not** get the $120 extra paydown as originally planned here — actual income was redirected to Visa (NIO 4,358.40) instead, per [[Credit Cards]] notes. BAC loan 008781001 remains at $297.70, still needs its quick-win paydown.
 - **AVANZ (Tier 1 #3) is ongoing per family agreement, outside this plan** — keep its payments going, don't let it slip while attention is on Visa/Ficohsa.
 - **This cycle is minimums-only, no extra avalanche paydown yet** — consistent with the "better perspective in a month" comment; once a month of tracked expenses gives a stable surplus, route extra cash to Tier 0 remainder first, then Tier 1 (AVANZ + BAC NIO cards), not to Visa/Ficohsa which are already at minimum-only status.
 - **Watch item:** making BAC Visa the primary spend card means its balance will regrow between paydays (Tier 0's near-zero status won't hold). Budget the 08/08 "pay down accumulated charges" step as a recurring line, not a one-off — otherwise Visa quietly drifts back into the 45%-APR NIO tier instead of staying swept.

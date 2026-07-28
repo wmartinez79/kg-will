@@ -11,7 +11,7 @@ tags:
 |---|---|---|---|---|---|---|---|---|---|
 | [[BAC]] | PriceSmart | 102658.88 | 0.00 | 6798.00 | 11.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[BAC]] | AMEX Black | 264610.03 | 4774.47 | 16248.00 | 202.00 | 45% | 20.04% | 2026-08-19 | open |
-| [[BAC]] | Visa (...8848, ...3364, ...7910, ...0038 additional) | 192207.59 | 0.00 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
+| [[BAC]] | Visa (...8848, ...3364, ...7910, ...0038 additional) | 187849.19 | 0.00 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[Ficohsa]] | (unnamed) | 311917.34 | 4616.62 | 20218.46 | 234.43 | 39% | 19.8% | 2026-08-11 | open |
 | [[Lafise]] | Lafise Bancentro | 143578.85 | 4357.73 | 9324.00 | 226.00 | 35% | 19% | 2026-08-04 | open |
 
@@ -30,6 +30,7 @@ tags:
 | 2026-07-25 | PriceSmart | 7000.00 |  |
 | 2026-07-25 | Visa | 17100.00 |  |
 | 2026-07-27 | Visa | 3700.00 |  |
+| 2026-07-27 | Visa | 4358.40 |  |
 
 ## Charges
 | Date | Card | Amount (NIO) | Amount (USD) | Item |
@@ -68,3 +69,5 @@ Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and ex
 - 2026-07-27: applied 3 new Visa charges on card 8848 (Farmavalue NIO 1,408.34, PedidosYa*Market 401.25, PedidosYa*Propina 15.00 — NIO 1,824.59 total) directly against Current Debt, new balance NIO 190,698.30.
 - 2026-07-27: card ...3040 confirmed as BAC AMEX Black — Cafeteria El Molino SA charge ($8.96 / NIO 328.17) applied to AMEX Black Current Debt, new balance NIO 264,610.03.
 - 2026-07-28: card ...0038 confirmed as an additional card on the Visa account — Puma Gueguense-Pista charge ($41.21 / NIO 1,509.29) applied to Visa Current Debt, new balance NIO 192,207.59.
+- 2026-07-27: NIO 4,358.40 payment applied to Visa, sourced from [[Taller Instalaciones Martinez]] income (~$120, pending in [[2026-07]] income table) — inserted before the 07-28 Puma charge chronologically: NIO 190,698.30 − 4,358.40 = 186,339.90, then + 1,509.29 (Puma, 07-28) = **NIO 187,849.19**, new Visa Current Debt. Supersedes the earlier [[Debt Payoff Analysis]] plan note that this $120 would go to BAC loan 008781001 — it went to Visa instead, corrected there too.
+- Bank-confirmed balance via online banking (2026-07-28, before this payment was logged): NIO 189,256.39, disponible -$251.36 (over limit). Gap vs. ledger unreconciled — see [[Analisis Oferta Avanz 2026-07-28]] for details, needs next statement to close out.
