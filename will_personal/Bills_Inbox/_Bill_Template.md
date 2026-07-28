@@ -12,7 +12,7 @@ Next session, ask Claude Code to file it into the matching month.
 ## Bill
 - Date:
 - Item:
-- Category: (rent / utilities / software / food / transport / health / other)
+- Category: (utilities / food / transport / health / security / education / other)
 - Amount (USD):
 - Amount (NIO):
 - Status: (pending / paid)
