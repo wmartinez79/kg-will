@@ -18,4 +18,5 @@ PedidosYa is used both for grocery delivery and prepared-meal delivery — only 
 | ---------- | ----------------- | ------------ | ------------ | ------ |
 | 2026-07-27 | PedidosYa*Market  | 14.89        | 545.50       | paid   |
 | 2026-07-27 | PedidosYa*Market  | 10.96        | 401.25       | paid   |
-| **Total**  |                   | **25.85**    | **946.75**   |        |
+| 2026-07-29 | PedidosYa*Hiper La Col | 23.51   | 861.10       | paid   |
+| **Total**  |                   | **49.36**    | **1,807.85** |        |
