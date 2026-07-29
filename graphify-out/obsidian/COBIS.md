@@ -1,12 +1,12 @@
 ---
 source_file: "Resume.md"
 type: "concept"
-community: "Banking & Infrastructure"
+community: "Resume & Skills"
 location: "line:84"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Banking__Infrastructure
+  - community/Resume__Skills
 ---
 
 # COBIS
@@ -16,4 +16,4 @@ tags:
 - [[Bupartech]] - `references` [EXTRACTED]
 - [[Seaban S.A]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Banking__Infrastructure
+#graphify/concept #graphify/EXTRACTED #community/Resume__Skills

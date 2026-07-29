@@ -1,17 +1,17 @@
 ---
 source_file: "will_personal/Contacts/Jamil Modak.md"
 type: "document"
-community: "Pluto TV Org & Contacts"
+community: "Pluto TV / Paramount Engagement"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Pluto_TV_Org__Contacts
+  - community/Pluto_TV_/_Paramount_Engagement
 ---
 
-# Jamil Modak
+# Jamil Modak.md
 
 ## Connections
-- [[Evan Caldwell]] - `references` [EXTRACTED]
-- [[Pluto TV  Paramount]] - `references` [EXTRACTED]
+- [[Jamil Modak_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Pluto_TV_Org__Contacts
+#graphify/document #graphify/EXTRACTED #community/Pluto_TV_/_Paramount_Engagement

@@ -1,16 +1,16 @@
 ---
 source_file: "will_personal/Projects/Marco ERP.md"
 type: "concept"
-community: "Clients & Finance"
+community: "Projects & Client Companies"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Clients__Finance
+  - community/Projects__Client_Companies
 ---
 
 # NestJS
 
 ## Connections
-- [[Marco ERP]] - `implements` [EXTRACTED]
+- [[Marco ERP_1]] - `implements` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Clients__Finance
+#graphify/concept #graphify/EXTRACTED #community/Projects__Client_Companies

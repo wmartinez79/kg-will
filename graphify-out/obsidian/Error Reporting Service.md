@@ -1,12 +1,12 @@
 ---
 source_file: "Resume.md"
 type: "concept"
-community: "AdTech Platform Work"
+community: "Resume & Skills"
 location: "line:48"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/AdTech_Platform_Work
+  - community/Resume__Skills
 ---
 
 # Error Reporting Service
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[AdTech Platform]] - `conceptually_related_to` [INFERRED]
 
-#graphify/concept #graphify/INFERRED #community/AdTech_Platform_Work
+#graphify/concept #graphify/INFERRED #community/Resume__Skills

@@ -1,17 +1,17 @@
 ---
 source_file: "Resume.md"
 type: "concept"
-community: "AWS & Payments"
+community: "Resume & Skills"
 location: "line:29"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AWS__Payments
+  - community/Resume__Skills
 ---
 
 # AngularJS
 
 ## Connections
-- [[Enhancement Payment System_2]] - `references` [EXTRACTED]
+- [[Enhancement Payment System_3]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AWS__Payments
+#graphify/concept #graphify/EXTRACTED #community/Resume__Skills

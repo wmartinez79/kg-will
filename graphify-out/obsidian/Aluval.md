@@ -1,18 +1,19 @@
 ---
-source_file: "will_personal/Clients/Aluval.md"
+source_file: "will_personal/Companies/ALUVAL Nicaragua.md"
 type: "document"
-community: "Clients & Finance"
+community: "Finance Overview & Companies"
+location: "L11"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Clients__Finance
+  - community/Finance_Overview__Companies
 ---
 
 # Aluval
 
 ## Connections
-- [[SEM]] - `references` [EXTRACTED]
-- [[Vidrieria F. Morales]] - `shares_data_with` [INFERRED]
-- [[Will]] - `references` [EXTRACTED]
+- [[ALUVAL Nicaragua]] - `contains` [EXTRACTED]
+- [[CRM]] - `contains` [EXTRACTED]
+- [[Links]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Clients__Finance
+#graphify/document #graphify/EXTRACTED #community/Finance_Overview__Companies

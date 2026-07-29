@@ -1,11 +1,11 @@
 ---
 source_file: "will_personal/.obsidian/core-plugins.json"
 type: "document"
-community: "Obsidian Plugins"
+community: "Obsidian Vault Config"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Obsidian_Plugins
+  - community/Obsidian_Vault_Config
 ---
 
 # Obsidian Core Plugins Configuration
@@ -19,4 +19,4 @@ tags:
 - [[Obsidian Sync Plugin]] - `references` [EXTRACTED]
 - [[Templates Plugin]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Obsidian_Plugins
+#graphify/document #graphify/EXTRACTED #community/Obsidian_Vault_Config

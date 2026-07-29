@@ -1,16 +1,16 @@
 ---
 source_file: "will_personal/Projects/SEM.md"
 type: "concept"
-community: "Clients & Finance"
+community: "Projects & Client Companies"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Clients__Finance
+  - community/Projects__Client_Companies
 ---
 
 # Visual FoxPro 6
 
 ## Connections
-- [[SEM]] - `implements` [EXTRACTED]
+- [[SEM_1]] - `implements` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Clients__Finance
+#graphify/concept #graphify/EXTRACTED #community/Projects__Client_Companies

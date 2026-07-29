@@ -1,12 +1,12 @@
 ---
 source_file: "Resume.md"
 type: "concept"
-community: "Banking & Infrastructure"
+community: "Resume & Skills"
 location: "line:132"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Banking__Infrastructure
+  - community/Resume__Skills
 ---
 
 # Universidad Nacional de Ingeniería
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[William Donald Martínez Avellan]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Banking__Infrastructure
+#graphify/concept #graphify/EXTRACTED #community/Resume__Skills

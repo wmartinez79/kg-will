@@ -1,24 +1,18 @@
 ---
-source_file: "Resume.md"
-type: "concept"
-community: "AWS & Payments"
-location: "line:57"
+source_file: "will_personal/Clients/Enhancement Payment System.md"
+type: "document"
+community: "Projects & Client Companies"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
-  - community/AWS__Payments
+  - community/Projects__Client_Companies
 ---
 
 # Enhancement Payment System
 
 ## Connections
-- [[AWS]] - `references` [EXTRACTED]
-- [[AngularJS]] - `references` [EXTRACTED]
-- [[ClaudiaJS]] - `references` [EXTRACTED]
-- [[Express.js]] - `references` [EXTRACTED]
-- [[MongoDB_1]] - `references` [EXTRACTED]
-- [[Node.js]] - `references` [EXTRACTED]
-- [[Pluto TV  Paramount]] - `semantically_similar_to` [INFERRED]
-- [[William Donald Martínez Avellan]] - `references` [EXTRACTED]
+- [[In All Media_1]] - `references` [EXTRACTED]
+- [[Marco ERP_2]] - `references` [EXTRACTED]
+- [[Will]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AWS__Payments
+#graphify/document #graphify/EXTRACTED #community/Projects__Client_Companies

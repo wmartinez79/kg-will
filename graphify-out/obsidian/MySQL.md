@@ -1,12 +1,12 @@
 ---
 source_file: "Resume.md"
 type: "concept"
-community: "Early Career & Backend Stack"
+community: "Resume & Skills"
 location: "line:31"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Early_Career__Backend_Stack
+  - community/Resume__Skills
 ---
 
 # MySQL
@@ -15,4 +15,4 @@ tags:
 - [[AG Software]] - `references` [EXTRACTED]
 - [[Quoin Inc]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Early_Career__Backend_Stack
+#graphify/concept #graphify/EXTRACTED #community/Resume__Skills

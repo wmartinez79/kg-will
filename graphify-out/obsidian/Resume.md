@@ -1,21 +1,17 @@
 ---
 source_file: "will_personal/Resume.md"
 type: "document"
-community: "Clients & Finance"
+community: "Resume & Skills"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Clients__Finance
+  - community/Resume__Skills
 ---
 
-# Resume
+# Resume.md
 
 ## Connections
-- [[Enhancement Payment System]] - `references` [EXTRACTED]
-- [[Finance Overview]] - `semantically_similar_to` [INFERRED]
-- [[In All Media]] - `references` [EXTRACTED]
-- [[Marco ERP]] - `references` [EXTRACTED]
-- [[SEM]] - `references` [EXTRACTED]
-- [[Will]] - `references` [EXTRACTED]
+- [[William Donald Martínez Avellan]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Clients__Finance
+#graphify/document #graphify/EXTRACTED #community/Resume__Skills

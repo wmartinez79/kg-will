@@ -1,17 +1,17 @@
 ---
-source_file: "Resume.md"
-type: "concept"
-community: "Pluto TV Engagement"
-location: "line:39"
+source_file: "will_personal/Companies/Pluto TV Paramount.md"
+type: "document"
+community: "Pluto TV / Paramount Engagement"
+location: "L1"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Pluto_TV_Engagement
+  - community/Pluto_TV_/_Paramount_Engagement
 ---
 
-# Pluto TV Paramount
+# Pluto TV Paramount.md
 
 ## Connections
-- [[In All Media_1]] - `references` [EXTRACTED]
+- [[Pluto TV  Paramount]] - `contains` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Pluto_TV_Engagement
+#graphify/document #graphify/EXTRACTED #community/Pluto_TV_/_Paramount_Engagement

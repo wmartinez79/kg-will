@@ -1,16 +1,17 @@
 ---
-source_file: "will_personal/Will.md"
+source_file: "will_personal/Will Martinez.md"
 type: "document"
-community: "Clients & Finance"
+community: "Resume & Skills"
+location: "L22"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Clients__Finance
+  - community/Resume__Skills
 ---
 
 # Resume
 
 ## Connections
-- [[Will]] - `references` [EXTRACTED]
+- [[William Donald Martínez Avellan]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Clients__Finance
+#graphify/document #graphify/EXTRACTED #community/Resume__Skills

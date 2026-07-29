@@ -1,12 +1,12 @@
 ---
 source_file: "Resume.md"
 type: "concept"
-community: "Banking & Infrastructure"
+community: "Resume & Skills"
 location: "line:115"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Banking__Infrastructure
+  - community/Resume__Skills
 ---
 
 # Bupartech
@@ -15,4 +15,4 @@ tags:
 - [[COBIS]] - `references` [EXTRACTED]
 - [[William Donald Martínez Avellan]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Banking__Infrastructure
+#graphify/concept #graphify/EXTRACTED #community/Resume__Skills

@@ -1,12 +1,12 @@
 ---
 source_file: "Resume.md"
 type: "concept"
-community: "Early Career & Backend Stack"
+community: "Resume & Skills"
 location: "line:104"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Early_Career__Backend_Stack
+  - community/Resume__Skills
 ---
 
 # Quoin Inc
@@ -21,4 +21,4 @@ tags:
 - [[Spring]] - `references` [EXTRACTED]
 - [[William Donald Martínez Avellan]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Early_Career__Backend_Stack
+#graphify/concept #graphify/EXTRACTED #community/Resume__Skills

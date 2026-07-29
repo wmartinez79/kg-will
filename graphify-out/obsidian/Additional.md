@@ -1,0 +1,17 @@
+---
+source_file: "will_personal/Resume.md"
+type: "document"
+community: "Resume & Skills"
+location: "L34"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Resume__Skills
+---
+
+# Additional
+
+## Connections
+- [[Skills]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Resume__Skills

@@ -1,18 +1,17 @@
 ---
 source_file: "will_personal/Contacts/Evan Caldwell.md"
 type: "document"
-community: "Pluto TV Org & Contacts"
+community: "Pluto TV / Paramount Engagement"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Pluto_TV_Org__Contacts
+  - community/Pluto_TV_/_Paramount_Engagement
 ---
 
-# Evan Caldwell
+# Evan Caldwell.md
 
 ## Connections
-- [[Jamil Modak]] - `references` [EXTRACTED]
-- [[Pluto TV  Paramount]] - `references` [EXTRACTED]
-- [[William Donald Martínez Avellan]] - `references` [EXTRACTED]
+- [[Evan Caldwell_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Pluto_TV_Org__Contacts
+#graphify/document #graphify/EXTRACTED #community/Pluto_TV_/_Paramount_Engagement

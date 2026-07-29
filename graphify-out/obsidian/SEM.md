@@ -1,22 +1,17 @@
 ---
 source_file: "will_personal/Projects/SEM.md"
 type: "document"
-community: "Clients & Finance"
+community: "Projects & Client Companies"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Clients__Finance
+  - community/Projects__Client_Companies
 ---
 
-# SEM
+# SEM.md
 
 ## Connections
-- [[Aluval]] - `references` [EXTRACTED]
-- [[Marco ERP]] - `references` [EXTRACTED]
-- [[Marco ERP_1]] - `references` [EXTRACTED]
-- [[Resume]] - `references` [EXTRACTED]
-- [[Vidrieria F. Morales]] - `references` [EXTRACTED]
-- [[Visual FoxPro 6]] - `implements` [EXTRACTED]
-- [[Will]] - `references` [EXTRACTED]
+- [[SEM_1]] - `contains` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Clients__Finance
+#graphify/document #graphify/EXTRACTED #community/Projects__Client_Companies

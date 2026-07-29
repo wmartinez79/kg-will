@@ -1,14 +1,14 @@
 ---
-source_file: "will_personal/.obsidian/app.json"
+source_file: ".obsidian/app.json"
 type: "code"
-community: "Obsidian App"
+community: "Obsidian App Config"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Obsidian_App
+  - community/Obsidian_App_Config
 ---
 
 # app.json
 
-#graphify/code #graphify/EXTRACTED #community/Obsidian_App
+#graphify/code #graphify/EXTRACTED #community/Obsidian_App_Config

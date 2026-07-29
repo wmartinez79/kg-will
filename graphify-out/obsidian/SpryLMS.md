@@ -1,12 +1,12 @@
 ---
 source_file: "Resume.md"
 type: "concept"
-community: "Node / Vue / Frontend"
+community: "Resume & Skills"
 location: "line:69"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Node_/_Vue_/_Frontend
+  - community/Resume__Skills
 ---
 
 # SpryLMS
@@ -20,4 +20,4 @@ tags:
 - [[Vuetify]] - `references` [EXTRACTED]
 - [[William Donald Martínez Avellan]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Node_/_Vue_/_Frontend
+#graphify/concept #graphify/EXTRACTED #community/Resume__Skills

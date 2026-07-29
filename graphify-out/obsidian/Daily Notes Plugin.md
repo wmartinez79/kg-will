@@ -1,11 +1,11 @@
 ---
 source_file: "will_personal/.obsidian/core-plugins.json"
 type: "concept"
-community: "Obsidian Plugins"
+community: "Obsidian Vault Config"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Obsidian_Plugins
+  - community/Obsidian_Vault_Config
 ---
 
 # Daily Notes Plugin
@@ -15,4 +15,4 @@ tags:
 - [[Obsidian Workspace Layout]] - `references` [EXTRACTED]
 - [[Templates Plugin]] - `semantically_similar_to` [INFERRED]
 
-#graphify/concept #graphify/EXTRACTED #community/Obsidian_Plugins
+#graphify/concept #graphify/EXTRACTED #community/Obsidian_Vault_Config

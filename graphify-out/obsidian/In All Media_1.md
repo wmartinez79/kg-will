@@ -1,30 +1,25 @@
 ---
-source_file: "Resume.md"
-type: "concept"
-community: "Pluto TV Engagement"
-location: "line:38"
+source_file: "will_personal/Work/In All Media.md"
+type: "document"
+community: "Projects & Client Companies"
 tags:
-  - graphify/concept
+  - graphify/document
   - graphify/EXTRACTED
-  - community/Pluto_TV_Engagement
+  - community/Projects__Client_Companies
 ---
 
 # In All Media
 
 ## Connections
-- [[AWS]] - `references` [EXTRACTED]
-- [[AdTech Platform]] - `references` [EXTRACTED]
-- [[Command Center]] - `references` [EXTRACTED]
-- [[Datadog]] - `references` [EXTRACTED]
-- [[Express.js]] - `references` [EXTRACTED]
-- [[Golang]] - `references` [EXTRACTED]
-- [[GraphQL]] - `references` [EXTRACTED]
-- [[MongoDB_1]] - `references` [EXTRACTED]
-- [[Pluto TV Paramount]] - `references` [EXTRACTED]
-- [[React.js]] - `references` [EXTRACTED]
-- [[Redux]] - `references` [EXTRACTED]
-- [[TypeScript]] - `references` [EXTRACTED]
+- [[Command Center (Enterprise Platform)]] - `references` [EXTRACTED]
+- [[Enhancement Payment System_2]] - `references` [EXTRACTED]
+- [[Enhancement Payment System_1]] - `references` [EXTRACTED]
+- [[Finance Overview_1]] - `references` [EXTRACTED]
+- [[Finance Overview_2]] - `references` [EXTRACTED]
+- [[Marco ERP_1]] - `references` [EXTRACTED]
+- [[Pluto TV  Paramount]] - `references` [EXTRACTED]
+- [[Resume_2]] - `references` [EXTRACTED]
+- [[Will]] - `references` [EXTRACTED]
 - [[William Donald Martínez Avellan]] - `references` [EXTRACTED]
-- [[gRPC]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Pluto_TV_Engagement
+#graphify/document #graphify/EXTRACTED #community/Projects__Client_Companies

@@ -1,19 +1,21 @@
 ---
-source_file: "will_personal/Finance/Finance Overview.md"
+source_file: "will_personal/Finance Overview.md"
 type: "document"
-community: "Clients & Finance"
+community: "Finance Overview & Companies"
+location: "L1"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Clients__Finance
+  - community/Finance_Overview__Companies
 ---
 
-# Finance Overview
+# Finance Overview.md
 
 ## Connections
-- [[In All Media]] - `references` [EXTRACTED]
-- [[June 2026]] - `references` [EXTRACTED]
-- [[Resume]] - `semantically_similar_to` [INFERRED]
-- [[Will]] - `references` [EXTRACTED]
+- [[2026-07]] - `references` [EXTRACTED]
+- [[Debts at a glance]] - `references` [EXTRACTED]
+- [[Finance Overview_1]] - `contains` [EXTRACTED]
+- [[Income sources]] - `references` [EXTRACTED]
+- [[Workflow]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Clients__Finance
+#graphify/document #graphify/EXTRACTED #community/Finance_Overview__Companies

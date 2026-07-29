@@ -1,12 +1,12 @@
 ---
 source_file: "Resume.md"
 type: "concept"
-community: "Node / Vue / Frontend"
+community: "Resume & Skills"
 location: "line:33"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Node_/_Vue_/_Frontend
+  - community/Resume__Skills
 ---
 
 # Video.js
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[SpryLMS]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Node_/_Vue_/_Frontend
+#graphify/concept #graphify/EXTRACTED #community/Resume__Skills

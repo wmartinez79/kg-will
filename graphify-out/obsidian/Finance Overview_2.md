@@ -1,16 +1,17 @@
 ---
-source_file: "will_personal/Finance Overview.md"
+source_file: "will_personal/Will.md"
 type: "document"
-community: "Clients & Finance"
+community: "Projects & Client Companies"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Clients__Finance
+  - community/Projects__Client_Companies
 ---
 
 # Finance Overview
 
 ## Connections
-- [[In All Media]] - `references` [EXTRACTED]
+- [[In All Media_1]] - `references` [EXTRACTED]
+- [[Will]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Clients__Finance
+#graphify/document #graphify/EXTRACTED #community/Projects__Client_Companies

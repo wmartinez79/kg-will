@@ -1,20 +1,20 @@
 ---
 source_file: "Resume.md"
 type: "concept"
-community: "AWS & Payments"
+community: "Resume & Skills"
 location: "line:23"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AWS__Payments
+  - community/Resume__Skills
 ---
 
 # MongoDB
 
 ## Connections
-- [[Enhancement Payment System_2]] - `references` [EXTRACTED]
-- [[In All Media_1]] - `references` [EXTRACTED]
+- [[Enhancement Payment System_3]] - `references` [EXTRACTED]
+- [[In All Media_2]] - `references` [EXTRACTED]
 - [[SpryLMS]] - `references` [EXTRACTED]
 - [[William Donald Martínez Avellan]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AWS__Payments
+#graphify/concept #graphify/EXTRACTED #community/Resume__Skills

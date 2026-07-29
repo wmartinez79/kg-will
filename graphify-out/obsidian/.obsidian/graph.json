@@ -1,73 +1,164 @@
 {
   "colorGroups": [
     {
-      "query": "tag:#community/Clients_&_Finance",
+      "query": "tag:#community/Bills_&_Expense_Categories_(Jul_2026)",
       "color": {
         "a": 1,
         "rgb": 5142951
       }
     },
     {
-      "query": "tag:#community/Obsidian_Plugins",
+      "query": "tag:#community/Resume_&_Skills",
       "color": {
         "a": 1,
         "rgb": 15896107
       }
     },
     {
-      "query": "tag:#community/Early_Career_&_Backend_Stack",
+      "query": "tag:#community/Finance_Overview_&_Companies",
       "color": {
         "a": 1,
         "rgb": 14767961
       }
     },
     {
-      "query": "tag:#community/Banking_&_Infrastructure",
+      "query": "tag:#community/Projects_&_Client_Companies",
       "color": {
         "a": 1,
         "rgb": 7780274
       }
     },
     {
-      "query": "tag:#community/Pluto_TV_Engagement",
+      "query": "tag:#community/Avanz_vs_Ficohsa_Loan_Offer_Analysis",
       "color": {
         "a": 1,
         "rgb": 5873999
       }
     },
     {
-      "query": "tag:#community/Node_/_Vue_/_Frontend",
+      "query": "tag:#community/Loans_&_Credit_Cards",
       "color": {
         "a": 1,
         "rgb": 15583560
       }
     },
     {
-      "query": "tag:#community/AWS_&_Payments",
+      "query": "tag:#community/Pluto_TV_/_Paramount_Engagement",
       "color": {
         "a": 1,
         "rgb": 11565729
       }
     },
     {
-      "query": "tag:#community/Pluto_TV_Org_&_Contacts",
+      "query": "tag:#community/Obsidian_Vault_Config",
       "color": {
         "a": 1,
         "rgb": 16752039
       }
     },
     {
-      "query": "tag:#community/AdTech_Platform_Work",
+      "query": "tag:#community/Resume_Work_Experience",
       "color": {
         "a": 1,
         "rgb": 10253663
       }
     },
     {
-      "query": "tag:#community/Obsidian_App",
+      "query": "tag:#community/In_All_Media_Client_Details",
       "color": {
         "a": 1,
         "rgb": 12234924
+      }
+    },
+    {
+      "query": "tag:#community/Home_Improvements",
+      "color": {
+        "a": 1,
+        "rgb": 5142951
+      }
+    },
+    {
+      "query": "tag:#community/Repo_Guide_(CLAUDE.md)",
+      "color": {
+        "a": 1,
+        "rgb": 15896107
+      }
+    },
+    {
+      "query": "tag:#community/Marco_ERP_Backend_Repo",
+      "color": {
+        "a": 1,
+        "rgb": 14767961
+      }
+    },
+    {
+      "query": "tag:#community/Marco_ERP_Frontend_Repo",
+      "color": {
+        "a": 1,
+        "rgb": 7780274
+      }
+    },
+    {
+      "query": "tag:#community/Sales_Sling_Elastic_Beanstalk",
+      "color": {
+        "a": 1,
+        "rgb": 5873999
+      }
+    },
+    {
+      "query": "tag:#community/Sales_Sling_Lambda",
+      "color": {
+        "a": 1,
+        "rgb": 15583560
+      }
+    },
+    {
+      "query": "tag:#community/Freelance_Work_Mode",
+      "color": {
+        "a": 1,
+        "rgb": 11565729
+      }
+    },
+    {
+      "query": "tag:#community/Queso_CRM_Project",
+      "color": {
+        "a": 1,
+        "rgb": 16752039
+      }
+    },
+    {
+      "query": "tag:#community/Contractor_Work_Mode",
+      "color": {
+        "a": 1,
+        "rgb": 10253663
+      }
+    },
+    {
+      "query": "tag:#community/Jimmy_Valverde_Contact",
+      "color": {
+        "a": 1,
+        "rgb": 12234924
+      }
+    },
+    {
+      "query": "tag:#community/Mike_Gazlay_Contact",
+      "color": {
+        "a": 1,
+        "rgb": 5142951
+      }
+    },
+    {
+      "query": "tag:#community/Obsidian_App_Settings",
+      "color": {
+        "a": 1,
+        "rgb": 15896107
+      }
+    },
+    {
+      "query": "tag:#community/Obsidian_App_Config",
+      "color": {
+        "a": 1,
+        "rgb": 14767961
       }
     }
   ]
