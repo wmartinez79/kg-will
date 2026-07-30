@@ -1,27 +1,27 @@
 {
   "will_personal/.obsidian/app.json": {
-    "mtime": 1785341291.7758195,
+    "mtime": 1785354761.1271837,
     "ast_hash": "b338b0d1555b5b2f52d7026bb390127c",
     "semantic_hash": "b338b0d1555b5b2f52d7026bb390127c"
   },
   "will_personal/.obsidian/appearance.json": {
-    "mtime": 1785341291.7768195,
+    "mtime": 1785354761.1281836,
     "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
     "semantic_hash": "99914b932bd37a50b983c5e7c90ae93b"
   },
   "will_personal/.obsidian/core-plugins.json": {
-    "mtime": 1785341291.310814,
+    "mtime": 1785354760.6891952,
     "ast_hash": "7c877bea49eaeabb100563bd157b9051",
     "semantic_hash": "7c877bea49eaeabb100563bd157b9051"
   },
   "will_personal/.obsidian/graph.json": {
     "mtime": 1785261717.312,
     "ast_hash": "9663cd26a9a3ab43c20e56a6219ba1cb",
-    "semantic_hash": ""
+    "semantic_hash": "9663cd26a9a3ab43c20e56a6219ba1cb"
   },
   "will_personal/.obsidian/workspace.json": {
-    "mtime": 1785347137.2724261,
-    "ast_hash": "3a5737787cfb3f2bf7a521f918a416de",
+    "mtime": 1785355045.581095,
+    "ast_hash": "8b05414e0a1b93fc46135d1165ca96ca",
     "semantic_hash": ""
   },
   "will_personal/Projects/Marco ERP.md": {
@@ -52,7 +52,7 @@
   "will_personal/Finance Overview.md": {
     "mtime": 1785114848.6911402,
     "ast_hash": "d90caa6367f8efc28dcd64ebd0197e3c",
-    "semantic_hash": ""
+    "semantic_hash": "d90caa6367f8efc28dcd64ebd0197e3c"
   },
   ".claude/settings.local.json": {
     "mtime": 1783207275.02859,
@@ -140,8 +140,8 @@
     "semantic_hash": "7e80f39765706e51c6c14c73aaed20a7"
   },
   "will_personal/Finance/2026/2026-07.md": {
-    "mtime": 1785347136.270442,
-    "ast_hash": "98c8b40117bcc16fecf6f1fb8726a598",
+    "mtime": 1785387543.2138834,
+    "ast_hash": "ab817d8d746887a16c018ffba043a5a4",
     "semantic_hash": ""
   },
   "will_personal/Companies/BAC.md": {
@@ -165,9 +165,9 @@
     "semantic_hash": "d5f0f870595a995a5f71e5448cf71d50"
   },
   "will_personal/.obsidian/community-plugins.json": {
-    "mtime": 1785341291.9188213,
+    "mtime": 1785354761.2921793,
     "ast_hash": "996c9e14aaf3ecc4e353918364108437",
-    "semantic_hash": ""
+    "semantic_hash": "996c9e14aaf3ecc4e353918364108437"
   },
   "will_personal/.obsidian/plugins/obsidian-git/data.json": {
     "mtime": 1784949342.190638,
@@ -200,14 +200,14 @@
     "semantic_hash": "8059ff140001c107136e0e02f4d39e48"
   },
   "will_personal/Finance/Credit Cards.md": {
-    "mtime": 1785258084.4038181,
-    "ast_hash": "805fe371fcb172818d8f95bd4e7b0055",
+    "mtime": 1785387530.677768,
+    "ast_hash": "b06c95fba1fd3a9c4b9382d27d2070c0",
     "semantic_hash": ""
   },
   "will_personal/Finance/Loans.md": {
     "mtime": 1785028861.2866492,
     "ast_hash": "024d17b35897dc28c5b81fabcb259071",
-    "semantic_hash": ""
+    "semantic_hash": "024d17b35897dc28c5b81fabcb259071"
   },
   ".obsidian/app.json": {
     "mtime": 1785019374.084818,
@@ -227,7 +227,7 @@
   ".obsidian/workspace-mobile.json": {
     "mtime": 1785248011.29192,
     "ast_hash": "78b69504f090a015cf15701e6edc0db6",
-    "semantic_hash": ""
+    "semantic_hash": "78b69504f090a015cf15701e6edc0db6"
   },
   "will_personal/Companies/AVANZ.md": {
     "mtime": 1785022911.0458,
@@ -247,87 +247,87 @@
   "will_personal/Finance/Expenses/Categories/Education.md": {
     "mtime": 1785176189.694011,
     "ast_hash": "9e977241928720050cd079ce8a09ad6c",
-    "semantic_hash": ""
+    "semantic_hash": "9e977241928720050cd079ce8a09ad6c"
   },
   "will_personal/Finance/Expenses/Categories/Food.md": {
-    "mtime": 1785260292.6691365,
-    "ast_hash": "9939b58d9caab912c94b9ae7933fa691",
+    "mtime": 1785387511.9055958,
+    "ast_hash": "4d99100924786d718b1b4da252780e99",
     "semantic_hash": ""
   },
   "will_personal/Finance/Expenses/Categories/Security.md": {
     "mtime": 1785114728.6634195,
     "ast_hash": "19de2bdc0c96ed04fed112fb66a9cc38",
-    "semantic_hash": ""
+    "semantic_hash": "19de2bdc0c96ed04fed112fb66a9cc38"
   },
   "will_personal/Finance/Expenses/Categories/Transport.md": {
     "mtime": 1785248609.5361423,
     "ast_hash": "eaf371382de2b29346cefe16c1a46934",
-    "semantic_hash": ""
+    "semantic_hash": "eaf371382de2b29346cefe16c1a46934"
   },
   "will_personal/Finance/Expenses/Categories/Utilities.md": {
     "mtime": 1785114728.6574194,
     "ast_hash": "7b84c997ca8c87529471167136210a69",
-    "semantic_hash": ""
+    "semantic_hash": "7b84c997ca8c87529471167136210a69"
   },
   "will_personal/Home/Home Improvements.md": {
     "mtime": 1785176416.8149917,
     "ast_hash": "eb26b090f84452f2e68aeaa14010c0f9",
-    "semantic_hash": ""
+    "semantic_hash": "eb26b090f84452f2e68aeaa14010c0f9"
   },
   "will_personal/Finance/Analisis de Pago de Deudas 2026-07-25.pdf": {
     "mtime": 1785030024.8168015,
     "ast_hash": "53af97745d4d6bc674248d68a1ecc99e",
-    "semantic_hash": ""
+    "semantic_hash": "53af97745d4d6bc674248d68a1ecc99e"
   },
   "will_personal/Finance/Debt Payoff Analysis 2026-07-25.pdf": {
     "mtime": 1785030024.3407931,
     "ast_hash": "63bc8a8696a587b4013d45ff5e3ee08d",
-    "semantic_hash": ""
+    "semantic_hash": "63bc8a8696a587b4013d45ff5e3ee08d"
   },
   "will_personal/Home/Muro Final Lateral Derecho.pdf": {
     "mtime": 1785176443.180467,
     "ast_hash": "bfc2808cc807b72d9b9aaf5de513893e",
-    "semantic_hash": ""
+    "semantic_hash": "bfc2808cc807b72d9b9aaf5de513893e"
   },
   "will_personal/Finance/Debt Payoff Analysis.md": {
     "mtime": 1785258095.0790179,
     "ast_hash": "e0a3e715d0a2a6fcd24ba7fd1b9b8aa9",
-    "semantic_hash": ""
+    "semantic_hash": "e0a3e715d0a2a6fcd24ba7fd1b9b8aa9"
   },
   "will_personal/Finance/Expenses/Categories/Health.md": {
     "mtime": 1785208363.2467968,
     "ast_hash": "0764410c5be319e29cdc85445257a052",
-    "semantic_hash": ""
+    "semantic_hash": "0764410c5be319e29cdc85445257a052"
   },
   "will_personal/Finance/Expenses/Categories/Other.md": {
     "mtime": 1785261011.5047677,
     "ast_hash": "c887ad366fdf685cf3c43aef7eef9a06",
-    "semantic_hash": ""
+    "semantic_hash": "c887ad366fdf685cf3c43aef7eef9a06"
   },
   "will_personal/Bills_Inbox/_Bill_Template.md": {
     "mtime": 1785260299.3726048,
     "ast_hash": "3f369a818f2724a6acd6a5376fff03df",
-    "semantic_hash": ""
+    "semantic_hash": "3f369a818f2724a6acd6a5376fff03df"
   },
   "will_personal/Finance/Analisis Oferta Avanz 2026-07-28.md": {
     "mtime": 1785259583.0587578,
     "ast_hash": "8930a6130fc6987595de16c1df39c2fc",
-    "semantic_hash": ""
+    "semantic_hash": "8930a6130fc6987595de16c1df39c2fc"
   },
   "will_personal/Finance/Expenses/Categories/Market.md": {
     "mtime": 1785347124.085634,
     "ast_hash": "d219c9b0344536df58eeb5ea4151928f",
-    "semantic_hash": ""
+    "semantic_hash": "d219c9b0344536df58eeb5ea4151928f"
   },
   "will_personal/Finance/Expenses/Categories/Subscriptions.md": {
     "mtime": 1785261006.9238532,
     "ast_hash": "5d9162935ac36619278926c4ab1575c7",
-    "semantic_hash": ""
+    "semantic_hash": "5d9162935ac36619278926c4ab1575c7"
   },
   "will_personal/Finance/Avanz vs Ficohsa Loan Analysis 2026-07-28.pdf": {
     "mtime": 1785259556.7232199,
     "ast_hash": "7e3ea9f7e81d80a196df27b0d09d79db",
-    "semantic_hash": ""
+    "semantic_hash": "7e3ea9f7e81d80a196df27b0d09d79db"
   },
   "/home/william/kg-will/.claude/settings.local.json": {
     "mtime": 1783207275.02859,
@@ -380,9 +380,9 @@
     "semantic_hash": "9663cd26a9a3ab43c20e56a6219ba1cb"
   },
   "/home/william/kg-will/will_personal/.obsidian/workspace.json": {
-    "mtime": 1785354798.38735,
-    "ast_hash": "c6056982f4046244fb4a68441faed235",
-    "semantic_hash": "c6056982f4046244fb4a68441faed235"
+    "mtime": 1785355045.581095,
+    "ast_hash": "8b05414e0a1b93fc46135d1165ca96ca",
+    "semantic_hash": "8b05414e0a1b93fc46135d1165ca96ca"
   },
   "/home/william/kg-will/CLAUDE.md": {
     "mtime": 1782591831.622069,
@@ -485,9 +485,9 @@
     "semantic_hash": "8059ff140001c107136e0e02f4d39e48"
   },
   "/home/william/kg-will/will_personal/Finance/2026/2026-07.md": {
-    "mtime": 1785353749.654061,
-    "ast_hash": "f91ed19b00b87272260aaec1ef1c0cd0",
-    "semantic_hash": "f91ed19b00b87272260aaec1ef1c0cd0"
+    "mtime": 1785428705.205535,
+    "ast_hash": "73503b9871edbb649bd08a599b44f65b",
+    "semantic_hash": "73503b9871edbb649bd08a599b44f65b"
   },
   "/home/william/kg-will/will_personal/Finance/Analisis Oferta Avanz 2026-07-28.md": {
     "mtime": 1785259583.0587578,
@@ -495,9 +495,9 @@
     "semantic_hash": "8930a6130fc6987595de16c1df39c2fc"
   },
   "/home/william/kg-will/will_personal/Finance/Credit Cards.md": {
-    "mtime": 1785258084.4038181,
-    "ast_hash": "805fe371fcb172818d8f95bd4e7b0055",
-    "semantic_hash": "805fe371fcb172818d8f95bd4e7b0055"
+    "mtime": 1785387530.677768,
+    "ast_hash": "b06c95fba1fd3a9c4b9382d27d2070c0",
+    "semantic_hash": "b06c95fba1fd3a9c4b9382d27d2070c0"
   },
   "/home/william/kg-will/will_personal/Finance/Debt Payoff Analysis.md": {
     "mtime": 1785258095.0790179,
@@ -510,14 +510,14 @@
     "semantic_hash": "d5f0f870595a995a5f71e5448cf71d50"
   },
   "/home/william/kg-will/will_personal/Finance/Expenses/Categories/Education.md": {
-    "mtime": 1785176189.694011,
-    "ast_hash": "9e977241928720050cd079ce8a09ad6c",
-    "semantic_hash": "9e977241928720050cd079ce8a09ad6c"
+    "mtime": 1785428689.4583554,
+    "ast_hash": "c5aeb21f99a5d689f2503eb3d2a31ddd",
+    "semantic_hash": "c5aeb21f99a5d689f2503eb3d2a31ddd"
   },
   "/home/william/kg-will/will_personal/Finance/Expenses/Categories/Food.md": {
-    "mtime": 1785353734.3490014,
-    "ast_hash": "6e0d795c2cd65f4bf9c623fdaaef3a4a",
-    "semantic_hash": "6e0d795c2cd65f4bf9c623fdaaef3a4a"
+    "mtime": 1785428681.8007772,
+    "ast_hash": "12a4c4c0f828e952a3fee38e31cb9682",
+    "semantic_hash": "12a4c4c0f828e952a3fee38e31cb9682"
   },
   "/home/william/kg-will/will_personal/Finance/Expenses/Categories/Health.md": {
     "mtime": 1785208363.2467968,
@@ -525,14 +525,14 @@
     "semantic_hash": "0764410c5be319e29cdc85445257a052"
   },
   "/home/william/kg-will/will_personal/Finance/Expenses/Categories/Market.md": {
-    "mtime": 1785347124.085634,
-    "ast_hash": "d219c9b0344536df58eeb5ea4151928f",
-    "semantic_hash": "d219c9b0344536df58eeb5ea4151928f"
+    "mtime": 1785428685.6040647,
+    "ast_hash": "5476ebfd7d4ebdcd0d885f43d5615482",
+    "semantic_hash": "5476ebfd7d4ebdcd0d885f43d5615482"
   },
   "/home/william/kg-will/will_personal/Finance/Expenses/Categories/Other.md": {
-    "mtime": 1785261011.5047677,
-    "ast_hash": "c887ad366fdf685cf3c43aef7eef9a06",
-    "semantic_hash": "c887ad366fdf685cf3c43aef7eef9a06"
+    "mtime": 1785428692.4875834,
+    "ast_hash": "d8beb257a764a1a6faebdd18b8dd4ab0",
+    "semantic_hash": "d8beb257a764a1a6faebdd18b8dd4ab0"
   },
   "/home/william/kg-will/will_personal/Finance/Expenses/Categories/Security.md": {
     "mtime": 1785114728.6634195,

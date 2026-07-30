@@ -4,45 +4,45 @@
   "graph": {
     "hyperedges": [
       {
-        "id": "debt_analysis_report_family",
-        "label": "Debt Payoff Analysis Report Family (EN doc, EN PDF, ES PDF)",
+        "id": "debt_paydown_from_side_income",
+        "label": "Side-Income-Funded Visa Debt Paydown Amid New Charges",
         "nodes": [
-          "finance_debt_payoff_analysis",
-          "finance_debt_payoff_analysis_2026_07_25",
-          "finance_analisis_de_pago_de_deudas_2026_07_25"
+          "2026_2026_07_taller_instalaciones_martinez",
+          "finance_credit_cards_visa",
+          "categories_food_asados_dona_tania"
+        ],
+        "relation": "participate_in",
+        "confidence": "INFERRED",
+        "confidence_score": 0.85,
+        "source_file": "will_personal/Finance/Credit Cards.md"
+      },
+      {
+        "id": "david_martinez_cross_category_spend",
+        "label": "David Martinez Expenses Split Across Education, Food, and Other",
+        "nodes": [
+          "2026_2026_07_david_martinez",
+          "categories_education",
+          "categories_food",
+          "categories_other"
+        ],
+        "relation": "participate_in",
+        "confidence": "EXTRACTED",
+        "confidence_score": 1.0,
+        "source_file": "will_personal/Finance/2026/2026-07.md"
+      },
+      {
+        "id": "pedidosya_grocery_vs_food_triage",
+        "label": "PedidosYa Charges Triaged Between Market and Food via Merchant Suffix Rule",
+        "nodes": [
+          "finance_credit_cards",
+          "categories_market_pedidosya_lacolonia",
+          "categories_market_pedidosya_market",
+          "categories_food_pedidosya_propina"
         ],
         "relation": "form",
         "confidence": "EXTRACTED",
         "confidence_score": 1.0,
-        "source_file": "will_personal/Finance/Debt Payoff Analysis.md"
-      },
-      {
-        "id": "pedidosya_category_routing",
-        "label": "PedidosYa Merchant Classification Routing Across Food/Market/Subscriptions/Other",
-        "nodes": [
-          "categories_food",
-          "categories_market",
-          "categories_subscriptions",
-          "categories_other"
-        ],
-        "relation": "participate_in",
-        "confidence": "INFERRED",
-        "confidence_score": 0.85,
         "source_file": "will_personal/Finance/Expenses/Categories/Market.md"
-      },
-      {
-        "id": "eps_income_debt_paydown_flow",
-        "label": "EPS Weekly Income Funding Biweekly Debt Paydown Net of Subcontractor Cost",
-        "nodes": [
-          "companies_enhancement_payment_system",
-          "finance_debt_payoff_analysis_current_payment_plan",
-          "finance_credit_cards_visa",
-          "contacts_andres_cornejo"
-        ],
-        "relation": "participate_in",
-        "confidence": "INFERRED",
-        "confidence_score": 0.85,
-        "source_file": "will_personal/Finance/Debt Payoff Analysis.md"
       }
     ]
   },
@@ -153,7 +153,7 @@
       "source_file": "will_personal/Bills_Inbox/_Bill_Template.md",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "_bill_template.md",
       "id": "bills_inbox_bill_template"
     },
@@ -163,7 +163,7 @@
       "source_file": "will_personal/Bills_Inbox/_Bill_Template.md",
       "source_location": "L12",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "bill",
       "id": "bills_inbox_bill_template_bill"
     },
@@ -173,7 +173,7 @@
       "source_file": "will_personal/Companies/ALUVAL Nicaragua.md",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "aluval nicaragua.md",
       "id": "companies_aluval_nicaragua"
     },
@@ -183,7 +183,7 @@
       "source_file": "will_personal/Companies/ALUVAL Nicaragua.md",
       "source_location": "L11",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "aluval",
       "id": "companies_aluval_nicaragua_aluval"
     },
@@ -193,7 +193,7 @@
       "source_file": "will_personal/Companies/ALUVAL Nicaragua.md",
       "source_location": "L18",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "crm",
       "id": "companies_aluval_nicaragua_crm"
     },
@@ -203,7 +203,7 @@
       "source_file": "will_personal/Companies/ALUVAL Nicaragua.md",
       "source_location": "L21",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "links",
       "id": "companies_aluval_nicaragua_links"
     },
@@ -213,7 +213,7 @@
       "source_file": "will_personal/Companies/AVANZ.md",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 5,
+      "community": 2,
       "norm_label": "avanz.md",
       "id": "companies_avanz"
     },
@@ -223,7 +223,7 @@
       "source_file": "will_personal/Companies/AVANZ.md",
       "source_location": "L9",
       "_origin": "ast",
-      "community": 5,
+      "community": 2,
       "norm_label": "avanz",
       "id": "companies_avanz_avanz"
     },
@@ -233,7 +233,7 @@
       "source_file": "will_personal/Companies/AVANZ.md",
       "source_location": "L13",
       "_origin": "ast",
-      "community": 5,
+      "community": 2,
       "norm_label": "links",
       "id": "companies_avanz_links"
     },
@@ -243,7 +243,7 @@
       "source_file": "will_personal/Companies/BAC.md",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 5,
+      "community": 2,
       "norm_label": "bac.md",
       "id": "companies_bac"
     },
@@ -253,7 +253,7 @@
       "source_file": "will_personal/Companies/BAC.md",
       "source_location": "L11",
       "_origin": "ast",
-      "community": 5,
+      "community": 2,
       "norm_label": "bac (banco de america central)",
       "id": "companies_bac_bac_banco_de_america_central"
     },
@@ -263,7 +263,7 @@
       "source_file": "will_personal/Companies/BAC.md",
       "source_location": "L15",
       "_origin": "ast",
-      "community": 5,
+      "community": 2,
       "norm_label": "links",
       "id": "companies_bac_links"
     },
@@ -273,7 +273,7 @@
       "source_file": "will_personal/Companies/Enhancement Payment System.md",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "enhancement payment system.md",
       "id": "companies_enhancement_payment_system"
     },
@@ -283,7 +283,7 @@
       "source_file": "will_personal/Companies/Enhancement Payment System.md",
       "source_location": "L16",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "contact",
       "id": "companies_enhancement_payment_system_contact"
     },
@@ -293,7 +293,7 @@
       "source_file": "will_personal/Companies/Enhancement Payment System.md",
       "source_location": "L19",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "projects",
       "id": "companies_enhancement_payment_system_projects"
     },
@@ -303,7 +303,7 @@
       "source_file": "will_personal/Companies/Enhancement Payment System.md",
       "source_location": "L24",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "payment terms",
       "id": "companies_enhancement_payment_system_payment_terms"
     },
@@ -313,7 +313,7 @@
       "source_file": "will_personal/Companies/Enhancement Payment System.md",
       "source_location": "L34",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "links",
       "id": "companies_enhancement_payment_system_links"
     },
@@ -323,7 +323,7 @@
       "source_file": "will_personal/Companies/Ficohsa.md",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 5,
+      "community": 2,
       "norm_label": "ficohsa.md",
       "id": "companies_ficohsa"
     },
@@ -333,7 +333,7 @@
       "source_file": "will_personal/Companies/Ficohsa.md",
       "source_location": "L9",
       "_origin": "ast",
-      "community": 5,
+      "community": 2,
       "norm_label": "ficohsa",
       "id": "companies_ficohsa_ficohsa"
     },
@@ -343,7 +343,7 @@
       "source_file": "will_personal/Companies/Ficohsa.md",
       "source_location": "L13",
       "_origin": "ast",
-      "community": 5,
+      "community": 2,
       "norm_label": "links",
       "id": "companies_ficohsa_links"
     },
@@ -353,7 +353,7 @@
       "source_file": "will_personal/Companies/In All Media.md",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "in all media.md",
       "id": "companies_in_all_media"
     },
@@ -713,7 +713,7 @@
       "source_file": "will_personal/Contacts/Nielsis Mendoza.md",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "nielsis mendoza.md",
       "id": "contacts_nielsis_mendoza"
     },
@@ -723,7 +723,7 @@
       "source_file": "will_personal/Contacts/Nielsis Mendoza.md",
       "source_location": "L7",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "nielsis mendoza",
       "id": "contacts_nielsis_mendoza_nielsis_mendoza"
     },
@@ -733,7 +733,7 @@
       "source_file": "will_personal/Contacts/Nielsis Mendoza.md",
       "source_location": "L11",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "links",
       "id": "contacts_nielsis_mendoza_links"
     },
@@ -743,7 +743,7 @@
       "source_file": "will_personal/Contacts/Taller Instalaciones Martinez.md",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "taller instalaciones martinez.md",
       "id": "contacts_taller_instalaciones_martinez"
     },
@@ -753,7 +753,7 @@
       "source_file": "will_personal/Contacts/Taller Instalaciones Martinez.md",
       "source_location": "L7",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "taller instalaciones martinez",
       "id": "contacts_taller_instalaciones_martinez_taller_instalaciones_martinez"
     },
@@ -763,7 +763,7 @@
       "source_file": "will_personal/Contacts/Taller Instalaciones Martinez.md",
       "source_location": "L11",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "links",
       "id": "contacts_taller_instalaciones_martinez_links"
     },
@@ -773,7 +773,7 @@
       "source_file": "will_personal/Finance Overview.md",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "finance overview.md",
       "id": "will_personal_finance_overview"
     },
@@ -783,7 +783,7 @@
       "source_file": "will_personal/Finance Overview.md",
       "source_location": "L7",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "finance overview",
       "id": "will_personal_finance_overview_finance_overview"
     },
@@ -793,7 +793,7 @@
       "source_file": "will_personal/Finance Overview.md",
       "source_location": "L12",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "debts at a glance",
       "id": "will_personal_finance_overview_debts_at_a_glance"
     },
@@ -803,7 +803,7 @@
       "source_file": "will_personal/Finance Overview.md",
       "source_location": "L17",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "workflow",
       "id": "will_personal_finance_overview_workflow"
     },
@@ -813,7 +813,7 @@
       "source_file": "will_personal/Finance Overview.md",
       "source_location": "L23",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "income sources",
       "id": "will_personal_finance_overview_income_sources"
     },
@@ -823,7 +823,7 @@
       "source_file": "will_personal/Finance/2026.md",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "2026.md",
       "id": "finance_2026"
     },
@@ -833,7 +833,7 @@
       "source_file": "will_personal/Finance/2026.md",
       "source_location": "L8",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "2026",
       "id": "finance_2026_2026"
     },
@@ -843,7 +843,7 @@
       "source_file": "will_personal/Finance/2026.md",
       "source_location": "L12",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "months",
       "id": "finance_2026_months"
     },
@@ -873,7 +873,7 @@
       "source_file": "will_personal/Finance/2026/2026-07.md",
       "source_location": "L10",
       "_origin": "ast",
-      "community": 2,
+      "community": 4,
       "norm_label": "income",
       "id": "2026_2026_07_income"
     },
@@ -903,7 +903,7 @@
       "source_file": "will_personal/Finance/Analisis Oferta Avanz 2026-07-28.md",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 4,
+      "community": 5,
       "norm_label": "analisis oferta avanz 2026-07-28.md",
       "id": "finance_analisis_oferta_avanz_2026_07_28"
     },
@@ -913,7 +913,7 @@
       "source_file": "will_personal/Finance/Analisis Oferta Avanz 2026-07-28.md",
       "source_location": "L8",
       "_origin": "ast",
-      "community": 4,
+      "community": 5,
       "norm_label": "loan offer analysis \u2014 avanz vs. ficohsa",
       "id": "finance_analisis_oferta_avanz_2026_07_28_loan_offer_analysis_avanz_vs_ficohsa"
     },
@@ -923,7 +923,7 @@
       "source_file": "will_personal/Finance/Analisis Oferta Avanz 2026-07-28.md",
       "source_location": "L12",
       "_origin": "ast",
-      "community": 4,
+      "community": 5,
       "norm_label": "the two offers",
       "id": "finance_analisis_oferta_avanz_2026_07_28_the_two_offers"
     },
@@ -933,7 +933,7 @@
       "source_file": "will_personal/Finance/Analisis Oferta Avanz 2026-07-28.md",
       "source_location": "L25",
       "_origin": "ast",
-      "community": 4,
+      "community": 5,
       "norm_label": "verification \u2014 real rate implied by the payment",
       "id": "finance_analisis_oferta_avanz_2026_07_28_verification_real_rate_implied_by_the_payment"
     },
@@ -943,7 +943,7 @@
       "source_file": "will_personal/Finance/Analisis Oferta Avanz 2026-07-28.md",
       "source_location": "L47",
       "_origin": "ast",
-      "community": 4,
+      "community": 5,
       "norm_label": "why either one is worth doing",
       "id": "finance_analisis_oferta_avanz_2026_07_28_why_either_one_is_worth_doing"
     },
@@ -953,7 +953,7 @@
       "source_file": "will_personal/Finance/Analisis Oferta Avanz 2026-07-28.md",
       "source_location": "L51",
       "_origin": "ast",
-      "community": 4,
+      "community": 5,
       "norm_label": "coverage of the target amount (#4 + #6 = $10,028.02)",
       "id": "finance_analisis_oferta_avanz_2026_07_28_coverage_of_the_target_amount_4_6_10_028_02"
     },
@@ -963,7 +963,7 @@
       "source_file": "will_personal/Finance/Analisis Oferta Avanz 2026-07-28.md",
       "source_location": "L60",
       "_origin": "ast",
-      "community": 4,
+      "community": 5,
       "norm_label": "recommendation",
       "id": "finance_analisis_oferta_avanz_2026_07_28_recommendation"
     },
@@ -973,7 +973,7 @@
       "source_file": "will_personal/Finance/Analisis Oferta Avanz 2026-07-28.md",
       "source_location": "L64",
       "_origin": "ast",
-      "community": 4,
+      "community": 5,
       "norm_label": "proposed allocation (with avanz)",
       "id": "finance_analisis_oferta_avanz_2026_07_28_proposed_allocation_with_avanz"
     },
@@ -983,7 +983,7 @@
       "source_file": "will_personal/Finance/Analisis Oferta Avanz 2026-07-28.md",
       "source_location": "L78",
       "_origin": "ast",
-      "community": 4,
+      "community": 5,
       "norm_label": "why the surplus goes to visa, not held as a \"buffer\"",
       "id": "finance_analisis_oferta_avanz_2026_07_28_why_the_surplus_goes_to_visa_not_held_as_a_buffer"
     },
@@ -993,7 +993,7 @@
       "source_file": "will_personal/Finance/Analisis Oferta Avanz 2026-07-28.md",
       "source_location": "L85",
       "_origin": "ast",
-      "community": 4,
+      "community": 5,
       "norm_label": "how much frees up in monthly minimum payments",
       "id": "finance_analisis_oferta_avanz_2026_07_28_how_much_frees_up_in_monthly_minimum_payments"
     },
@@ -1003,7 +1003,7 @@
       "source_file": "will_personal/Finance/Analisis Oferta Avanz 2026-07-28.md",
       "source_location": "L99",
       "_origin": "ast",
-      "community": 4,
+      "community": 5,
       "norm_label": "net cash flow",
       "id": "finance_analisis_oferta_avanz_2026_07_28_net_cash_flow"
     },
@@ -1013,7 +1013,7 @@
       "source_file": "will_personal/Finance/Analisis Oferta Avanz 2026-07-28.md",
       "source_location": "L109",
       "_origin": "ast",
-      "community": 4,
+      "community": 5,
       "norm_label": "impact on the payoff priority order ([[debt payoff analysis]])",
       "id": "finance_analisis_oferta_avanz_2026_07_28_impact_on_the_payoff_priority_order_debt_payoff_analysis"
     },
@@ -1023,7 +1023,7 @@
       "source_file": "will_personal/Finance/Analisis Oferta Avanz 2026-07-28.md",
       "source_location": "L117",
       "_origin": "ast",
-      "community": 4,
+      "community": 5,
       "norm_label": "open items",
       "id": "finance_analisis_oferta_avanz_2026_07_28_open_items"
     },
@@ -1061,7 +1061,7 @@
       "label": "Charges",
       "file_type": "document",
       "source_file": "will_personal/Finance/Credit Cards.md",
-      "source_location": "L35",
+      "source_location": "L38",
       "_origin": "ast",
       "community": 0,
       "norm_label": "charges",
@@ -1071,7 +1071,7 @@
       "label": "Notes",
       "file_type": "document",
       "source_file": "will_personal/Finance/Credit Cards.md",
-      "source_location": "L59",
+      "source_location": "L63",
       "_origin": "ast",
       "community": 2,
       "norm_label": "notes",
@@ -1083,7 +1083,7 @@
       "source_file": "will_personal/Finance/Debt Payoff Analysis.md",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 4,
+      "community": 5,
       "norm_label": "debt payoff analysis.md",
       "id": "finance_debt_payoff_analysis"
     },
@@ -1093,7 +1093,7 @@
       "source_file": "will_personal/Finance/Debt Payoff Analysis.md",
       "source_location": "L8",
       "_origin": "ast",
-      "community": 4,
+      "community": 5,
       "norm_label": "debt payoff analysis",
       "id": "finance_debt_payoff_analysis_debt_payoff_analysis"
     },
@@ -1103,7 +1103,7 @@
       "source_file": "will_personal/Finance/Debt Payoff Analysis.md",
       "source_location": "L12",
       "_origin": "ast",
-      "community": 4,
+      "community": 5,
       "norm_label": "method",
       "id": "finance_debt_payoff_analysis_method"
     },
@@ -1113,7 +1113,7 @@
       "source_file": "will_personal/Finance/Debt Payoff Analysis.md",
       "source_location": "L15",
       "_origin": "ast",
-      "community": 4,
+      "community": 5,
       "norm_label": "rates used",
       "id": "finance_debt_payoff_analysis_rates_used"
     },
@@ -1123,7 +1123,7 @@
       "source_file": "will_personal/Finance/Debt Payoff Analysis.md",
       "source_location": "L31",
       "_origin": "ast",
-      "community": 4,
+      "community": 5,
       "norm_label": "payoff order",
       "id": "finance_debt_payoff_analysis_payoff_order"
     },
@@ -1133,9 +1133,19 @@
       "source_file": "will_personal/Finance/Debt Payoff Analysis.md",
       "source_location": "L62",
       "_origin": "ast",
-      "community": 4,
+      "community": 5,
       "norm_label": "key takeaways",
       "id": "finance_debt_payoff_analysis_key_takeaways"
+    },
+    {
+      "label": "Current Payment Plan (as of 2026-07-26)",
+      "file_type": "document",
+      "source_file": "will_personal/Finance/Debt Payoff Analysis.md",
+      "source_location": "L71",
+      "_origin": "ast",
+      "community": 5,
+      "norm_label": "current payment plan (as of 2026-07-26)",
+      "id": "finance_debt_payoff_analysis_current_payment_plan_as_of_2026_07_26"
     },
     {
       "label": "Review against tier strategy",
@@ -1143,7 +1153,7 @@
       "source_file": "will_personal/Finance/Debt Payoff Analysis.md",
       "source_location": "L84",
       "_origin": "ast",
-      "community": 4,
+      "community": 5,
       "norm_label": "review against tier strategy",
       "id": "finance_debt_payoff_analysis_review_against_tier_strategy"
     },
@@ -1153,7 +1163,7 @@
       "source_file": "will_personal/Finance/Debt Payoff Analysis.md",
       "source_location": "L91",
       "_origin": "ast",
-      "community": 4,
+      "community": 5,
       "norm_label": "reuse notes",
       "id": "finance_debt_payoff_analysis_reuse_notes"
     },
@@ -1483,7 +1493,7 @@
       "source_file": "will_personal/Finance/Loans.md",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 5,
+      "community": 2,
       "norm_label": "loans.md",
       "id": "finance_loans"
     },
@@ -1493,7 +1503,7 @@
       "source_file": "will_personal/Finance/Loans.md",
       "source_location": "L8",
       "_origin": "ast",
-      "community": 5,
+      "community": 2,
       "norm_label": "loans",
       "id": "finance_loans_loans"
     },
@@ -1503,7 +1513,7 @@
       "source_file": "will_personal/Finance/Loans.md",
       "source_location": "L21",
       "_origin": "ast",
-      "community": 5,
+      "community": 2,
       "norm_label": "payment history",
       "id": "finance_loans_payment_history"
     },
@@ -1513,7 +1523,7 @@
       "source_file": "will_personal/Finance/Loans.md",
       "source_location": "L23",
       "_origin": "ast",
-      "community": 5,
+      "community": 2,
       "norm_label": "bac 007989181",
       "id": "finance_loans_bac_007989181"
     },
@@ -1523,7 +1533,7 @@
       "source_file": "will_personal/Finance/Loans.md",
       "source_location": "L28",
       "_origin": "ast",
-      "community": 5,
+      "community": 2,
       "norm_label": "bac 008781001",
       "id": "finance_loans_bac_008781001"
     },
@@ -1533,7 +1543,7 @@
       "source_file": "will_personal/Finance/Loans.md",
       "source_location": "L34",
       "_origin": "ast",
-      "community": 5,
+      "community": 2,
       "norm_label": "bac 010255001",
       "id": "finance_loans_bac_010255001"
     },
@@ -1543,7 +1553,7 @@
       "source_file": "will_personal/Finance/Loans.md",
       "source_location": "L39",
       "_origin": "ast",
-      "community": 5,
+      "community": 2,
       "norm_label": "bac 011195771",
       "id": "finance_loans_bac_011195771"
     },
@@ -1553,7 +1563,7 @@
       "source_file": "will_personal/Finance/Loans.md",
       "source_location": "L44",
       "_origin": "ast",
-      "community": 5,
+      "community": 2,
       "norm_label": "ficohsa 0000044006",
       "id": "finance_loans_ficohsa_0000044006"
     },
@@ -1563,7 +1573,7 @@
       "source_file": "will_personal/Finance/Loans.md",
       "source_location": "L51",
       "_origin": "ast",
-      "community": 5,
+      "community": 2,
       "norm_label": "ficohsa 2211",
       "id": "finance_loans_ficohsa_2211"
     },
@@ -1573,7 +1583,7 @@
       "source_file": "will_personal/Finance/Loans.md",
       "source_location": "L60",
       "_origin": "ast",
-      "community": 5,
+      "community": 2,
       "norm_label": "bac (car loan, wife)",
       "id": "finance_loans_bac_car_loan_wife"
     },
@@ -1583,7 +1593,7 @@
       "source_file": "will_personal/Finance/Loans.md",
       "source_location": "L67",
       "_origin": "ast",
-      "community": 5,
+      "community": 2,
       "norm_label": "avanz (loan, wife)",
       "id": "finance_loans_avanz_loan_wife"
     },
@@ -1593,7 +1603,7 @@
       "source_file": "will_personal/Finance/Loans.md",
       "source_location": "L72",
       "_origin": "ast",
-      "community": 5,
+      "community": 2,
       "norm_label": "notes",
       "id": "finance_loans_notes"
     },
@@ -3462,7 +3472,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 2,
       "norm_label": "bac pricesmart card",
       "id": "finance_credit_cards_bac_pricesmart"
     },
@@ -3475,7 +3485,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 2,
       "norm_label": "bac amex black card",
       "id": "finance_credit_cards_bac_amex_black"
     },
@@ -3488,7 +3498,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 2,
       "norm_label": "bac visa card",
       "id": "finance_credit_cards_bac_visa"
     },
@@ -3501,7 +3511,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 2,
       "norm_label": "ficohsa card (unnamed)",
       "id": "finance_credit_cards_ficohsa_unnamed"
     },
@@ -3566,7 +3576,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 2,
       "norm_label": "electricity bill",
       "id": "2026_2026_07_electricity"
     },
@@ -3579,7 +3589,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 2,
       "norm_label": "home internet bill",
       "id": "2026_2026_07_home_internet"
     },
@@ -3592,7 +3602,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 2,
       "norm_label": "tia margarita cable bill",
       "id": "2026_2026_07_tia_margarita_cable"
     },
@@ -3632,9 +3642,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "finance_analisis_oferta_avanz_2026_07_28_rate_verification",
-      "community": 4,
-      "norm_label": "implied real rate verification"
+      "community": 5,
+      "norm_label": "implied real rate verification",
+      "id": "finance_analisis_oferta_avanz_2026_07_28_rate_verification"
     },
     {
       "label": "Proposed Allocation of Avanz Surplus to Visa",
@@ -3646,9 +3656,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "finance_analisis_oferta_avanz_2026_07_28_proposed_allocation",
-      "community": 4,
-      "norm_label": "proposed allocation of avanz surplus to visa"
+      "community": 5,
+      "norm_label": "proposed allocation of avanz surplus to visa",
+      "id": "finance_analisis_oferta_avanz_2026_07_28_proposed_allocation"
     },
     {
       "label": "Freed Minimum Payments (~$842.30/mo)",
@@ -3659,9 +3669,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "finance_analisis_oferta_avanz_2026_07_28_freed_minimums",
-      "community": 4,
-      "norm_label": "freed minimum payments (~$842.30/mo)"
+      "community": 5,
+      "norm_label": "freed minimum payments (~$842.30/mo)",
+      "id": "finance_analisis_oferta_avanz_2026_07_28_freed_minimums"
     },
     {
       "label": "Impact on Debt Payoff Priority Order",
@@ -3672,9 +3682,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "finance_analisis_oferta_avanz_2026_07_28_impact_on_priority_order",
-      "community": 4,
-      "norm_label": "impact on debt payoff priority order"
+      "community": 5,
+      "norm_label": "impact on debt payoff priority order",
+      "id": "finance_analisis_oferta_avanz_2026_07_28_impact_on_priority_order"
     },
     {
       "label": "Ficohsa Credit Card",
@@ -3685,9 +3695,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "finance_credit_cards_ficohsa_card",
-      "community": 5,
-      "norm_label": "ficohsa credit card"
+      "community": 2,
+      "norm_label": "ficohsa credit card",
+      "id": "finance_credit_cards_ficohsa_card"
     },
     {
       "label": "Lafise Bancentro Credit Card",
@@ -3698,22 +3708,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "finance_credit_cards_lafise_card",
       "community": 2,
-      "norm_label": "lafise bancentro credit card"
-    },
-    {
-      "label": "Current Payment Plan (as of 2026-07-26)",
-      "file_type": "document",
-      "source_file": "will_personal/Finance/Debt Payoff Analysis.md",
-      "source_location": "L71-83",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "finance_debt_payoff_analysis_current_payment_plan",
-      "community": 4,
-      "norm_label": "current payment plan (as of 2026-07-26)"
+      "norm_label": "lafise bancentro credit card",
+      "id": "finance_credit_cards_lafise_card"
     },
     {
       "label": "Muro Final Lateral Derecho Wall Project",
@@ -3725,9 +3722,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "home_home_improvements_muro_final_lateral_derecho",
       "community": 10,
-      "norm_label": "muro final lateral derecho wall project"
+      "norm_label": "muro final lateral derecho wall project",
+      "id": "home_home_improvements_muro_final_lateral_derecho"
     },
     {
       "label": "Confined-Masonry Staged Formwork Reuse",
@@ -3739,9 +3736,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "home_home_improvements_muro_final_lateral_derecho_formwork_method",
       "community": 10,
-      "norm_label": "confined-masonry staged formwork reuse"
+      "norm_label": "confined-masonry staged formwork reuse",
+      "id": "home_home_improvements_muro_final_lateral_derecho_formwork_method"
     },
     {
       "label": "An\u00e1lisis de Pago de Deudas (PDF, Spanish, 2026-07-25)",
@@ -3752,9 +3749,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "finance_analisis_de_pago_de_deudas_2026_07_25",
       "community": 2,
-      "norm_label": "analisis de pago de deudas (pdf, spanish, 2026-07-25)"
+      "norm_label": "analisis de pago de deudas (pdf, spanish, 2026-07-25)",
+      "id": "finance_analisis_de_pago_de_deudas_2026_07_25"
     },
     {
       "label": "An\u00e1lisis Ofertas de Pr\u00e9stamo \u2014 Avanz vs. Ficohsa (PDF, Spanish, 2026-07-28)",
@@ -3765,9 +3762,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "finance_avanz_vs_ficohsa_loan_analysis_2026_07_28",
-      "community": 4,
-      "norm_label": "analisis ofertas de prestamo \u2014 avanz vs. ficohsa (pdf, spanish, 2026-07-28)"
+      "community": 5,
+      "norm_label": "analisis ofertas de prestamo \u2014 avanz vs. ficohsa (pdf, spanish, 2026-07-28)",
+      "id": "finance_avanz_vs_ficohsa_loan_analysis_2026_07_28"
     },
     {
       "label": "Debt Payoff Analysis (PDF, English, 2026-07-25)",
@@ -3778,9 +3775,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "finance_debt_payoff_analysis_2026_07_25",
       "community": 2,
-      "norm_label": "debt payoff analysis (pdf, english, 2026-07-25)"
+      "norm_label": "debt payoff analysis (pdf, english, 2026-07-25)",
+      "id": "finance_debt_payoff_analysis_2026_07_25"
     },
     {
       "label": "Muro Final Lateral Derecho (PDF)",
@@ -3791,9 +3788,243 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "home_muro_final_lateral_derecho",
       "community": 10,
-      "norm_label": "muro final lateral derecho (pdf)"
+      "norm_label": "muro final lateral derecho (pdf)",
+      "id": "home_muro_final_lateral_derecho"
+    },
+    {
+      "label": "In All Media",
+      "file_type": "concept",
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "2026_2026_07_in_all_media",
+      "community": 0,
+      "norm_label": "in all media"
+    },
+    {
+      "label": "Enhancement Payment System",
+      "file_type": "concept",
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "2026_2026_07_enhancement_payment_system",
+      "community": 0,
+      "norm_label": "enhancement payment system"
+    },
+    {
+      "label": "ALUVAL Nicaragua",
+      "file_type": "concept",
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "2026_2026_07_aluval_nicaragua",
+      "community": 0,
+      "norm_label": "aluval nicaragua"
+    },
+    {
+      "label": "Taller Instalaciones Martinez",
+      "file_type": "concept",
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "2026_2026_07_taller_instalaciones_martinez",
+      "community": 0,
+      "norm_label": "taller instalaciones martinez"
+    },
+    {
+      "label": "Nielsis Mendoza",
+      "file_type": "concept",
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "2026_2026_07_nielsis_mendoza",
+      "community": 0,
+      "norm_label": "nielsis mendoza"
+    },
+    {
+      "label": "Andres Cornejo (EPS Subcontractor)",
+      "file_type": "concept",
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "2026_2026_07_andres_cornejo",
+      "community": 0,
+      "norm_label": "andres cornejo (eps subcontractor)"
+    },
+    {
+      "label": "David Martinez",
+      "file_type": "concept",
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "2026_2026_07_david_martinez",
+      "community": 0,
+      "norm_label": "david martinez"
+    },
+    {
+      "label": "Xochilt Alexandra",
+      "file_type": "concept",
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "2026_2026_07_xochilt_alexandra",
+      "community": 0,
+      "norm_label": "xochilt alexandra"
+    },
+    {
+      "label": "PedidosYa*Plus (Subscription)",
+      "file_type": "concept",
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "2026_2026_07_pedidosya_plus",
+      "community": 0,
+      "norm_label": "pedidosya*plus (subscription)"
+    },
+    {
+      "label": "BAC",
+      "file_type": "concept",
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "finance_credit_cards_bac",
+      "community": 0,
+      "norm_label": "bac"
+    },
+    {
+      "label": "Ficohsa",
+      "file_type": "concept",
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "finance_credit_cards_ficohsa",
+      "community": 2,
+      "norm_label": "ficohsa"
+    },
+    {
+      "label": "Lafise (Lafise Bancentro)",
+      "file_type": "concept",
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "finance_credit_cards_lafise",
+      "community": 2,
+      "norm_label": "lafise (lafise bancentro)"
+    },
+    {
+      "label": "Debt Payoff Analysis",
+      "file_type": "concept",
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "finance_credit_cards_debt_payoff_analysis",
+      "community": 2,
+      "norm_label": "debt payoff analysis"
+    },
+    {
+      "label": "Analisis Oferta Avanz 2026-07-28",
+      "file_type": "concept",
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "finance_credit_cards_analisis_oferta_avanz",
+      "community": 2,
+      "norm_label": "analisis oferta avanz 2026-07-28"
+    },
+    {
+      "label": "Asados Dona Tania",
+      "file_type": "concept",
+      "source_file": "will_personal/Finance/Expenses/Categories/Food.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "categories_food_asados_dona_tania",
+      "community": 0,
+      "norm_label": "asados dona tania"
+    },
+    {
+      "label": "PedidosYa*Propina",
+      "file_type": "concept",
+      "source_file": "will_personal/Finance/Expenses/Categories/Food.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "categories_food_pedidosya_propina",
+      "community": 0,
+      "norm_label": "pedidosya*propina"
+    },
+    {
+      "label": "PedidosYa*Market",
+      "file_type": "concept",
+      "source_file": "will_personal/Finance/Expenses/Categories/Market.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "categories_market_pedidosya_market",
+      "community": 0,
+      "norm_label": "pedidosya*market"
+    },
+    {
+      "label": "PedidosYa*LaColonia Categorization Rule",
+      "file_type": "rationale",
+      "source_file": "will_personal/Finance/Expenses/Categories/Market.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "categories_market_pedidosya_lacolonia",
+      "community": 0,
+      "norm_label": "pedidosya*lacolonia categorization rule"
     }
   ],
   "links": [
@@ -4264,7 +4495,7 @@
       "source_file": "will_personal/Finance/Debt Payoff Analysis.md",
       "source_location": "L74-76",
       "weight": 1.0,
-      "source": "finance_debt_payoff_analysis_current_payment_plan",
+      "source": "finance_debt_payoff_analysis_current_payment_plan_as_of_2026_07_26",
       "target": "companies_enhancement_payment_system"
     },
     {
@@ -4344,7 +4575,7 @@
       "source_file": "will_personal/Finance/Debt Payoff Analysis.md",
       "source_location": "L74-76",
       "weight": 1.0,
-      "source": "finance_debt_payoff_analysis_current_payment_plan",
+      "source": "finance_debt_payoff_analysis_current_payment_plan_as_of_2026_07_26",
       "target": "companies_ficohsa"
     },
     {
@@ -4964,7 +5195,7 @@
       "source_file": "will_personal/Finance/Debt Payoff Analysis.md",
       "source_location": "L78",
       "weight": 1.0,
-      "source": "finance_debt_payoff_analysis_current_payment_plan",
+      "source": "finance_debt_payoff_analysis_current_payment_plan_as_of_2026_07_26",
       "target": "contacts_taller_instalaciones_martinez"
     },
     {
@@ -5255,6 +5486,26 @@
       "source_location": null,
       "weight": 1.0,
       "source": "2026_2026_07",
+      "target": "2026_2026_07_aluval_nicaragua"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "2026_2026_07_andres_cornejo"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
       "target": "2026_2026_07_bills_expenses"
     },
     {
@@ -5276,6 +5527,16 @@
       "weight": 1.0,
       "source": "2026_2026_07",
       "target": "2026_2026_07_community_security"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "2026_2026_07_david_martinez"
     },
     {
       "relation": "references",
@@ -5315,6 +5576,16 @@
       "source_location": null,
       "weight": 1.0,
       "source": "2026_2026_07",
+      "target": "2026_2026_07_enhancement_payment_system"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
       "target": "2026_2026_07_fritoni"
     },
     {
@@ -5326,6 +5597,16 @@
       "weight": 1.0,
       "source": "2026_2026_07",
       "target": "2026_2026_07_home_internet"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "2026_2026_07_in_all_media"
     },
     {
       "relation": "references",
@@ -5365,7 +5646,27 @@
       "source_location": null,
       "weight": 1.0,
       "source": "2026_2026_07",
+      "target": "2026_2026_07_nielsis_mendoza"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
       "target": "2026_2026_07_notes"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "2026_2026_07_taller_instalaciones_martinez"
     },
     {
       "relation": "references",
@@ -5402,10 +5703,180 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "2026_2026_07_xochilt_alexandra"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
       "source_location": "L38",
       "weight": 1.0,
       "source": "2026_2026_07",
       "target": "2026_2026_07_xochilt_university"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "categories_education"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "categories_food"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "categories_food_asados_dona_tania"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "categories_food_pedidosya_propina"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "categories_health"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "categories_market"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "categories_market_pedidosya_lacolonia"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "categories_other"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "categories_security"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "categories_subscriptions"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "categories_transport"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "categories_utilities"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "finance_credit_cards"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "finance_credit_cards_amex_black"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "finance_credit_cards_pricesmart"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07",
+      "target": "finance_credit_cards_visa"
     },
     {
       "relation": "references",
@@ -5465,96 +5936,6 @@
       "source_location": null,
       "weight": 1.0,
       "source": "_inbox_bill_2026_07_25_nacatamales",
-      "target": "2026_2026_07"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "will_personal/Finance/Expenses/Categories/Education.md",
-      "source_location": "L11",
-      "weight": 1.0,
-      "source": "categories_education",
-      "target": "2026_2026_07"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "will_personal/Finance/Expenses/Categories/Food.md",
-      "source_location": "L11",
-      "weight": 1.0,
-      "source": "categories_food",
-      "target": "2026_2026_07"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "will_personal/Finance/Expenses/Categories/Health.md",
-      "source_location": "L11",
-      "weight": 1.0,
-      "source": "categories_health",
-      "target": "2026_2026_07"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "will_personal/Finance/Expenses/Categories/Market.md",
-      "source_location": "L11",
-      "weight": 1.0,
-      "source": "categories_market",
-      "target": "2026_2026_07"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "will_personal/Finance/Expenses/Categories/Other.md",
-      "source_location": "L11",
-      "weight": 1.0,
-      "source": "categories_other",
-      "target": "2026_2026_07"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "will_personal/Finance/Expenses/Categories/Security.md",
-      "source_location": "L11",
-      "weight": 1.0,
-      "source": "categories_security",
-      "target": "2026_2026_07"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "will_personal/Finance/Expenses/Categories/Subscriptions.md",
-      "source_location": "L11",
-      "weight": 1.0,
-      "source": "categories_subscriptions",
-      "target": "2026_2026_07"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "will_personal/Finance/Expenses/Categories/Transport.md",
-      "source_location": "L11",
-      "weight": 1.0,
-      "source": "categories_transport",
-      "target": "2026_2026_07"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "will_personal/Finance/Expenses/Categories/Utilities.md",
-      "source_location": "L11",
-      "weight": 1.0,
-      "source": "categories_utilities",
       "target": "2026_2026_07"
     },
     {
@@ -5965,7 +6346,37 @@
       "source_location": null,
       "weight": 1.0,
       "source": "finance_credit_cards",
+      "target": "2026_2026_07_taller_instalaciones_martinez"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_credit_cards",
       "target": "finance_credit_cards_amex_black"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_credit_cards",
+      "target": "finance_credit_cards_analisis_oferta_avanz"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_credit_cards",
+      "target": "finance_credit_cards_bac"
     },
     {
       "relation": "references",
@@ -6025,6 +6436,26 @@
       "source_location": null,
       "weight": 1.0,
       "source": "finance_credit_cards",
+      "target": "finance_credit_cards_debt_payoff_analysis"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_credit_cards",
+      "target": "finance_credit_cards_ficohsa"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_credit_cards",
       "target": "finance_credit_cards_ficohsa_card"
     },
     {
@@ -6036,6 +6467,16 @@
       "weight": 1.0,
       "source": "finance_credit_cards",
       "target": "finance_credit_cards_ficohsa_unnamed"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_credit_cards",
+      "target": "finance_credit_cards_lafise"
     },
     {
       "relation": "references",
@@ -6275,7 +6716,7 @@
       "source_location": null,
       "weight": 1.0,
       "source": "finance_debt_payoff_analysis",
-      "target": "finance_debt_payoff_analysis_current_payment_plan"
+      "target": "finance_debt_payoff_analysis_current_payment_plan_as_of_2026_07_26"
     },
     {
       "relation": "contains",
@@ -6365,7 +6806,7 @@
       "weight": 1.0,
       "confidence_score": 1.0,
       "source": "finance_debt_payoff_analysis_debt_payoff_analysis",
-      "target": "finance_debt_payoff_analysis_current_payment_plan"
+      "target": "finance_debt_payoff_analysis_current_payment_plan_as_of_2026_07_26"
     },
     {
       "relation": "contains",
@@ -6478,13 +6919,23 @@
       "target": "finance_loans_bac_008781001"
     },
     {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Debt Payoff Analysis.md",
+      "source_location": "L77-78",
+      "weight": 1.0,
+      "source": "finance_debt_payoff_analysis_current_payment_plan_as_of_2026_07_26",
+      "target": "finance_credit_cards_visa"
+    },
+    {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "will_personal/Finance/Debt Payoff Analysis.md",
-      "source_location": "L85",
+      "source_location": "L84",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "finance_debt_payoff_analysis_current_payment_plan",
+      "source": "finance_debt_payoff_analysis_current_payment_plan_as_of_2026_07_26",
       "target": "finance_debt_payoff_analysis_review_against_tier_strategy"
     },
     {
@@ -6548,6 +6999,26 @@
       "target": "finance_debts_notes"
     },
     {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07_david_martinez",
+      "target": "categories_education"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Expenses/Categories/Education.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "categories_education",
+      "target": "2026_2026_07_xochilt_alexandra"
+    },
+    {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "will_personal/Finance/Expenses/Categories/Education.md",
@@ -6596,6 +7067,16 @@
       "weight": 1.0,
       "source": "categories_food",
       "target": "categories_market"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Expenses/Categories/Food.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "categories_food",
+      "target": "categories_market_pedidosya_market"
     },
     {
       "relation": "rationale_for",
@@ -6672,6 +7153,26 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "will_personal/Finance/Expenses/Categories/Market.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "categories_market",
+      "target": "categories_market_pedidosya_lacolonia"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Expenses/Categories/Market.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "categories_market",
+      "target": "categories_market_pedidosya_market"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Expenses/Categories/Market.md",
       "source_location": "L13-14",
       "weight": 1.0,
       "source": "categories_market",
@@ -6698,6 +7199,26 @@
       "target": "categories_market_rule"
     },
     {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07_david_martinez",
+      "target": "categories_other"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Expenses/Categories/Other.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "categories_other",
+      "target": "2026_2026_07_pedidosya_plus"
+    },
+    {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "will_personal/Finance/Expenses/Categories/Other.md",
@@ -6712,7 +7233,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "will_personal/Finance/Expenses/Categories/Other.md",
-      "source_location": "L19",
+      "source_location": null,
       "weight": 1.0,
       "source": "categories_other",
       "target": "categories_subscriptions"
@@ -8971,6 +9492,66 @@
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_credit_cards_amex_black",
+      "target": "2026_2026_07_cafeteria_el_molino_vi"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_credit_cards_visa",
+      "target": "2026_2026_07_cafeteria_el_molino_vi"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_credit_cards_bac",
+      "target": "finance_credit_cards_pricesmart"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_credit_cards_bac",
+      "target": "finance_credit_cards_amex_black"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07_taller_instalaciones_martinez",
+      "target": "finance_credit_cards_visa"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "categories_food_asados_dona_tania",
+      "target": "finance_credit_cards_visa"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
       "source_file": "will_personal/Finance/Analisis Oferta Avanz 2026-07-28.md",
       "source_location": "L76",
       "weight": 1.0,
@@ -8981,11 +9562,41 @@
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "will_personal/Finance/Debt Payoff Analysis.md",
-      "source_location": "L77-78",
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
       "weight": 1.0,
-      "source": "finance_debt_payoff_analysis_current_payment_plan",
+      "source": "finance_credit_cards_bac",
       "target": "finance_credit_cards_visa"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_credit_cards_visa",
+      "target": "2026_2026_07_david_martinez"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_credit_cards_visa",
+      "target": "2026_2026_07_xochilt_alexandra"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_credit_cards_visa",
+      "target": "categories_market_pedidosya_market"
     },
     {
       "relation": "conceptually_related_to",
@@ -9076,50 +9687,70 @@
       "weight": 1.0,
       "source": "finance_debt_payoff_analysis_2026_07_25",
       "target": "finance_analisis_de_pago_de_deudas_2026_07_25"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "2026_2026_07_enhancement_payment_system",
+      "target": "2026_2026_07_andres_cornejo"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "will_personal/Finance/Credit Cards.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "finance_credit_cards_debt_payoff_analysis",
+      "target": "finance_credit_cards_analisis_oferta_avanz"
     }
   ],
   "hyperedges": [
     {
-      "id": "debt_analysis_report_family",
-      "label": "Debt Payoff Analysis Report Family (EN doc, EN PDF, ES PDF)",
+      "id": "debt_paydown_from_side_income",
+      "label": "Side-Income-Funded Visa Debt Paydown Amid New Charges",
       "nodes": [
-        "finance_debt_payoff_analysis",
-        "finance_debt_payoff_analysis_2026_07_25",
-        "finance_analisis_de_pago_de_deudas_2026_07_25"
+        "2026_2026_07_taller_instalaciones_martinez",
+        "finance_credit_cards_visa",
+        "categories_food_asados_dona_tania"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "will_personal/Finance/Credit Cards.md"
+    },
+    {
+      "id": "david_martinez_cross_category_spend",
+      "label": "David Martinez Expenses Split Across Education, Food, and Other",
+      "nodes": [
+        "2026_2026_07_david_martinez",
+        "categories_education",
+        "categories_food",
+        "categories_other"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "will_personal/Finance/2026/2026-07.md"
+    },
+    {
+      "id": "pedidosya_grocery_vs_food_triage",
+      "label": "PedidosYa Charges Triaged Between Market and Food via Merchant Suffix Rule",
+      "nodes": [
+        "finance_credit_cards",
+        "categories_market_pedidosya_lacolonia",
+        "categories_market_pedidosya_market",
+        "categories_food_pedidosya_propina"
       ],
       "relation": "form",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "will_personal/Finance/Debt Payoff Analysis.md"
-    },
-    {
-      "id": "pedidosya_category_routing",
-      "label": "PedidosYa Merchant Classification Routing Across Food/Market/Subscriptions/Other",
-      "nodes": [
-        "categories_food",
-        "categories_market",
-        "categories_subscriptions",
-        "categories_other"
-      ],
-      "relation": "participate_in",
-      "confidence": "INFERRED",
-      "confidence_score": 0.85,
       "source_file": "will_personal/Finance/Expenses/Categories/Market.md"
-    },
-    {
-      "id": "eps_income_debt_paydown_flow",
-      "label": "EPS Weekly Income Funding Biweekly Debt Paydown Net of Subcontractor Cost",
-      "nodes": [
-        "companies_enhancement_payment_system",
-        "finance_debt_payoff_analysis_current_payment_plan",
-        "finance_credit_cards_visa",
-        "contacts_andres_cornejo"
-      ],
-      "relation": "participate_in",
-      "confidence": "INFERRED",
-      "confidence_score": 0.85,
-      "source_file": "will_personal/Finance/Debt Payoff Analysis.md"
     }
   ],
-  "built_at_commit": "ac8e2ef7c557b995a5793c481048077218fd637e"
+  "built_at_commit": "4c197fe1c18115fc92571eed01a275f8b02eaf6d"
 }
