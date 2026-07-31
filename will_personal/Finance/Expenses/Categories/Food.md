@@ -33,6 +33,11 @@ Running log of food expenses across months. Month summary: [[2026-07|July 2026]]
 | 2026-07-29 | Cafeteria El Molino SA (BAC card 8848)            | 14.72        | 539.13        | paid   |
 | 2026-07-29 | Asados Dona Tania (BAC card 8848, Visa)           | 55.97        | 2,050.00      | paid   |
 | 2026-07-29 | Propina Asados Dona Tania                         | 4.10         | 150.00        | paid   |
-| **Total**  |                                                   | **491.07**   | **17,981.31** |        |
+| 2026-07-30 | Cafeteria El Molino (card 7910)                   | 5.34         | 195.65        | paid   |
+| 2026-07-30 | McDonald's Km 11.5 C.Ma                           | 28.81        | 1,055.00      | paid   |
+| 2026-07-30 | PedidosYa*Propina                                 | 0.41         | 15.00         | paid   |
+| 2026-07-31 | PedidosYa*Cocina Dona                             | 7.13         | 261.00        | pending|
+| 2026-07-31 | PedidosYa*Propina                                 | 0.41         | 15.00         | pending|
+| **Total**  |                                                   | **533.17**   | **19,522.96** |        |
 
 Moved 2× PedidosYa*Market (07-27, $14.89/545.50 and $10.96/401.25) to [[Market]] — groceries, not prepared food.
