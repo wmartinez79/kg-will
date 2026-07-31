@@ -18,4 +18,5 @@ Running log of utility expenses across months. Month summary: [[2026-07|July 202
 | 2026-07-25 | Home Internet (paid via AMEX) | 47.99 | 1,757.58 | paid |
 | 2026-07-25 | Tia Margarita Cable (paid via PriceSmart CC) | 24.02 | 879.71 | paid |
 | 2026-07-25 | Water Bill (cash) | 20.00 | 732.49 | pending |
-| **Total** | | **271.46** | **9,943.09** | |
+| 2026-07-31 | Tigo Recarga (Rec.Sec, BAC card 8848) | 6.01 | 220.00 | pending |
+| **Total** | | **277.47** | **10,163.09** | |
