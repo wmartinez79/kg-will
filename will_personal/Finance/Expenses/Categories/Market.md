@@ -21,3 +21,9 @@ PedidosYa is used both for grocery delivery and prepared-meal delivery — only 
 | 2026-07-29 | PedidosYa*Hiper La Col | 23.51   | 861.10       | paid   |
 | 2026-07-30 | PedidosYa*Hiper La Colonia (BAC card 8848) | 21.78 | 797.50 | pending |
 | **Total**  |                   | **71.14**    | **2,605.35** |        |
+
+## 2026-08
+| Date       | Item                                       | Amount (USD) | Amount (NIO) | Status  |
+| ---------- | ------------------------------------------- | ------------ | ------------ | ------- |
+| 2026-08-01 | La Colonia Veracruz (BAC card 8848)         | 46.08        | 1,687.65     | pending |
+| **Total**  |                                             | **46.08**    | **1,687.65** |         |

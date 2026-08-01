@@ -40,6 +40,7 @@ Running log of food expenses across months. Month summary: [[2026-07|July 2026]]
 | 2026-07-31 | PedidosYa*Propina                                 | 0.41         | 15.00         | pending|
 | 2026-07-31 | PedidosYa*Panaderia Ma                            | 6.12         | 224.00        | pending|
 | 2026-07-31 | PedidosYa*Propina                                 | 0.41         | 15.00         | pending|
-| **Total**  |                                                   | **539.70**   | **19,761.96** |        |
+| 2026-07-31 | Mi Ranchito Zona Viva (SIGNATURE card 7247)       | 51.20        | 1,874.99      | pending|
+| **Total**  |                                                   | **590.90**   | **21,636.95** |        |
 
 Moved 2× PedidosYa*Market (07-27, $14.89/545.50 and $10.96/401.25) to [[Market]] — groceries, not prepared food.
