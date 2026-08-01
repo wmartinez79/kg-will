@@ -16,11 +16,12 @@ PedidosYa is used both for grocery delivery and prepared-meal delivery — only 
 ## 2026-07
 | Date       | Item              | Amount (USD) | Amount (NIO) | Status |
 | ---------- | ----------------- | ------------ | ------------ | ------ |
+| 2026-07-25 | PriceSmart 8902   | 243.94       | 8,934.56     | paid   |
 | 2026-07-27 | PedidosYa*Market  | 14.89        | 545.50       | paid   |
 | 2026-07-27 | PedidosYa*Market  | 10.96        | 401.25       | paid   |
 | 2026-07-29 | PedidosYa*Hiper La Col | 23.51   | 861.10       | paid   |
 | 2026-07-30 | PedidosYa*Hiper La Colonia (BAC card 8848) | 21.78 | 797.50 | pending |
-| **Total**  |                   | **71.14**    | **2,605.35** |        |
+| **Total**  |                   | **315.08**   | **11,539.91**|        |
 
 ## 2026-08
 | Date       | Item                                       | Amount (USD) | Amount (NIO) | Status  |

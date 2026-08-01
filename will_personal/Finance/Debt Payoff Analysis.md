@@ -9,6 +9,8 @@ tags:
 
 Prepared 2026-07-25 (see [[Debt Payoff Analysis 2026-07-25.pdf|source PDF]]). Total debt (consolidated USD): **$85,951.21** — Loans $45,000.08 (8 open) + Credit Cards $13,848.96 USD + NIO 992,598.11 (≈$27,102.17 @ 36.6243 BCN rate).
 
+**Update 2026-08-01:** AVANZ new 60mo loan disbursed ($10,800.00, 9 loans open) and applied to PriceSmart/AMEX Black NIO balances (see #4, #6, #9 below and [[Loans]]) — total consolidated debt not yet recomputed here pending reconciliation of the ~$1,746 disbursement gap noted in [[Loans]].
+
 ## Method
 Hybrid **avalanche** (highest interest rate first) with a **quick-win sweep** up front: near-zero balances get cleared immediately regardless of rate — costs almost nothing, frees up minimum-payment cash flow right away, drops open accounts fast. After the sweep, strict avalanche by real/estimated APR. This tiering applies to *extra/discretionary* paydown — minimum payments on every open account still go out on schedule regardless of tier (see [[Credit Cards]] Payment Plan for the current cycle's minimums).
 
@@ -36,26 +38,27 @@ Hybrid **avalanche** (highest interest rate first) with a **quick-win sweep** up
 
 **Tier 1 — Top priority: AVANZ (family agreement) + worst-rate NIO credit cards**
 3. AVANZ loan (wife) — $7,031.67 @ ~23.3% est. — elevated to Tier 1 by family agreement, not rate — in progress, continue
-4. BAC PriceSmart CC (NIO) — NIO 102,658.88 / $2,803.03 @ 45% — smallest of the three BAC NIO balances
+4. BAC PriceSmart CC (NIO) — NIO 10,613.92 / $289.75 @ 45% — NIO 100,331.20 paid 2026-08-01 via Avanz loan disbursement; balance corrected 2026-08-02 to include two 07-25 charges (NIO 9,734.21) missed from tracking, closing in full planned 2026-08-02
 5. BAC Visa CC (NIO) — NIO 170,161.18 / $4,646.13 @ 45%
-6. BAC AMEX Black CC (NIO) — NIO 264,281.86 / $7,216.02 @ 45% — largest BAC NIO balance
+6. BAC AMEX Black CC (NIO) — NIO 33,041.23 / $902.14 @ 45% — NIO 231,268.80 paid 2026-08-01 via Avanz loan disbursement
 7. Ficohsa CC (NIO) — NIO 311,917.34 / $8,516.68 @ 39% — largest single card balance overall
 8. Lafise CC (NIO) — NIO 143,578.85 / $3,920.32 @ 35% — lowest rate in tier, kept last per strict avalanche (considered moving earlier for a quick win, reverted — costs more interest overall)
 
 **Tier 2 — ~18.6–20% band** (ordered by rate, confirmed rates take precedence over estimates)
-9. Ficohsa loan 2211 — $5,983.59 @ ~20% unclear — confirm with Ficohsa, $4 gap unexplained
-10. BAC AMEX Black CC (USD) — $4,774.47 @ 20.04%
-11. Ficohsa CC (USD) — $4,616.62 @ 19.8%
-12. Lafise CC (USD) — $4,357.73 @ 19%
-13. Ficohsa loan 0000044006 — $15,338.11 @ 18.62% — confirmed lower than earlier estimate (20.3%), drops to bottom of tier despite being biggest single loan; frees $565.28/mo minimum when done
+9. AVANZ new loan (60mo) — $10,800.00 @ ~22.1% real — disbursed 2026-08-01, see [[Loans]] and [[Analisis Oferta Avanz 2026-07-28]]
+10. Ficohsa loan 2211 — $5,983.59 @ ~20% unclear — confirm with Ficohsa, $4 gap unexplained
+11. BAC AMEX Black CC (USD) — $4,774.47 @ 20.04%
+12. Ficohsa CC (USD) — $4,616.62 @ 19.8%
+13. Lafise CC (USD) — $4,357.73 @ 19%
+14. Ficohsa loan 0000044006 — $15,338.11 @ 18.62% — confirmed lower than earlier estimate (20.3%), drops to bottom of tier despite being biggest single loan; frees $565.28/mo minimum when done
 
 **Tier 3 — BAC installment loans** (rate gap negligible, ordered smallest balance first)
-14. BAC loan 007989181 — $1,801.44 @ 16.2% — smallest balance, quick win
-15. BAC loan 010255001 — $3,414.28 @ 16.2%
-16. BAC loan 011195771 — $6,623.61 @ 16.92% — largest of the three, slightly higher rate too
+15. BAC loan 007989181 — $1,801.44 @ 16.2% — smallest balance, quick win
+16. BAC loan 010255001 — $3,414.28 @ 16.2%
+17. BAC loan 011195771 — $6,623.61 @ 16.92% — largest of the three, slightly higher rate too
 
 **Tier 4 — Cheapest debt held** (minimum payment only, no extra here)
-17. BAC car loan (wife) — $4,509.68 @ 10.5% — lowest confirmed rate of all debts, don't overpay this one
+18. BAC car loan (wife) — $4,509.68 @ 10.5% — lowest confirmed rate of all debts, don't overpay this one
 
 USD column converts NIO balances @ 36.6243 (BCN official rate); USD-denominated debts repeat the same figure.
 
