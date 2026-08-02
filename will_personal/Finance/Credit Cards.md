@@ -11,7 +11,7 @@ tags:
 |---|---|---|---|---|---|---|---|---|---|
 | [[BAC]] | PriceSmart | 10613.92 | 0.00 | 6798.00 | 11.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[BAC]] | AMEX Black | 33041.23 | 4774.47 | 16248.00 | 202.00 | 45% | 20.04% | 2026-08-19 | open |
-| [[BAC]] | Visa (...8848, ...3364, ...7910, ...0038 additional) | 180499.19 | 0.00 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
+| [[BAC]] | Visa (...8848, ...3364, ...7910, ...0038 additional) | 180860.94 | 0.00 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[Ficohsa]] | (unnamed) | 311917.34 | 4616.62 | 20218.46 | 234.43 | 39% | 19.8% | 2026-08-11 | open |
 | [[Lafise]] | Lafise Bancentro | 143578.85 | 4357.73 | 9324.00 | 226.00 | 35% | 19% | 2026-08-04 | open |
 
@@ -36,6 +36,7 @@ tags:
 | 2026-07-29 | Visa | 9400.00 |  |
 | 2026-08-01 | PriceSmart | 100331.20 |  |
 | 2026-08-01 | AMEX Black | 231268.80 |  |
+| 2026-08-01 | Visa | 3000.00 |  |
 
 ## Charges
 | Date       | Card       | Amount (NIO) | Amount (USD) | Item                                                |
@@ -61,6 +62,10 @@ tags:
 | 2026-07-27 | AMEX Black | 328.17       |              | Cafeteria El Molino SA (card ...3040)               |
 | 2026-07-28 | Visa       | 1509.29      |              | Puma Gueguense-Pista (gas, card ...0038)            |
 | 2026-07-29 | Visa       | 2050.00      |              | Asados Dona Tania (card ...8848)                    |
+| 2026-08-01 | Visa       | 1330.75      |              | La Union Esquipulas (card ...8848, filed [[Market]]) |
+| 2026-08-01 | Visa       | 1204.00      |              | McDonald's KM 11.5 C.MA (card ...8848)              |
+| 2026-08-01 | Visa       | 160.00       |              | McDonald's KM 11.5 C.MA (card ...3364)               |
+| 2026-08-01 | Visa       | 667.00       |              | McDonald's KM 11.5 C.MA (card ...8848)               |
 
 Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and execution in one place.
 
@@ -85,3 +90,4 @@ Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and ex
 - 2026-08-01: NIO 100,331.20 payment applied to PriceSmart: 101,658.88 − 100,331.20 = NIO 1,327.68. NIO 231,268.80 payment applied to AMEX Black: 264,310.03 − 231,268.80 = **NIO 33,041.23**. Confirmed as the Avanz disbursement (see [[Loans]]).
 - 2026-08-02 (correction, root cause of the PriceSmart gap flagged above): two PriceSmart charges from 2026-07-25 — PriceSmart 8902 (NIO 8,934.56) and PriceSmart Food Service (NIO 799.65) — were logged as expenses ([[Food]]/[[Market]]) but never applied to PriceSmart Current Debt. Adding both now: 1,327.68 + 8,934.56 + 799.65 = **NIO 10,613.92**, matching Will's bank-confirmed full-payoff figure. Gap resolved.
 - **Planned payments, 2026-08-02 (not yet applied — pending confirmation):** PriceSmart NIO 10,613.92 (closes in full), AMEX Black NIO 22,793.95, Visa NIO 29,482.23.
+- 2026-08-01: 4 new Visa charges (La Union Esquipulas 1,330.75; McDonald's ×3 — 1,204.00 card 8848, 160.00 card 3364, 667.00 card 8848 — total 3,361.75) and a NIO 3,000.00 payment applied directly against Current Debt: 180,499.19 + 3,361.75 − 3,000.00 = **NIO 180,860.94**.

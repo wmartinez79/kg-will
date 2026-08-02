@@ -44,3 +44,12 @@ Running log of food expenses across months. Month summary: [[2026-07|July 2026]]
 
 Moved 2× PedidosYa*Market (07-27, $14.89/545.50 and $10.96/401.25) to [[Market]] — groceries, not prepared food.
 Moved PriceSmart 8902 (07-25, $243.94/8,934.56) to [[Market]] — supermarket run, not prepared food. PriceSmart Food Service stays here (food court, prepared).
+
+## 2026-08
+| Date       | Item                                    | Amount (USD) | Amount (NIO) | Status |
+| ---------- | ---------------------------------------- | ------------ | ------------ | ------ |
+| 2026-08-01 | McDonald's KM 11.5 C.MA (card ...8848)  | 32.87        | 1,204.00     | pending |
+| 2026-08-01 | McDonald's KM 11.5 C.MA (card ...3364)  | 4.37         | 160.00       | pending |
+| 2026-08-01 | McDonald's KM 11.5 C.MA (card ...8848)  | 18.21        | 667.00       | pending |
+| 2026-08-01 | Propina Mi Ranchito                     | 3.82         | 140.00       | paid   |
+| **Total**  |                                          | **59.27**    | **2,171.00** |        |
