@@ -25,4 +25,5 @@ Moved PedidosYa*Plus to [[Subscriptions]] — recurring monthly, not a one-off.
 |---|---|---|---|---|
 | 2026-08-02 | ARWIN (card ...0038) | 10.45 | 382.58 | pending |
 | 2026-08-02 | PG S.A (card ...0038) | 29.99 | 1,098.37 | pending |
-| **Total** | | **40.44** | **1,480.95** | |
+| 2026-08-01 | Jardineria Genaro | 21.84 | 800.00 | paid |
+| **Total** | | **62.28** | **2,280.95** | |
