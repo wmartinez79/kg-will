@@ -12,7 +12,7 @@ tags:
 | [[BAC]] | PriceSmart | 0.00 | 0.00 | 6798.00 | 11.00 | 45% | 20.04% | 2026-08-19 | paid off |
 | [[BAC]] | AMEX Black | 10247.28 | 4774.47 | 16248.00 | 202.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[BAC]] | Visa (...8848, ...3364, ...7910, ...0038 additional) | 151378.71 | 0.00 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
-| [[Ficohsa]] | (unnamed) | 311917.34 | 4616.62 | 20218.46 | 234.43 | 39% | 19.8% | 2026-08-11 | open |
+| [[Ficohsa]] | (unnamed) | 306917.34 | 4382.19 | 20218.46 | 234.43 | 39% | 19.8% | 2026-08-11 | open |
 | [[Lafise]] | Lafise Bancentro | 143578.85 | 4357.73 | 9324.00 | 226.00 | 35% | 19% | 2026-08-04 | open |
 
 ## Payments
@@ -40,6 +40,8 @@ tags:
 | 2026-08-02 | PriceSmart       | 10613.92     |              |
 | 2026-08-02 | Visa             | 29482.23     |              |
 | 2026-08-02 | AMEX Black       | 22793.95     |              |
+| 2026-08-01 | Ficohsa          |              | 234.43       |
+| 2026-08-01 | Ficohsa          | 5000.00      |              |
 
 ## Charges
 | Date       | Card       | Amount (NIO) | Amount (USD) | Item                                                |
@@ -93,4 +95,6 @@ Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and ex
 - 2026-08-01: NIO 100,331.20 payment applied to PriceSmart: 101,658.88 − 100,331.20 = NIO 1,327.68. NIO 231,268.80 payment applied to AMEX Black: 264,310.03 − 231,268.80 = **NIO 33,041.23**. Confirmed as the Avanz disbursement (see [[Loans]]).
 - 2026-08-02 (correction, root cause of the PriceSmart gap flagged above): two PriceSmart charges from 2026-07-25 — PriceSmart 8902 (NIO 8,934.56) and PriceSmart Food Service (NIO 799.65) — were logged as expenses ([[Food]]/[[Market]]) but never applied to PriceSmart Current Debt. Adding both now: 1,327.68 + 8,934.56 + 799.65 = **NIO 10,613.92**, matching Will's bank-confirmed full-payoff figure. Gap resolved.
 - 2026-08-02: planned payments applied — PriceSmart NIO 10,613.92 (10,613.92 − 10,613.92 = **NIO 0.00**, closed in full); AMEX Black NIO 22,793.95 (33,041.23 − 22,793.95 = **NIO 10,247.28**); Visa NIO 29,482.23 (180,860.94 − 29,482.23 = **NIO 151,378.71**).
+- 2026-08-01: $234.43 payment applied to Ficohsa (USD): 4,616.62 − 234.43 = **$4,382.19**. Per [[Debt Payoff Analysis]] plan (min payment, Tier 2 #12, no extra paydown).
+- 2026-08-01: NIO 5,000.00 partial min payment applied to Ficohsa (NIO): 311,917.34 − 5,000.00 = **NIO 306,917.34**. First leg of two-Saturday min payment plan (remainder NIO 15,218.46 due 08-08) — [[Debt Payoff Analysis]] Tier 1 #7.
 - 2026-08-01: 4 new Visa charges (La Union Esquipulas 1,330.75; McDonald's ×3 — 1,204.00 card 8848, 160.00 card 3364, 667.00 card 8848 — total 3,361.75) and a NIO 3,000.00 payment applied directly against Current Debt: 180,499.19 + 3,361.75 − 3,000.00 = **NIO 180,860.94**.
