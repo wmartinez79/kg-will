@@ -52,4 +52,6 @@ Moved PriceSmart 8902 (07-25, $243.94/8,934.56) to [[Market]] — supermarket ru
 | 2026-08-01 | McDonald's KM 11.5 C.MA (card ...3364)  | 4.37         | 160.00       | pending |
 | 2026-08-01 | McDonald's KM 11.5 C.MA (card ...8848)  | 18.21        | 667.00       | pending |
 | 2026-08-01 | Propina Mi Ranchito                     | 3.82         | 140.00       | paid   |
-| **Total**  |                                          | **59.27**    | **2,171.00** |        |
+| 2026-08-02 | Fritoni (card ...3364)                  | 18.29        | 670.00       | pending |
+| 2026-08-02 | Tulum (card ...8848)                    | 38.51        | 1,410.50     | pending |
+| **Total**  |                                          | **116.07**   | **4,251.50** |        |

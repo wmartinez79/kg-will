@@ -19,3 +19,10 @@ Running log of miscellaneous expenses across months. Month summary: [[2026-07|Ju
 | **Total** | | **42.24** | **1,547.04** | |
 
 Moved PedidosYa*Plus to [[Subscriptions]] — recurring monthly, not a one-off.
+
+## 2026-08
+| Date | Item | Amount (USD) | Amount (NIO) | Status |
+|---|---|---|---|---|
+| 2026-08-02 | ARWIN (card ...0038) | 10.45 | 382.58 | pending |
+| 2026-08-02 | PG S.A (card ...0038) | 29.99 | 1,098.37 | pending |
+| **Total** | | **40.44** | **1,480.95** | |
