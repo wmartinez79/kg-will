@@ -14,6 +14,7 @@ tags:
 | [[BAC]] | Visa (...8848, ...3364, ...7910, ...0038 additional) | 151378.71 | 0.00 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[Ficohsa]] | (unnamed) | 306917.34 | 4382.19 | 20218.46 | 234.43 | 39% | 19.8% | 2026-08-11 | open |
 | [[Lafise]] | Lafise Bancentro | 143578.85 | 4357.73 | 9324.00 | 226.00 | 35% | 19% | 2026-08-04 | open |
+| [[Credisiman]] | (unnamed) | 1353.09 | 0.00 | 183.12 | 0.00 | TBD | — | 2026-08-18 | open |
 
 ## Payments
 | Date       | Card             | Amount (NIO) | Amount (USD) |
@@ -75,6 +76,7 @@ tags:
 Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and execution in one place.
 
 ## Notes
+- 2026-08-03: Credisiman CC added — previously missed. Current Debt NIO 1,353.09, min payment NIO 183.12, max payment date 2026-08-18. APR unconfirmed (TBD).
 - 2026-07-26: BAC card ending 8848 identified as the BAC Visa card above; card ...3364 confirmed as an additional card on the same Visa account.
 - 2026-07-26: applied PedidosYa (NIO 564.00) + Dim Sum (NIO 1,368.10) charges above directly against Visa Current Debt, total +NIO 1,932.10.
 - 2026-07-25: applied all logged payments to date (Visa $116.94, AMEX $202.00, PriceSmart NIO 6798/$61.34, Lafise NIO 11000/$230) directly against Current Debt above — real-time balance, not yet bank-confirmed via next statement.

@@ -17,7 +17,7 @@ tags:
 | [[Ficohsa]] | 2211             | 5983.59            | 592.34             | unclear (~20% est.) | 2026-08-02       | open   |
 | [[BAC]]     | (car loan, wife) | 4509.68            | 300.00              | 10.5%               | 2026-10-25       | open   |
 | [[AVANZ]]   | (loan, wife)     | 7031.67            | 490.82             | ~23.3% (est.)       | 2026-08-16       | open   |
-| [[AVANZ]]   | (new loan, 60mo, disbursed 2026-08-01) | 10800.00 | 287.00 | ~22.1% real (1.5% nominal/mo quoted) | TBD (first payment date pending) | open |
+| [[AVANZ]]   | (new loan, 60mo, disbursed 2026-08-01) | 10800.00 | 287.00 | ~22.1% real (1.5% nominal/mo quoted) | 2026-09-01       | open |
 
 ## Payment History
 
@@ -78,5 +78,5 @@ $300/mo payment, ~$184.25 capital + ~$115.75 interest per payment (approx, pendi
 
 ## Notes
 - AVANZ is a top payoff priority by family agreement (not purely rate-driven) — treat as Tier 1 alongside the highest-rate NIO credit card balances, even though its ~23.3% est. rate is below BAC/Ficohsa/Lafise NIO card rates (45%/39%/35%).
-- New AVANZ 60mo loan, disbursed 2026-08-01 — exact conditions evaluated in [[Analisis Oferta Avanz 2026-07-28|Avanz vs Ficohsa analysis]]: $10,800.00 face, 0% disbursement fee, $10,800.00 net, ~$287.00/mo (insurance included), 60mo term, 1.5% nominal monthly rate quoted, ~1.68% real implied monthly / ~22.1% real effective annual (backed out of the quoted payment). Chosen over Ficohsa's competing offer (~27.7% real, 2% disbursement fee, insufficient net amount).
+- New AVANZ 60mo loan, disbursed 2026-08-01 — exact conditions evaluated in [[Analisis Oferta Avanz 2026-07-28|Avanz vs Ficohsa analysis]]: $10,800.00 face, 0% disbursement fee, $10,800.00 net, ~$287.00/mo (insurance included), 60mo term, 1.5% nominal monthly rate quoted, ~1.68% real implied monthly / ~22.1% real effective annual (backed out of the quoted payment). Chosen over Ficohsa's competing offer (~27.7% real, 2% disbursement fee, insufficient net amount). Max payment date confirmed 2026-09-01.
 - 2026-08-01 disbursement applied: NIO 100,331.20 to PriceSmart + NIO 231,268.80 to AMEX Black (see [[Credit Cards]]) = $9,053.90 @ 36.6243 — **short of the proposed allocation** ($10,028.02 to fully close both + $771.98 surplus to Visa). Neither card zeroed (PriceSmart NIO 1,327.68 / AMEX Black NIO 33,041.23 remain) and no surplus reached Visa. Gap ($1,746.10) unreconciled — need to confirm whether disbursement fees/insurance were deducted upfront or the full $10,800 wasn't applied as planned. Update [[Debt Payoff Analysis]] once resolved.
