@@ -9,7 +9,9 @@ tags:
 
 Prepared 2026-07-25 (see [[Debt Payoff Analysis 2026-07-25.pdf|source PDF]]). Total debt (consolidated USD): **$85,951.21** — Loans $45,000.08 (8 open) + Credit Cards $13,848.96 USD + NIO 992,598.11 (≈$27,102.17 @ 36.6243 BCN rate).
 
-**Update 2026-08-01:** AVANZ new 60mo loan disbursed ($10,800.00, 9 loans open) and applied to PriceSmart/AMEX Black NIO balances (see #4, #6, #9 below and [[Loans]]) — total consolidated debt not yet recomputed here pending reconciliation of the ~$1,746 disbursement gap noted in [[Loans]].
+**Update 2026-08-01:** AVANZ new 60mo loan disbursed ($10,800.00, 9 loans open) and applied to PriceSmart/AMEX Black NIO balances (see #5, #7, #10 below and [[Loans]]) — total consolidated debt not yet recomputed here pending reconciliation of the ~$1,746 disbursement gap noted in [[Loans]].
+
+**Update 2026-08-03:** PriceSmart closed in full 2026-08-02 (#5); BAC Visa NIO and AMEX Black NIO paid down 2026-08-02 (#6, #7); Ficohsa CC min payments applied 2026-08-01, both NIO (partial) and USD legs (#8, #13); AVANZ new loan max payment date confirmed 2026-09-01 (#10); Credisiman CC added, previously missed (#3). Total consolidated debt still not recomputed here — see [[Credit Cards]] and [[Loans]] for current per-account balances.
 
 ## Method
 Hybrid **avalanche** (highest interest rate first) with a **quick-win sweep** up front: near-zero balances get cleared immediately regardless of rate — costs almost nothing, frees up minimum-payment cash flow right away, drops open accounts fast. After the sweep, strict avalanche by real/estimated APR. This tiering applies to *extra/discretionary* paydown — minimum payments on every open account still go out on schedule regardless of tier (see [[Credit Cards]] Payment Plan for the current cycle's minimums).
@@ -35,30 +37,31 @@ Hybrid **avalanche** (highest interest rate first) with a **quick-win sweep** up
 **Tier 0 — Quick-win sweep** (do immediately, in parallel with everything below)
 1. ~~BAC Visa CC (USD) — $100.03 @ 20.04%~~ — **done 2026-07-27**, confirmed $0.00 via online banking, ahead of the 08-01 target
 2. BAC loan 008781001 — $297.70 @ 16.2% — lowest-balance loan, frees $112.71/mo minimum
+3. Credisiman CC — NIO 1,353.09 / $36.95 — APR unconfirmed (TBD); previously missed from tracking, added 2026-08-03; tiny balance, treated as quick-win regardless of rate
 
 **Tier 1 — Top priority: AVANZ (family agreement) + worst-rate NIO credit cards**
-3. AVANZ loan (wife) — $7,031.67 @ ~23.3% est. — elevated to Tier 1 by family agreement, not rate — in progress, continue
-4. BAC PriceSmart CC (NIO) — NIO 10,613.92 / $289.75 @ 45% — NIO 100,331.20 paid 2026-08-01 via Avanz loan disbursement; balance corrected 2026-08-02 to include two 07-25 charges (NIO 9,734.21) missed from tracking, closing in full planned 2026-08-02
-5. BAC Visa CC (NIO) — NIO 170,161.18 / $4,646.13 @ 45%
-6. BAC AMEX Black CC (NIO) — NIO 33,041.23 / $902.14 @ 45% — NIO 231,268.80 paid 2026-08-01 via Avanz loan disbursement
-7. Ficohsa CC (NIO) — NIO 311,917.34 / $8,516.68 @ 39% — largest single card balance overall
-8. Lafise CC (NIO) — NIO 143,578.85 / $3,920.32 @ 35% — lowest rate in tier, kept last per strict avalanche (considered moving earlier for a quick win, reverted — costs more interest overall)
+4. AVANZ loan (wife) — $7,031.67 @ ~23.3% est. — elevated to Tier 1 by family agreement, not rate — in progress, continue
+5. ~~BAC PriceSmart CC (NIO) — NIO 0.00 / $0.00 @ 45%~~ — **closed in full 2026-08-02**, NIO 10,613.92 payment cleared remaining balance
+6. BAC Visa CC (NIO) — NIO 151,378.71 / $4,133.44 @ 45% — was NIO 180,860.94; NIO 29,482.23 paid 2026-08-02
+7. BAC AMEX Black CC (NIO) — NIO 10,247.28 / $279.79 @ 45% — was NIO 33,041.23; NIO 22,793.95 paid 2026-08-02
+8. Ficohsa CC (NIO) — NIO 306,917.34 / $8,380.72 @ 39% — largest single card balance overall; NIO 5,000.00 min payment (partial leg) paid 2026-08-01, remainder NIO 15,218.46 due 2026-08-08
+9. Lafise CC (NIO) — NIO 147,028.34 / $4,014.50 @ 35% — reconciled against bank 2026-08-03 (was NIO 143,578.85, +3,449.49 gap; 1,874.99 explained by 07-31 Mi Ranchito Zona Viva charge on card ...7247, NIO 1,574.50 still unexplained); lowest rate in tier, kept last per strict avalanche (considered moving earlier for a quick win, reverted — costs more interest overall)
 
 **Tier 2 — ~18.6–20% band** (ordered by rate, confirmed rates take precedence over estimates)
-9. AVANZ new loan (60mo) — $10,800.00 @ ~22.1% real — disbursed 2026-08-01, see [[Loans]] and [[Analisis Oferta Avanz 2026-07-28]]
-10. Ficohsa loan 2211 — $5,983.59 @ ~20% unclear — confirm with Ficohsa, $4 gap unexplained
-11. BAC AMEX Black CC (USD) — $4,774.47 @ 20.04%
-12. Ficohsa CC (USD) — $4,616.62 @ 19.8%
-13. Lafise CC (USD) — $4,357.73 @ 19%
-14. Ficohsa loan 0000044006 — $15,338.11 @ 18.62% — confirmed lower than earlier estimate (20.3%), drops to bottom of tier despite being biggest single loan; frees $565.28/mo minimum when done
+10. AVANZ new loan (60mo) — $10,800.00 @ ~22.1% real — disbursed 2026-08-01, max payment date confirmed 2026-09-01, see [[Loans]] and [[Analisis Oferta Avanz 2026-07-28]]
+11. Ficohsa loan 2211 — $5,983.59 @ ~20% unclear — confirm with Ficohsa, $4 gap unexplained
+12. BAC AMEX Black CC (USD) — $4,774.47 @ 20.04%
+13. Ficohsa CC (USD) — $4,382.19 @ 19.8% — was $4,616.62; $234.43 min payment paid 2026-08-01
+14. Lafise CC (USD) — $4,357.73 @ 19%
+15. Ficohsa loan 0000044006 — $15,338.11 @ 18.62% — confirmed lower than earlier estimate (20.3%), drops to bottom of tier despite being biggest single loan; frees $565.28/mo minimum when done
 
 **Tier 3 — BAC installment loans** (rate gap negligible, ordered smallest balance first)
-15. BAC loan 007989181 — $1,801.44 @ 16.2% — smallest balance, quick win
-16. BAC loan 010255001 — $3,414.28 @ 16.2%
-17. BAC loan 011195771 — $6,623.61 @ 16.92% — largest of the three, slightly higher rate too
+16. BAC loan 007989181 — $1,801.44 @ 16.2% — smallest balance, quick win
+17. BAC loan 010255001 — $3,414.28 @ 16.2%
+18. BAC loan 011195771 — $6,623.61 @ 16.92% — largest of the three, slightly higher rate too
 
 **Tier 4 — Cheapest debt held** (minimum payment only, no extra here)
-18. BAC car loan (wife) — $4,509.68 @ 10.5% — lowest confirmed rate of all debts, don't overpay this one
+19. BAC car loan (wife) — $4,509.68 @ 10.5% — lowest confirmed rate of all debts, don't overpay this one
 
 USD column converts NIO balances @ 36.6243 (BCN official rate); USD-denominated debts repeat the same figure.
 
@@ -74,9 +77,9 @@ USD column converts NIO balances @ 36.6243 (BCN official rate); USD-denominated 
 ## Current Payment Plan (as of 2026-07-26)
 | Date | Action | Amount | Source |
 |---|---|---|---|
-| 2026-08-01 (Sat) | Ficohsa min payment (USD) | $234.43 | EPS income |
-| 2026-08-01 (Sat) | Ficohsa min payment (NIO, partial) | NIO 5,000.00 (of 20,218.46 min due) | EPS income |
-| 2026-08-08 (Sat) | Ficohsa min payment (NIO, remainder) | NIO 15,218.46 | EPS income |
+| 2026-08-01 (Sat) | ~~Ficohsa min payment (USD)~~ | $234.43 | EPS income — **done**, applied 2026-08-01, balance now $4,382.19 |
+| 2026-08-01 (Sat) | ~~Ficohsa min payment (NIO, partial)~~ | NIO 5,000.00 (of 20,218.46 min due) | EPS income — **done**, applied 2026-08-01, balance now NIO 306,917.34 |
+| 2026-08-08 (Sat) | Ficohsa min payment (NIO, remainder) | NIO 15,218.46 | EPS income — pending |
 | 2026-08-08 (Sat) | Visa — pay down accumulated charges from the week | TBD (accrues 08/01–08/08) | EPS income |
 | 2026-07-27 (Mon) | Visa (NIO) — actual destination of this income, not the BAC loan originally planned below | NIO 4,358.40 (~$120.00) | [[Taller Instalaciones Martinez]] income |
 
@@ -86,7 +89,7 @@ Notes:
 
 ### Review against tier strategy
 - **Visa USD payoff done 2026-07-27, ahead of the 08-01 target** — Tier 0 item #1 closed at $0.00, confirmed via online banking. Good execution, zero conflict with strategy.
-- **Ficohsa min payments (both legs) are mandatory upkeep, not discretionary paydown** — correct to send only the minimum here. Ficohsa CC sits at Tier 1 #7 (NIO) and Tier 2 #11 (USD), both behind AVANZ and the three BAC NIO cards; no extra cash should go to Ficohsa beyond the minimum until those higher-tier items are cleared.
+- **Ficohsa min payments are mandatory upkeep, not discretionary paydown** — correct to send only the minimum here. USD leg ($234.43) and NIO leg's first partial (NIO 5,000.00) both applied 2026-08-01 as planned; NIO remainder (NIO 15,218.46) still due 2026-08-08. Ficohsa CC sits at Tier 1 #8 (NIO) and Tier 2 #13 (USD), both behind AVANZ and the three BAC NIO cards; no extra cash should go to Ficohsa beyond the minimum until those higher-tier items are cleared.
 - **Correction:** Tier 0 item #2 (BAC loan 008781001, $297.70 @ 16.2%) did **not** get the $120 extra paydown as originally planned here — actual income was redirected to Visa (NIO 4,358.40) instead, per [[Credit Cards]] notes. BAC loan 008781001 remains at $297.70, still needs its quick-win paydown.
 - **AVANZ (Tier 1 #3) is ongoing per family agreement, outside this plan** — keep its payments going, don't let it slip while attention is on Visa/Ficohsa.
 - **This cycle is minimums-only, no extra avalanche paydown yet** — consistent with the "better perspective in a month" comment; once a month of tracked expenses gives a stable surplus, route extra cash to Tier 0 remainder first, then Tier 1 (AVANZ + BAC NIO cards), not to Visa/Ficohsa which are already at minimum-only status.

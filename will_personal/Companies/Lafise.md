@@ -10,7 +10,7 @@ aliases:
 
 # Lafise (Lafise Bancentro)
 
-Bank, holds a credit card. See [[Credit Cards]] for balance and due dates.
+Bank, holds a credit card (SIGNATURE, card ...7247). See [[Credit Cards]] for balance and due dates.
 
 ## Links
 - [[Debts]]

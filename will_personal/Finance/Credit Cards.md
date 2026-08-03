@@ -13,7 +13,7 @@ tags:
 | [[BAC]] | AMEX Black | 10247.28 | 4774.47 | 16248.00 | 202.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[BAC]] | Visa (...8848, ...3364, ...7910, ...0038 additional) | 151378.71 | 0.00 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[Ficohsa]] | (unnamed) | 306917.34 | 4382.19 | 20218.46 | 234.43 | 39% | 19.8% | 2026-08-11 | open |
-| [[Lafise]] | Lafise Bancentro | 143578.85 | 4357.73 | 9324.00 | 226.00 | 35% | 19% | 2026-08-04 | open |
+| [[Lafise]] | Lafise Bancentro | 147028.34 | 4357.73 | 9324.00 | 226.00 | 35% | 19% | 2026-08-04 | open |
 | [[Credisiman]] | (unnamed) | 1353.09 | 0.00 | 183.12 | 0.00 | TBD | — | 2026-08-18 | open |
 
 ## Payments
@@ -72,10 +72,13 @@ tags:
 | 2026-08-01 | Visa       | 1204.00      |              | McDonald's KM 11.5 C.MA (card ...8848)              |
 | 2026-08-01 | Visa       | 160.00       |              | McDonald's KM 11.5 C.MA (card ...3364)               |
 | 2026-08-01 | Visa       | 667.00       |              | McDonald's KM 11.5 C.MA (card ...8848)               |
+| 2026-07-31 | Lafise Bancentro | 1874.99 |              | Mi Ranchito Zona Viva (card ...7247, filed [[Food]]) |
 
 Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and execution in one place.
 
 ## Notes
+- 2026-08-03: Lafise Bancentro reconciled against bank — NIO 143,578.85 → **NIO 147,028.34** (+NIO 3,449.49 gap vs bank); USD leg confirmed unchanged at $4,357.73.
+- 2026-08-03: card ...7247 confirmed as Lafise Bancentro — Mi Ranchito Zona Viva charge (07-31, NIO 1,874.99) explains part of the gap above; NIO 3,449.49 − 1,874.99 = **NIO 1,574.50 still unexplained**, needs further review.
 - 2026-08-03: Credisiman CC added — previously missed. Current Debt NIO 1,353.09, min payment NIO 183.12, max payment date 2026-08-18. APR unconfirmed (TBD).
 - 2026-07-26: BAC card ending 8848 identified as the BAC Visa card above; card ...3364 confirmed as an additional card on the same Visa account.
 - 2026-07-26: applied PedidosYa (NIO 564.00) + Dim Sum (NIO 1,368.10) charges above directly against Visa Current Debt, total +NIO 1,932.10.
