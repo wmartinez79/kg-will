@@ -30,4 +30,5 @@ PedidosYa is used both for grocery delivery and prepared-meal delivery — only 
 | 2026-08-01 | La Union Esquipulas (BAC card 8848)         | 36.34        | 1,330.75     | pending |
 | 2026-08-02 | La Colonia Diriamba (BAC card 8848)         | 22.11        | 809.75       | pending |
 | 2026-08-03 | PedidosYa*Market (BAC card 8848)            | 18.86        | 690.75       | pending |
-| **Total**  |                                             | **123.39**   | **4,518.90** |         |
+| 2026-08-04 | 2 granolas                                  | 9.40         | 344.27       | paid    |
+| **Total**  |                                             | **132.79**   | **4,863.17** |         |
