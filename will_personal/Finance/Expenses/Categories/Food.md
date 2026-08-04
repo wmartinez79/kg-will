@@ -40,7 +40,7 @@ Running log of food expenses across months. Month summary: [[2026-07|July 2026]]
 | 2026-07-31 | PedidosYa*Panaderia Ma                            | 6.12         | 224.00        | pending |
 | 2026-07-31 | PedidosYa*Propina                                 | 0.41         | 15.00         | pending |
 | 2026-07-31 | Mi Ranchito Zona Viva (SIGNATURE card 7247)       | 51.20        | 1,874.99      | pending |
-| **Total**  |                                                   | **346.96**   | **12,702.39** |         |
+| **Total**  |                                                   | **346.55**   | **12,702.89** |         |
 
 Moved 2× PedidosYa*Market (07-27, $14.89/545.50 and $10.96/401.25) to [[Market]] — groceries, not prepared food.
 Moved PriceSmart 8902 (07-25, $243.94/8,934.56) to [[Market]] — supermarket run, not prepared food. PriceSmart Food Service stays here (food court, prepared).
