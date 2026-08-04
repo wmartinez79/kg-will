@@ -55,4 +55,5 @@ Moved PriceSmart 8902 (07-25, $243.94/8,934.56) to [[Market]] — supermarket ru
 | 2026-08-02 | Fritoni (card ...3364)                  | 18.29        | 670.00       | pending |
 | 2026-08-02 | Tulum (card ...8848)                    | 38.51        | 1,410.50     | pending |
 | 2026-08-03 | PedidosYa*Propina (card ...8848)        | 0.41         | 15.00        | pending |
-| **Total**  |                                          | **116.48**   | **4,266.50** |        |
+| 2026-08-03 | Cafeteria El Molino SA (card ...7910)   | 3.56         | 130.44       | pending |
+| **Total**  |                                          | **120.04**   | **4,396.94** |        |

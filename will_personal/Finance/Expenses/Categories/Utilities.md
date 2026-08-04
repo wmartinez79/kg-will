@@ -25,4 +25,5 @@ Running log of utility expenses across months. Month summary: [[2026-07|July 202
 | Date | Item | Amount (USD) | Amount (NIO) | Status |
 |---|---|---|---|---|
 | 2026-08-03 | Recarga/Servicio TIGO (Rec.Sec, BAC card 8848) | 6.01 | 220.00 | pending |
-| **Total** | | **6.01** | **220.00** | |
+| 2026-08-03 | Water Bill (cash) | 20.00 | 732.49 | paid |
+| **Total** | | **26.01** | **952.49** | |

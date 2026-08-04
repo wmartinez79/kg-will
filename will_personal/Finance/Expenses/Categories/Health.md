@@ -17,3 +17,9 @@ Running log of health expenses across months. Month summary: [[2026-07|July 2026
 | 2026-07-27 | Hospital Vivian Pellas | 6.01 | 220.00 | paid |
 | 2026-07-27 | Farmavalue | 38.46 | 1,408.34 | paid |
 | **Total** | | **78.35** | **2,868.34** | |
+
+## 2026-08
+| Date | Item | Amount (USD) | Amount (NIO) | Status |
+|---|---|---|---|---|
+| 2026-08-03 | Farmavalue (BAC card ...3364) | 29.70 | 1,087.78 | pending |
+| **Total** | | **29.70** | **1,087.78** | |
