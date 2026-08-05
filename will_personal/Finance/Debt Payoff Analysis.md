@@ -13,6 +13,8 @@ Prepared 2026-07-25 (see [[Debt Payoff Analysis 2026-07-25.pdf|source PDF]]). To
 
 **Update 2026-08-03:** PriceSmart closed in full 2026-08-02 (#5); BAC Visa NIO and AMEX Black NIO paid down 2026-08-02 (#6, #7); Ficohsa CC min payments applied 2026-08-01, both NIO (partial) and USD legs (#8, #13); AVANZ new loan max payment date confirmed 2026-09-01 (#10); Credisiman CC added, previously missed (#3). Total consolidated debt still not recomputed here — see [[Credit Cards]] and [[Loans]] for current per-account balances.
 
+**Update 2026-08-05:** Credisiman CC (#3) closed in full — NIO 1,353.09 paid, balance NIO 0.00, status paid off. Tier 0 sweep now has only #2 (BAC loan 008781001) remaining. Total consolidated debt per [[Debts]]: **$86,122.21**.
+
 ## Method
 Hybrid **avalanche** (highest interest rate first) with a **quick-win sweep** up front: near-zero balances get cleared immediately regardless of rate — costs almost nothing, frees up minimum-payment cash flow right away, drops open accounts fast. After the sweep, strict avalanche by real/estimated APR. This tiering applies to *extra/discretionary* paydown — minimum payments on every open account still go out on schedule regardless of tier (see [[Credit Cards]] Payment Plan for the current cycle's minimums).
 
@@ -37,7 +39,7 @@ Hybrid **avalanche** (highest interest rate first) with a **quick-win sweep** up
 **Tier 0 — Quick-win sweep** (do immediately, in parallel with everything below)
 1. ~~BAC Visa CC (USD) — $100.03 @ 20.04%~~ — **done 2026-07-27**, confirmed $0.00 via online banking, ahead of the 08-01 target
 2. BAC loan 008781001 — $297.70 @ 16.2% — lowest-balance loan, frees $112.71/mo minimum
-3. Credisiman CC — NIO 1,353.09 / $36.95 — APR unconfirmed (TBD); previously missed from tracking, added 2026-08-03; tiny balance, treated as quick-win regardless of rate
+3. ~~Credisiman CC — NIO 1,353.09 / $36.95 @ TBD~~ — **paid in full 2026-08-05**, balance NIO 0.00
 
 **Tier 1 — Top priority: AVANZ (family agreement) + worst-rate NIO credit cards**
 4. AVANZ loan (wife) — $7,031.67 @ ~23.3% est. — elevated to Tier 1 by family agreement, not rate — in progress, continue
@@ -73,6 +75,7 @@ USD column converts NIO balances @ 36.6243 (BCN official rate); USD-denominated 
 - Ficohsa loan 0000044006's confirmed rate (18.62%) came in lower than the earlier estimate — biggest loan balance ($15,338.11) but drops to bottom of the ~19-20% tier.
 - Ficohsa loan 2211's exact rate is unclear ($4/mo gap between due amount and calculated capital reduction, unexplained) — worth a call to Ficohsa to confirm before treating it as tied with the ~20% cluster.
 - BAC PriceSmart CC's residual $0.11 USD balance was bonificable interest, waived after full USD debt paid — dropped from the sweep, no longer an action item.
+- Credisiman (Tier 0 #3) paid in full 2026-08-05 — Tier 0 sweep now just BAC loan 008781001 ($297.70) left.
 
 ## Current Payment Plan (as of 2026-07-26)
 | Date | Action | Amount | Source |
