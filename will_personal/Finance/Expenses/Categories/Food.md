@@ -57,4 +57,5 @@ Moved PriceSmart 8902 (07-25, $243.94/8,934.56) to [[Market]] — supermarket ru
 | 2026-08-03 | PedidosYa*Propina (card ...8848)        | 0.41         | 15.00        | pending |
 | 2026-08-03 | Cafeteria El Molino SA (card ...7910)   | 3.56         | 130.44       | pending |
 | 2026-08-04 | Guirilas El Tata (card ...8848)         | 6.69         | 245.00       | pending |
-| **Total**  |                                          | **126.73**   | **4,641.94** |        |
+| 2026-08-05 | PedidosYa*Propina (card ...8848)        | 0.41         | 15.00        | pending |
+| **Total**  |                                          | **127.14**   | **4,656.94** |        |

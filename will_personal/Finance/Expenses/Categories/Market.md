@@ -31,4 +31,5 @@ PedidosYa is used both for grocery delivery and prepared-meal delivery — only 
 | 2026-08-02 | La Colonia Diriamba (BAC card 8848)         | 22.11        | 809.75       | pending |
 | 2026-08-03 | PedidosYa*Market (BAC card 8848)            | 18.86        | 690.75       | pending |
 | 2026-08-04 | 2 granolas                                  | 9.40         | 344.27       | paid    |
-| **Total**  |                                             | **132.79**   | **4,863.17** |         |
+| 2026-08-05 | PedidosYa*Market (BAC card 8848)            | 16.94        | 620.59       | pending |
+| **Total**  |                                             | **149.73**   | **5,483.76** |         |
