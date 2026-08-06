@@ -32,4 +32,6 @@ PedidosYa is used both for grocery delivery and prepared-meal delivery — only 
 | 2026-08-03 | PedidosYa*Market (BAC card 8848)            | 18.86        | 690.75       | pending |
 | 2026-08-04 | 2 granolas                                  | 9.40         | 344.27       | paid    |
 | 2026-08-05 | PedidosYa*Market (BAC card 8848)            | 16.94        | 620.59       | pending |
-| **Total**  |                                             | **149.73**   | **5,483.76** |         |
+| 2026-08-05 | Super La Colonia Suc.Pla (card 8848)        | 8.95         | 327.75       | pending |
+| 2026-08-05 | Tienda Chacalele Plaza (card 8848)          | 9.56         | 350.00       | pending |
+| **Total**  |                                             | **168.24**   | **6,161.51** |         |
