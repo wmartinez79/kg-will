@@ -95,6 +95,18 @@ Balance $7,031.67 @ ~1.9424%/mo implied rate. Two options to close by year-end.
 
 Option B costs ~$17.71 less in total interest (balance drops faster on average) but requires a slightly higher payment every month instead of $1,400. Option A keeps monthly cash lower Aug–Nov at the cost of a large ~$1,864 December payment.
 
+**Option C — $1,500/mo (fixed, final month absorbs remainder)**
+| Month | Payment | Interest | Principal | Balance After |
+|---|---|---|---|---|
+| Aug | 1,500.00 | 136.58 | 1,363.42 | 5,668.25 |
+| Sep | 1,500.00 | 110.10 | 1,389.90 | 4,278.35 |
+| Oct | 1,500.00 | 83.10 | 1,416.90 | 2,861.45 |
+| Nov | 1,500.00 | 55.58 | 1,444.42 | 1,417.03 |
+| Dec | **1,444.55** | 27.52 | 1,417.03 | **0.00** |
+| **Total** | **7,444.55** | **412.88** | **7,031.67** | |
+
+Option C is the cheapest of the three (~$412.88 total interest, lower than A and B) — $1,500/mo pays down principal fast enough that the December payment is actually smaller than the rest ($1,444.55), not a spike.
+
 ### AVANZ (new loan, 60mo)
 | Date | Event | Amount (USD) | Balance After (USD) |
 |---|---|---|---|
