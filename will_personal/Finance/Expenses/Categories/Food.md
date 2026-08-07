@@ -65,5 +65,5 @@ Moved PriceSmart 8902 (07-25, $243.94/8,934.56) to [[Market]] — supermarket ru
 | 2026-08-06 | Cafeteria El Molino (BAC card 8848)     | 22.85        | 836.70       | pending |
 | 2026-08-06 | Compra en PP Casa del Café S.A (BAC card 8848) | 12.20 | 446.74       | pending |
 | 2026-08-06 | Rosticeria Tip Top Rub (BAC card 8848)  | 40.60        | 1,487.01     | pending |
-| 2026-08-07 | El Granadino Centroame (BAC card 8848)  | 68.83        | 2,521.00     | pending |
-| **Total**  |                                          | **311.67**   | **11,415.62** |       |
+| 2026-08-07 | El Granadino Centroame (BAC card 8848, split — food portion) | 36.07 | 1,321.00 | pending |
+| **Total**  |                                          | **278.91**   | **10,215.62** |       |

@@ -34,4 +34,5 @@ PedidosYa is used both for grocery delivery and prepared-meal delivery — only 
 | 2026-08-05 | PedidosYa*Market (BAC card 8848)            | 16.94        | 620.59       | pending |
 | 2026-08-05 | Super La Colonia Suc.Pla (card 8848)        | 8.95         | 327.75       | pending |
 | 2026-08-05 | Tienda Chacalele Plaza (card 8848)          | 9.56         | 350.00       | pending |
-| **Total**  |                                             | **168.24**   | **6,161.51** |         |
+| 2026-08-07 | El Granadino Centroame (BAC card 8848, split — market portion) | 32.76 | 1,200.00 | pending |
+| **Total**  |                                             | **201.00**   | **7,361.51** |         |
