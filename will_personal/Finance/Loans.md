@@ -70,6 +70,31 @@ $300/mo payment, ~$184.25 capital + ~$115.75 interest per payment (approx, pendi
 |---|---|---|---|---|
 | 2026-07-25 | 1200.00 (Will $500 + wife $700) | 490.82 | 1043.15 (est., ~1.9424%/mo implied rate) | 7031.67 (est.) |
 
+#### Payoff Plan — target 2026-12-31 (proposed 2026-08-06)
+Balance $7,031.67 @ ~1.9424%/mo implied rate. Two options to close by year-end.
+
+**Option A — front-loaded ($1,400/mo, big final payment)**
+| Month | Payment | Interest | Principal | Balance After |
+|---|---|---|---|---|
+| Aug | 1,400.00 | 136.58 | 1,263.42 | 5,768.25 |
+| Sep | 1,400.00 | 112.04 | 1,287.96 | 4,480.29 |
+| Oct | 1,400.00 | 87.03 | 1,312.97 | 3,167.32 |
+| Nov | 1,400.00 | 61.52 | 1,338.48 | 1,828.84 |
+| Dec | **1,864.36** | 35.52 | 1,828.84 | **0.00** |
+| **Total** | **7,464.36** | **432.69** | **7,031.67** | |
+
+**Option B — level payment (equal installments)**
+| Month | Payment | Interest | Principal | Balance After |
+|---|---|---|---|---|
+| Aug | 1,489.33 | 136.58 | 1,352.75 | 5,678.92 |
+| Sep | 1,489.33 | 110.31 | 1,379.02 | 4,299.90 |
+| Oct | 1,489.33 | 83.52 | 1,405.81 | 2,894.09 |
+| Nov | 1,489.33 | 56.22 | 1,433.11 | 1,460.98 |
+| Dec | 1,489.36 | 28.38 | 1,460.98 | **0.00** |
+| **Total** | **7,446.65** | **414.98** | **7,031.67** | |
+
+Option B costs ~$17.71 less in total interest (balance drops faster on average) but requires a slightly higher payment every month instead of $1,400. Option A keeps monthly cash lower Aug–Nov at the cost of a large ~$1,864 December payment.
+
 ### AVANZ (new loan, 60mo)
 | Date | Event | Amount (USD) | Balance After (USD) |
 |---|---|---|---|
