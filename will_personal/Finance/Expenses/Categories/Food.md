@@ -64,4 +64,6 @@ Moved PriceSmart 8902 (07-25, $243.94/8,934.56) to [[Market]] — supermarket ru
 | 2026-08-05 | Subway San Dionisio (card ...7910)      | 7.04         | 258.00       | pending |
 | 2026-08-06 | Cafeteria El Molino (BAC card 8848)     | 22.85        | 836.70       | pending |
 | 2026-08-06 | Compra en PP Casa del Café S.A (BAC card 8848) | 12.20 | 446.74       | pending |
-| **Total**  |                                          | **202.24**   | **7,407.61** |        |
+| 2026-08-06 | Rosticeria Tip Top Rub (BAC card 8848)  | 40.60        | 1,487.01     | pending |
+| 2026-08-07 | El Granadino Centroame (BAC card 8848)  | 68.83        | 2,521.00     | pending |
+| **Total**  |                                          | **311.67**   | **11,415.62** |       |
