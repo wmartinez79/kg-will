@@ -63,4 +63,5 @@ Moved PriceSmart 8902 (07-25, $243.94/8,934.56) to [[Market]] — supermarket ru
 | 2026-08-05 | REST.LA CREMA BATIDA M (card ...8848)   | 16.38        | 600.00       | pending |
 | 2026-08-05 | Subway San Dionisio (card ...7910)      | 7.04         | 258.00       | pending |
 | 2026-08-06 | Cafeteria El Molino (BAC card 8848)     | 22.85        | 836.70       | pending |
-| **Total**  |                                          | **190.04**   | **6,960.87** |        |
+| 2026-08-06 | Compra en PP Casa del Café S.A (BAC card 8848) | 12.20 | 446.74       | pending |
+| **Total**  |                                          | **202.24**   | **7,407.61** |        |
