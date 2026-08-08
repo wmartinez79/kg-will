@@ -28,4 +28,6 @@ Moved PedidosYa*Plus to [[Subscriptions]] — recurring monthly, not a one-off.
 | 2026-08-01 | Jardineria Genaro | 21.84 | 800.00 | paid |
 | 2026-08-04 | Gift to wife - cellphone (cash) | 575.00 | 21,058.97 | paid |
 | 2026-08-05 | DoubleTree by Hilton M (card ...3364) | 6.25 | 228.88 | pending |
-| **Total** | | **643.53** | **23,568.80** | |
+| 2026-08-07 | Mundo Party Galerias (tarjeta adicional ...7910) | 70.66 | 2,588.00 | pending |
+| 2026-08-07 | Uno Galeria (card ...8848) | 56.40 | 2,065.68 | pending |
+| **Total** | | **770.59** | **28,222.48** | |

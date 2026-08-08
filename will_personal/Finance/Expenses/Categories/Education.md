@@ -23,4 +23,5 @@ Running log of education expenses across months. Month summary: [[2026-07|July 2
 |---|---|---|---|---|
 | 2026-08-03 | Almuerzo Colegio David Martinez | 5.73 | 210.00 | paid |
 | 2026-08-05 | Hispamer San Dionisio (card ...7910) | 1.27 | 46.54 | pending |
-| **Total** | | **7.00** | **256.54** | |
+| 2026-08-07 | Libreria Jardin Galeria (card ...8848) | 11.68 | 427.94 | pending |
+| **Total** | | **18.68** | **684.48** | |
