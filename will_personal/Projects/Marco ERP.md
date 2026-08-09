@@ -22,6 +22,7 @@ owner: Will Martinez
 potential_clients:
   - Aluval Nicaragua
   - Vidrieria FMorales
+  - Taller Instalaciones Martinez
 repos:
   - ~/repos/marco-frontend
   - ~/repos/marco-backend
@@ -29,7 +30,7 @@ repos:
 
 # Marco ERP
 
-Own product. Multi-tenant ERP replacing [[SEM]]. No client yet — potential clients: [[ALUVAL Nicaragua]], [[Vidrieria FMorales]].
+Own product. Multi-tenant ERP replacing [[SEM]]. No client yet — potential clients: [[ALUVAL Nicaragua]], [[Vidrieria FMorales]], [[Taller Instalaciones Martinez (Client)|Taller Instalaciones Martinez]].
 
 ## Summary
 
@@ -93,6 +94,29 @@ Target: AWS (Lambda/S3/SQS, already in stack) + MongoDB Atlas.
 - **Production (once a tenant is paying):** upgrade to Atlas M10 (~$57-75/mo, dedicated, replica set, backups) — funded by that tenant's subscription, not personal capital.
 - Sequencing: build and demo on the free tier now, close [[ALUVAL Nicaragua]] first, let their first month(s) of payment cover the M10 upgrade.
 
+## Monetization Plan
+
+Tiered pricing by company size/complexity, not per-seat — ERP value depends on full-company adoption (sales, warehouse, accounting all in one system), so per-user pricing would work against that. Draft 3 tiers:
+
+| Tier | Fits | Included | Differentiator |
+|---|---|---|---|
+| Starter | Single-location (ALUVAL-size) | 1 warehouse, core modules (inventory, invoice, quote), ~5 users | Entry price, replaces SEM 1:1 |
+| Growth | Multi-branch | Multi-warehouse, product-builder module, ~15 users | Adds modules legacy SEM can't do |
+| Business | Larger operator | Unlimited warehouses, full module set, advanced RBAC, priority support | For a client bigger than the first two |
+
+Actual price points still need validation against ALUVAL's willingness to pay — anchor is time/error savings over free-but-legacy SEM, not feature count.
+
+### First Two Customers & Grace Periods
+
+Pilot rollout plan, not simultaneous with the Vidrieria FMorales reactivation described above:
+
+| Client | Tier fit | Grace period (free) | Notes |
+|---|---|---|---|
+| [[ALUVAL Nicaragua]] | Starter | 3-4 months, possibly up to 6 | Has an in-house IT/sysadmin employee (network, systems) — technical gatekeeper for rollout, likely an ally for onboarding/integration questions but also someone who'll evaluate the system critically |
+| [[Taller Instalaciones Martinez (Client)\|Taller Instalaciones Martinez]] | Starter | 6-8 months | Brother's aluminum/glass workshop — also Will's rental tenant (separate relationship, see [[Taller Instalaciones Martinez]]) |
+
+Grace periods let both clients migrate off legacy tooling (SEM for ALUVAL, none/manual for Instalaciones Martinez) and validate the product before billing starts — first real revenue funds the Atlas M10 upgrade per the Hosting Plan above.
+
 ## Backend Modules (`api/src/domain/`)
 - **auth** — authentication
 - **tenant** — tenant management
@@ -113,5 +137,6 @@ Target: AWS (Lambda/S3/SQS, already in stack) + MongoDB Atlas.
 - [[SEM]]
 - [[ALUVAL Nicaragua]]
 - [[Vidrieria FMorales]]
+- [[Taller Instalaciones Martinez (Client)|Taller Instalaciones Martinez]]
 - [[Marco ERP - Backend]] — repo + code KG
 - [[Marco ERP - Frontend]] — repo + code KG
