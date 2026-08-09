@@ -66,4 +66,8 @@ Moved PriceSmart 8902 (07-25, $243.94/8,934.56) to [[Market]] — supermarket ru
 | 2026-08-06 | Compra en PP Casa del Café S.A (BAC card 8848) | 12.20 | 446.74       | pending |
 | 2026-08-06 | Rosticeria Tip Top Rub (BAC card 8848)  | 40.60        | 1,487.01     | pending |
 | 2026-08-07 | El Granadino Centroame (BAC card 8848, split — food portion) | 36.07 | 1,321.00 | pending |
-| **Total**  |                                          | **278.91**   | **10,215.62** |       |
+| 2026-08-08 | Carnes San Martin Gale (BAC card 8848)  | 77.75        | 2,847.54     | pending |
+| 2026-08-08 | Casa del Cafe (BAC card 8848)           | 20.24        | 741.34       | pending |
+| 2026-08-08 | PedidosYa*AMPM Veracru (BAC card 8848)  | 4.23         | 155.00       | pending |
+| 2026-08-08 | PedidosYa*Dothra Ticua (BAC card 8848)  | 8.25         | 302.00       | pending |
+| **Total**  |                                          | **389.38**   | **14,261.50** |       |
