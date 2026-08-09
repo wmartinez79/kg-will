@@ -6,6 +6,7 @@ stack:
   - React
   - NestJS
   - MongoDB
+  - MongoDB Atlas
   - AWS Lambda
   - SQS
   - S3
@@ -83,6 +84,14 @@ Client → REST API → S3 (CSV upload) + SQS → Lambda → MongoDB
 - **HTTP:** `httpClient` (ky) — auto-attaches `Authorization`, `X-Tenant-ID`, `x-lang`
 - **i18n:** i18next with `en.ts` and `es.ts` locale files
 - **Testing:** Vitest + Testing Library (unit), MSW (integration), Playwright (e2e)
+
+## Hosting Plan
+
+Target: AWS (Lambda/S3/SQS, already in stack) + MongoDB Atlas.
+
+- **Pre-revenue (now → first paying client):** Atlas M0 (free, 512MB) + AWS free tier (Lambda/S3/SQS/API Gateway) — ~$0/mo. M0 has no replica-set-backed multi-doc transactions, so this tier is dev/demo/pilot only, not production for a paying tenant.
+- **Production (once a tenant is paying):** upgrade to Atlas M10 (~$57-75/mo, dedicated, replica set, backups) — funded by that tenant's subscription, not personal capital.
+- Sequencing: build and demo on the free tier now, close [[ALUVAL Nicaragua]] first, let their first month(s) of payment cover the M10 upgrade.
 
 ## Backend Modules (`api/src/domain/`)
 - **auth** — authentication
