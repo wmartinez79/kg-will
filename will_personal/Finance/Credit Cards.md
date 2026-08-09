@@ -12,7 +12,7 @@ tags:
 | [[BAC]] | PriceSmart | 0.00 | 0.00 | 6798.00 | 11.00 | 45% | 20.04% | 2026-08-19 | paid off |
 | [[BAC]] | AMEX Black | 10247.28 | 4774.47 | 16248.00 | 202.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[BAC]] | Visa (...8848, ...3364, ...7910, ...0038 additional) | 151378.71 | 0.00 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
-| [[Ficohsa]] | (unnamed) | 291698.88 | 4382.19 | 20218.46 | 234.43 | 39% | 19.8% | 2026-08-11 | open |
+| [[Ficohsa]] | (unnamed) | 291697.34 | 4382.19 | 20218.46 | 234.43 | 39% | 19.8% | 2026-08-11 | open |
 | [[Lafise]] | Lafise Bancentro | 147028.34 | 4357.73 | 9324.00 | 226.00 | 35% | 19% | 2026-08-04 | open |
 | [[Credisiman]] | (unnamed) | 0.00 | 0.00 | 183.12 | 0.00 | TBD | — | 2026-08-18 | paid off |
 
@@ -44,7 +44,7 @@ tags:
 | 2026-08-01 | Ficohsa          |              | 234.43       |
 | 2026-08-01 | Ficohsa          | 5000.00      |              |
 | 2026-08-05 | Credisiman       | 1353.09      |              |
-| 2026-08-08 | Ficohsa          | 15218.46     |              |
+| 2026-08-08 | Ficohsa          | 15220.00     |              |
 
 ## Charges
 | Date       | Card       | Amount (NIO) | Amount (USD) | Item                                                |
@@ -106,4 +106,4 @@ Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and ex
 - 2026-08-01: NIO 5,000.00 partial min payment applied to Ficohsa (NIO): 311,917.34 − 5,000.00 = **NIO 306,917.34**. First leg of two-Saturday min payment plan (remainder NIO 15,218.46 due 08-08) — [[Debt Payoff Analysis]] Tier 1 #7.
 - 2026-08-01: 4 new Visa charges (La Union Esquipulas 1,330.75; McDonald's ×3 — 1,204.00 card 8848, 160.00 card 3364, 667.00 card 8848 — total 3,361.75) and a NIO 3,000.00 payment applied directly against Current Debt: 180,499.19 + 3,361.75 − 3,000.00 = **NIO 180,860.94**.
 - 2026-08-05: Credisiman paid in full — NIO 1,353.09 − 1,353.09 = **NIO 0.00**, status → paid off.
-- 2026-08-08: NIO 15,218.46 remainder min payment applied to Ficohsa (NIO), funded by EPS income: 306,917.34 − 15,218.46 = **NIO 291,698.88**. Second leg of two-Saturday min payment plan — full NIO min (20,218.46) now satisfied — [[Debt Payoff Analysis]] Tier 1 #8.
+- 2026-08-08: NIO 15,220.00 remainder min payment applied to Ficohsa (NIO), funded by EPS income: 306,917.34 − 15,220.00 = **NIO 291,697.34**. Second leg of two-Saturday min payment plan — full NIO min (20,218.46) now satisfied (paid NIO 20,220.00, NIO 1.54 over min) — [[Debt Payoff Analysis]] Tier 1 #8.
