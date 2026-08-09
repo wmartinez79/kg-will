@@ -112,7 +112,7 @@ Pilot rollout plan, not simultaneous with the Vidrieria FMorales reactivation de
 
 | Client | Tier fit | Grace period (free) | Notes |
 |---|---|---|---|
-| [[ALUVAL Nicaragua]] | Starter | 3-4 months, possibly up to 6 | Has an in-house IT/sysadmin employee (network, systems) — technical gatekeeper for rollout, likely an ally for onboarding/integration questions but also someone who'll evaluate the system critically |
+| [[ALUVAL Nicaragua]] | Starter (~5-6 users: CEO/owner + production supervision, IT/sysadmin, 2 sellers, 1 more — well within 8-user cap) | 3-4 months, possibly up to 6 | IT/sysadmin employee is technical gatekeeper for rollout — likely an ally for onboarding/integration but also someone who'll evaluate the system critically |
 | [[Taller Instalaciones Martinez (Client)\|Taller Instalaciones Martinez]] | Starter | 6-8 months | Brother's aluminum/glass workshop — also Will's rental tenant (separate relationship, see [[Taller Instalaciones Martinez]]) |
 
 Grace periods let both clients migrate off legacy tooling (SEM for ALUVAL, none/manual for Instalaciones Martinez) and validate the product before billing starts — first real revenue funds the Atlas M10 upgrade per the Hosting Plan above.
