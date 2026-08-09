@@ -30,4 +30,5 @@ Moved PedidosYa*Plus to [[Subscriptions]] — recurring monthly, not a one-off.
 | 2026-08-05 | DoubleTree by Hilton M (card ...3364) | 6.25 | 228.88 | pending |
 | 2026-08-07 | Mundo Party Galerias (tarjeta adicional ...7910) | 70.66 | 2,588.00 | pending |
 | 2026-08-07 | Uno Galeria (card ...8848) | 56.40 | 2,065.68 | pending |
-| **Total** | | **770.59** | **28,222.48** | |
+| 2026-08-08 | Hogar de Huerfanos Zacarias Guerra (LAFISE transfer) | 40.60 | 1,480.00 | paid |
+| **Total** | | **811.19** | **29,702.48** | |
