@@ -97,6 +97,11 @@ Notes:
 - **AVANZ (Tier 1 #3) is ongoing per family agreement, outside this plan** — keep its payments going, don't let it slip while attention is on Visa/Ficohsa.
 - **This cycle is minimums-only, no extra avalanche paydown yet** — consistent with the "better perspective in a month" comment; once a month of tracked expenses gives a stable surplus, route extra cash to Tier 0 remainder first, then Tier 1 (AVANZ + BAC NIO cards), not to Visa/Ficohsa which are already at minimum-only status.
 - **Watch item:** making BAC Visa the primary spend card means its balance will regrow between paydays (Tier 0's near-zero status won't hold). Budget the 08/08 "pay down accumulated charges" step as a recurring line, not a one-off — otherwise Visa quietly drifts back into the 45%-APR NIO tier instead of staying swept.
+## Pending: Full Strategy Comparison (Snowball/Avalanche/Hybrid)
+Requested 2026-08-09 — deferred until a full month of income + bills/payments is tracked in this vault (currently only [[Enhancement Payment System|EPS]] income is logged; In All Media income and full household budget aren't). Needed to compute real "extra monthly payment available," which the comparison depends on for interest-saved and payoff-date projections.
+
+Preliminary finding from that review, not yet applied: BAC AMEX Black CC (NIO) has shrunk to NIO 10,247.28 (~$279.79) — now smaller than BAC loan 008781001 ($297.70, current Tier 0 target). It qualifies as a new Tier 0 quick win (wasn't one when this analysis was written, balance was far higher then) — clearing it frees NIO 16,248/mo minimum obligation for near-zero cost. Re-evaluate promoting it Tier 1 #7 → Tier 0 when this review runs.
+
 ## Reuse notes
 - Any extra/discretionary paydown cash (beyond scheduled minimums) should follow this tier order, top to bottom.
 - Re-derive this analysis if a new rate is confirmed, a balance changes materially, or a debt is fully closed — update tiers rather than starting over, since most rates/order won't move.
