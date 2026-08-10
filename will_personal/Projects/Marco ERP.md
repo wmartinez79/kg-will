@@ -120,11 +120,22 @@ US/EU comps (Zoho, inFlow, Odoo) run 5-10x too high for Nicaragua SMB willingnes
 
 | Tier     | Base price/mo | Included users | Extra seat price    | Hard cap → forces upgrade |
 | -------- | ------------- | -------------- | ------------------- | ------------------------- |
-| Starter  | $32           | up to 6         | $5/user (7-10)      | 10 → Growth               |
-| Growth   | $80           | up to 24       | $4/user (25-35)     | 35 → Business             |
+| Starter  | $35           | up to 6         | $5/user (7-10)      | 10 → Growth               |
+| Growth   | $90           | up to 24       | $4/user (25-35)     | 35 → Business             |
 | Business | $150          | up to 50       | negotiate beyond 50 | —                         |
 
-Per-user cost decreases as tiers grow (~$5.33 → $3.33 → $3.00 avg/user) — standard SaaS volume discount, matches how Alegra/Holded both scale. Actual price points still need validation against ALUVAL's willingness to pay — anchor is time/error savings over free-but-legacy SEM, not feature count.
+Per-user cost decreases as tiers grow (~$5.83 → $3.75 → $3.00 avg/user) — standard SaaS volume discount, matches how Alegra/Holded both scale. Actual price points still need validation against ALUVAL's willingness to pay — anchor is time/error savings over free-but-legacy SEM, not feature count.
+
+**Competitiveness check against comps:**
+
+| Tier | Marco (price, $/user) | Closest comp | Comp ($/user) | Read |
+|---|---|---|---|---|
+| Starter | $35, $5.83/user (6 seats) | Alegra Plus $50, $6.25/user (8 seats) | LatAm floor | Cheaper per-seat and in absolute price than the top LatAm-market comp |
+| Starter | $35, $5.83/user | Holded Basic ~$31, $15.50/user (2 seats) | Spain, feature-match | Same absolute price, ~3x the included seats |
+| Growth | $90, $3.75/user (24 seats) | Holded Pro ~$63, $6.30/user (10 seats) | Spain, feature-match | Half the per-seat cost, more than double the seats, for only 1.4x the price |
+| Business | $150, $3.00/user (50 seats) | Odoo Custom ~$61/user (per-seat, not flat) | US, per-seat model | At 50 users Odoo would run ~$3,050/mo — Marco's flat $150 is not a close contest |
+
+Verdict: competitive — priced below every comp on a per-seat basis, including Alegra (the realistic LatAm floor). If anything this leans underpriced rather than overpriced relative to what comparable tools charge for similar seat counts, which is the right side to err on for displacing free-but-legacy SEM in a price-sensitive market. Room to raise later once the product has traction; not a launch-blocking concern.
 
 ### Tier Positioning (the hook)
 
