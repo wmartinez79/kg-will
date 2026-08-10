@@ -120,11 +120,11 @@ US/EU comps (Zoho, inFlow, Odoo) run 5-10x too high for Nicaragua SMB willingnes
 
 | Tier     | Base price/mo | Included users | Extra seat price    | Hard cap → forces upgrade |
 | -------- | ------------- | -------------- | ------------------- | ------------------------- |
-| Starter  | $39           | up to 6         | $5/user (7-10)      | 10 → Growth               |
-| Growth   | $99           | up to 24       | $4/user (25-35)     | 35 → Business             |
-| Business | $199          | up to 50       | negotiate beyond 50 | —                         |
+| Starter  | $32           | up to 6         | $5/user (7-10)      | 10 → Growth               |
+| Growth   | $80           | up to 24       | $4/user (25-35)     | 35 → Business             |
+| Business | $150          | up to 50       | negotiate beyond 50 | —                         |
 
-Per-user cost decreases as tiers grow (~$6.50 → $4.10 → $4.00 avg/user) — standard SaaS volume discount, matches how Alegra/Holded both scale. Actual price points still need validation against ALUVAL's willingness to pay — anchor is time/error savings over free-but-legacy SEM, not feature count.
+Per-user cost decreases as tiers grow (~$5.33 → $3.33 → $3.00 avg/user) — standard SaaS volume discount, matches how Alegra/Holded both scale. Actual price points still need validation against ALUVAL's willingness to pay — anchor is time/error savings over free-but-legacy SEM, not feature count.
 
 ### Tier Positioning (the hook)
 
