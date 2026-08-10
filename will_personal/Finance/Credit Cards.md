@@ -11,7 +11,7 @@ tags:
 |---|---|---|---|---|---|---|---|---|---|
 | [[BAC]] | PriceSmart | 0.00 | 0.00 | 6798.00 | 11.00 | 45% | 20.04% | 2026-08-19 | paid off |
 | [[BAC]] | AMEX Black | 10247.28 | 4774.47 | 16248.00 | 202.00 | 45% | 20.04% | 2026-08-19 | open |
-| [[BAC]] | Visa (...8848, ...3364, ...7910, ...0038 additional) | 147678.71 | 0.00 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
+| [[BAC]] | Visa (...8848, ...3364, ...7910, ...0038 additional) | 142678.71 | 0.00 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[Ficohsa]] | (unnamed) | 291697.34 | 4382.19 | 20218.46 | 234.43 | 39% | 19.8% | 2026-08-11 | open |
 | [[Lafise]] | Lafise Bancentro | 147028.34 | 4357.73 | 9324.00 | 226.00 | 35% | 19% | 2026-08-04 | open |
 | [[Credisiman]] | (unnamed) | 0.00 | 0.00 | 183.12 | 0.00 | TBD | — | 2026-08-18 | paid off |
@@ -46,6 +46,7 @@ tags:
 | 2026-08-05 | Credisiman       | 1353.09      |              |
 | 2026-08-08 | Ficohsa          | 15220.00     |              |
 | 2026-08-08 | Visa             | 3700.00      |              |
+| 2026-08-09 | Visa             | 5000.00      |              |
 
 ## Charges
 | Date       | Card       | Amount (NIO) | Amount (USD) | Item                                                |
@@ -109,3 +110,4 @@ Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and ex
 - 2026-08-05: Credisiman paid in full — NIO 1,353.09 − 1,353.09 = **NIO 0.00**, status → paid off.
 - 2026-08-08: NIO 15,220.00 remainder min payment applied to Ficohsa (NIO), funded by EPS income: 306,917.34 − 15,220.00 = **NIO 291,697.34**. Second leg of two-Saturday min payment plan — full NIO min (20,218.46) now satisfied (paid NIO 20,220.00, NIO 1.54 over min) — [[Debt Payoff Analysis]] Tier 1 #8.
 - 2026-08-08: NIO 3,700.00 payment applied to Visa: 151,378.71 − 3,700.00 = **NIO 147,678.71**.
+- 2026-08-09: NIO 5,000.00 payment applied to Visa: 147,678.71 − 5,000.00 = **NIO 142,678.71**.
