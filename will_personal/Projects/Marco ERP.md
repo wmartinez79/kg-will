@@ -96,15 +96,35 @@ Target: AWS (Lambda/S3/SQS, already in stack) + MongoDB Atlas.
 
 ## Monetization Plan
 
-Tiered pricing by company size/complexity, not per-seat — ERP value depends on full-company adoption (sales, warehouse, accounting all in one system), so per-user pricing would work against that. Draft 3 tiers:
+Tiered pricing by company size/complexity, with a per-seat overage bridging clients from one tier into the next — ERP value depends on full-company adoption (sales, warehouse, accounting all in one system), so pricing is anchored to included seats per tier, not open per-user metering. Draft 3 tiers:
 
 | Tier | Fits | Included | Differentiator |
 |---|---|---|---|
-| Starter | Single-location (ALUVAL-size) | 1 warehouse, core modules (inventory, invoice, quote), ~5 users | Entry price, replaces SEM 1:1 |
-| Growth | Multi-branch | Multi-warehouse, product-builder module, ~15 users | Adds modules legacy SEM can't do |
-| Business | Larger operator | Unlimited warehouses, full module set, advanced RBAC, priority support | For a client bigger than the first two |
+| Starter | Single-location (ALUVAL-size) | 1 warehouse, core modules (inventory, invoice, quote), up to 8 users | Entry price, replaces SEM 1:1 |
+| Growth | Multi-branch | Multi-warehouse, product-builder module, up to 24 users | Adds modules legacy SEM can't do |
+| Business | Larger operator | Unlimited warehouses, full module set, advanced RBAC, priority support, up to 50 users | For a client bigger than the first two |
 
-Actual price points still need validation against ALUVAL's willingness to pay — anchor is time/error savings over free-but-legacy SEM, not feature count.
+### Comparable SaaS Pricing (research)
+
+| Product | Structure | Price range |
+|---|---|---|
+| Zoho Inventory | tiered, users bundled by plan | $29-249/mo (US) |
+| inFlow | tiered, seat blocks of 5 | $186-999/mo (US) |
+| Odoo | flat per-user, whole suite | $25-61/user/mo (US) |
+| Alegra (LatAm — Colombia/Mexico) | tiered, users bundled + add-ons | $6-50/mo |
+| Holded (Spain, closest feature match) | tiered base + per-seat overage | €29-99/mo base, +€10/extra seat |
+
+US/EU comps (Zoho, inFlow, Odoo) run 5-10x too high for Nicaragua SMB willingness-to-pay. Alegra is the realistic market floor but is invoicing-first, thinner on inventory/warehouse. Holded is the closest structural match (base + seat-overage, same feature set) but priced for Spain. Landing zone: Holded's structure, Alegra's price level.
+
+### Proposed Pricing
+
+| Tier | Base price/mo | Included users | Extra seat price | Hard cap → forces upgrade |
+|---|---|---|---|---|
+| Starter | $39 | up to 8 | $5/user (9-12) | 12 → Growth |
+| Growth | $99 | up to 24 | $4/user (25-35) | 35 → Business |
+| Business | $199 | up to 50 | negotiate beyond 50 | — |
+
+Per-user cost decreases as tiers grow (~$4.90 → $4.10 → $4.00 avg/user) — standard SaaS volume discount, matches how Alegra/Holded both scale. Actual price points still need validation against ALUVAL's willingness to pay — anchor is time/error savings over free-but-legacy SEM, not feature count.
 
 ### First Two Customers & Grace Periods
 
