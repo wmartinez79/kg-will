@@ -21,7 +21,7 @@ Freelance client. Aluminios y Vidrios Valverde.
 
 ## Marco ERP
 - Prospective client — planned 3-4 month grace period (possibly up to 6) before billing starts. See [[Marco ERP]] rollout plan.
-- Headcount: ~5-6 users (CEO/owner who also supervises production, IT/sysadmin, 2 sellers, 1 more) — fits Starter tier (6 users included) but right at the cap, little to no headroom before seat overage kicks in.
+- Headcount: ~5-6 users (CEO/owner who also supervises production, IT/sysadmin, 2 sellers, 1 more) — fits Starter tier (6 users included, 10-user hard cap), at or just past the included cap so may see 1-2 seats of overage at $5/user.
 
 ## Links
 - [[Freelance]]

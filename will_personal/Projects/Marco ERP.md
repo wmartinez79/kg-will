@@ -120,7 +120,7 @@ US/EU comps (Zoho, inFlow, Odoo) run 5-10x too high for Nicaragua SMB willingnes
 
 | Tier     | Base price/mo | Included users | Extra seat price    | Hard cap → forces upgrade |
 | -------- | ------------- | -------------- | ------------------- | ------------------------- |
-| Starter  | $39           | up to 6         | $5/user (7-9)       | 9 → Growth (assumed, scaled proportionally from old 8/12 — confirm)               |
+| Starter  | $39           | up to 6         | $5/user (7-10)      | 10 → Growth               |
 | Growth   | $99           | up to 24       | $4/user (25-35)     | 35 → Business             |
 | Business | $199          | up to 50       | negotiate beyond 50 | —                         |
 
@@ -140,7 +140,7 @@ Pilot rollout plan, not simultaneous with the Vidrieria FMorales reactivation de
 
 | Client | Tier fit | Grace period (free) | Notes |
 |---|---|---|---|
-| [[ALUVAL Nicaragua]] | Starter (~5-6 users: CEO/owner + production supervision, IT/sysadmin, 2 sellers, 1 more — right at the 6-user cap, little to no headroom) | 3-4 months, possibly up to 6 | IT/sysadmin employee is technical gatekeeper for rollout — likely an ally for onboarding/integration but also someone who'll evaluate the system critically |
+| [[ALUVAL Nicaragua]] | Starter (~5-6 users: CEO/owner + production supervision, IT/sysadmin, 2 sellers, 1 more — at or just past the 6-user included cap, comfortably inside the 10-user hard cap) | 3-4 months, possibly up to 6 | IT/sysadmin employee is technical gatekeeper for rollout — likely an ally for onboarding/integration but also someone who'll evaluate the system critically |
 | [[Taller Instalaciones Martinez (Client)\|Taller Instalaciones Martinez]] | Starter | 6-8 months | Brother's aluminum/glass workshop — also Will's rental tenant (separate relationship, see [[Taller Instalaciones Martinez]]) |
 
 Grace periods let both clients migrate off legacy tooling (SEM for ALUVAL, none/manual for Instalaciones Martinez) and validate the product before billing starts — first real revenue funds the Atlas M10 upgrade per the Hosting Plan above.
