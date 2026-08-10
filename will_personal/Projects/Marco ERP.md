@@ -100,7 +100,7 @@ Tiered pricing by company size/complexity, with a per-seat overage bridging clie
 
 | Tier | Fits | Included | Differentiator |
 |---|---|---|---|
-| Starter | Single-location (ALUVAL-size) | 1 warehouse, core modules (inventory, invoice, quote), up to 8 users | Entry price, replaces SEM 1:1 |
+| Starter | Single-location (ALUVAL-size) | 1 warehouse, core modules (inventory, invoice, quote), up to 6 users | Entry price, replaces SEM 1:1 |
 | Growth | Multi-branch | Multi-warehouse, product-builder module, up to 24 users | Adds modules legacy SEM can't do |
 | Business | Larger operator | Unlimited warehouses, full module set, advanced RBAC, priority support, up to 50 users | For a client bigger than the first two |
 
@@ -118,13 +118,21 @@ US/EU comps (Zoho, inFlow, Odoo) run 5-10x too high for Nicaragua SMB willingnes
 
 ### Proposed Pricing
 
-| Tier | Base price/mo | Included users | Extra seat price | Hard cap → forces upgrade |
-|---|---|---|---|---|
-| Starter | $39 | up to 8 | $5/user (9-12) | 12 → Growth |
-| Growth | $99 | up to 24 | $4/user (25-35) | 35 → Business |
-| Business | $199 | up to 50 | negotiate beyond 50 | — |
+| Tier     | Base price/mo | Included users | Extra seat price    | Hard cap → forces upgrade |
+| -------- | ------------- | -------------- | ------------------- | ------------------------- |
+| Starter  | $39           | up to 6         | $5/user (7-9)       | 9 → Growth (assumed, scaled proportionally from old 8/12 — confirm)               |
+| Growth   | $99           | up to 24       | $4/user (25-35)     | 35 → Business             |
+| Business | $199          | up to 50       | negotiate beyond 50 | —                         |
 
-Per-user cost decreases as tiers grow (~$4.90 → $4.10 → $4.00 avg/user) — standard SaaS volume discount, matches how Alegra/Holded both scale. Actual price points still need validation against ALUVAL's willingness to pay — anchor is time/error savings over free-but-legacy SEM, not feature count.
+Per-user cost decreases as tiers grow (~$6.50 → $4.10 → $4.00 avg/user) — standard SaaS volume discount, matches how Alegra/Holded both scale. Actual price points still need validation against ALUVAL's willingness to pay — anchor is time/error savings over free-but-legacy SEM, not feature count.
+
+### Tier Positioning (the hook)
+
+Seat count alone doesn't justify the price jump between tiers (Growth is 2.5x Starter's price but 4x the seats) — the hook has to be a real operational capability, not just headcount:
+
+- **Starter → Growth:** "you've outgrown one warehouse." The trigger isn't seats, it's needing to coordinate stock across multiple locations/branches, or needing `product-builder` to assemble sellable products from components — both are jobs a spreadsheet or legacy SEM genuinely can't do well. Multi-warehouse coordination is where manual tracking starts silently losing money (stock counts drift between locations); that's the pitch, not "you have more employees."
+- **Growth → Business:** "you need governance, not just more seats." Unlimited warehouses + advanced RBAC + priority support — this tier is for an operator where "who can approve what" and "who can see which branch's numbers" matters, and where a support SLA is worth paying for because downtime is now business-critical, not an inconvenience.
+- Seat caps double as a growth milestone, not a penalty — framed to the client as "you're growing, here's the plan built for where you are now," not as a squeeze.
 
 ### First Two Customers & Grace Periods
 
@@ -132,7 +140,7 @@ Pilot rollout plan, not simultaneous with the Vidrieria FMorales reactivation de
 
 | Client | Tier fit | Grace period (free) | Notes |
 |---|---|---|---|
-| [[ALUVAL Nicaragua]] | Starter (~5-6 users: CEO/owner + production supervision, IT/sysadmin, 2 sellers, 1 more — well within 8-user cap) | 3-4 months, possibly up to 6 | IT/sysadmin employee is technical gatekeeper for rollout — likely an ally for onboarding/integration but also someone who'll evaluate the system critically |
+| [[ALUVAL Nicaragua]] | Starter (~5-6 users: CEO/owner + production supervision, IT/sysadmin, 2 sellers, 1 more — right at the 6-user cap, little to no headroom) | 3-4 months, possibly up to 6 | IT/sysadmin employee is technical gatekeeper for rollout — likely an ally for onboarding/integration but also someone who'll evaluate the system critically |
 | [[Taller Instalaciones Martinez (Client)\|Taller Instalaciones Martinez]] | Starter | 6-8 months | Brother's aluminum/glass workshop — also Will's rental tenant (separate relationship, see [[Taller Instalaciones Martinez]]) |
 
 Grace periods let both clients migrate off legacy tooling (SEM for ALUVAL, none/manual for Instalaciones Martinez) and validate the product before billing starts — first real revenue funds the Atlas M10 upgrade per the Hosting Plan above.
