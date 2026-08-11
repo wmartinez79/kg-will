@@ -111,3 +111,4 @@ Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and ex
 - 2026-08-08: NIO 15,220.00 remainder min payment applied to Ficohsa (NIO), funded by EPS income: 306,917.34 − 15,220.00 = **NIO 291,697.34**. Second leg of two-Saturday min payment plan — full NIO min (20,218.46) now satisfied (paid NIO 20,220.00, NIO 1.54 over min) — [[Debt Payoff Analysis]] Tier 1 #8.
 - 2026-08-08: NIO 3,700.00 payment applied to Visa: 151,378.71 − 3,700.00 = **NIO 147,678.71**.
 - 2026-08-09: NIO 5,000.00 payment applied to Visa: 147,678.71 − 5,000.00 = **NIO 142,678.71**.
+- 2026-08-09: AMEX Black NIO 10,247.28 confirmed as current-month (Aug) charges only — last statement paid in full on 08-02. Not carried statement debt; will roll into next statement.

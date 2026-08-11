@@ -70,4 +70,5 @@ Moved PriceSmart 8902 (07-25, $243.94/8,934.56) to [[Market]] — supermarket ru
 | 2026-08-08 | Casa del Cafe (BAC card 8848)           | 20.24        | 741.34       | pending |
 | 2026-08-08 | PedidosYa*AMPM Veracru (BAC card 8848)  | 4.23         | 155.00       | pending |
 | 2026-08-08 | PedidosYa*Dothra Ticua (BAC card 8848)  | 8.25         | 302.00       | pending |
-| **Total**  |                                          | **389.38**   | **14,261.50** |       |
+| 2026-08-08 | PP Casa del Cafe S.A K (BAC card 8848)  | 10.65        | 390.01       | pending |
+| **Total**  |                                          | **400.03**   | **14,651.51** |       |
