@@ -78,4 +78,5 @@ Moved PriceSmart 8902 (07-25, $243.94/8,934.56) to [[Market]] — supermarket ru
 | 2026-08-12 | Chik Chak Mipromo (BAC card 8848)       | 16.38        | 600.00       | pending |
 | 2026-08-12 | Chik Chak Camino de Oriente (BAC card 8848) | 31.13    | 1,140.00     | pending |
 | 2026-08-12 | Pupusas Mirna (BAC card 8848)           | 33.49        | 1,226.50     | pending |
-| **Total**  |                                          | **520.95**   | **19,079.89** |       |
+| 2026-08-12 | Propina Pupusas Mirna (cash)            | 4.10         | 150.00       | paid    |
+| **Total**  |                                          | **525.05**   | **19,229.89** |       |
