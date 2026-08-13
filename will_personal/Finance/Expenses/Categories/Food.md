@@ -44,6 +44,7 @@ Running log of food expenses across months. Month summary: [[2026-07|July 2026]]
 
 Moved 2× PedidosYa*Market (07-27, $14.89/545.50 and $10.96/401.25) to [[Market]] — groceries, not prepared food.
 Moved PriceSmart 8902 (07-25, $243.94/8,934.56) to [[Market]] — supermarket run, not prepared food. PriceSmart Food Service stays here (food court, prepared).
+2026-08-13: PedidosYa*Bunuelitos N duplicate inbox entry (bunuelitos-n.md + bunuelitos-n-1.md, identical amount/time) — filed once.
 
 ## 2026-08
 | Date       | Item                                    | Amount (USD) | Amount (NIO) | Status |
@@ -79,4 +80,7 @@ Moved PriceSmart 8902 (07-25, $243.94/8,934.56) to [[Market]] — supermarket ru
 | 2026-08-12 | Chik Chak Camino de Oriente (BAC card 8848) | 31.13    | 1,140.00     | pending |
 | 2026-08-12 | Pupusas Mirna (BAC card 8848)           | 33.49        | 1,226.50     | pending |
 | 2026-08-12 | Propina Pupusas Mirna (cash)            | 4.10         | 150.00       | paid    |
-| **Total**  |                                          | **525.05**   | **19,229.89** |       |
+| 2026-08-13 | Cafeteria El Molino SA (BAC card 7910)  | 3.56         | 130.44       | pending |
+| 2026-08-13 | PedidosYa*Bunuelitos N (BAC card 8848)  | 11.80        | 432.00       | pending |
+| 2026-08-13 | PedidosYa*Propina (BAC card 8848)       | 0.41         | 15.00        | pending |
+| **Total**  |                                          | **540.82**   | **19,807.33** |       |
