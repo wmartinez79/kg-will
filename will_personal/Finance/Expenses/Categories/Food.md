@@ -72,4 +72,10 @@ Moved PriceSmart 8902 (07-25, $243.94/8,934.56) to [[Market]] — supermarket ru
 | 2026-08-08 | PedidosYa*Dothra Ticua (BAC card 8848)  | 8.25         | 302.00       | pending |
 | 2026-08-08 | PP Casa del Cafe S.A K (BAC card 8848)  | 10.65        | 390.01       | pending |
 | 2026-08-12 | Guirilas El Tata (BAC card 8848)        | 21.30        | 780.00       | pending |
-| **Total**  |                                          | **421.33**   | **15,431.51** |       |
+| 2026-08-12 | Cafeteria El Molino (BAC card 8848)     | 9.85         | 360.88       | pending |
+| 2026-08-12 | PedidosYa*Chicharron (BAC card 8848)    | 8.36         | 306.00       | pending |
+| 2026-08-12 | PedidosYa*Propina (BAC card 8848)       | 0.41         | 15.00        | pending |
+| 2026-08-12 | Chik Chak Mipromo (BAC card 8848)       | 16.38        | 600.00       | pending |
+| 2026-08-12 | Chik Chak Camino de Oriente (BAC card 8848) | 31.13    | 1,140.00     | pending |
+| 2026-08-12 | Pupusas Mirna (BAC card 8848)           | 33.49        | 1,226.50     | pending |
+| **Total**  |                                          | **520.95**   | **19,079.89** |       |
