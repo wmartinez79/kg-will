@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "will_personal/Finance/Expenses/Categories/Food.md",
+                "file": "will_personal/Finance/2026/2026-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Food"
+              "title": "2026-08"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "9c81d0612770d4e0",
   "lastOpenFiles": [
+    "will_personal/Finance/Expenses/Categories/Food.md",
     "graphify-out/obsidian/Bills  Expenses.md",
     "graphify-out/obsidian/Food.md",
     "graphify-out/obsidian/Food_1.md",
