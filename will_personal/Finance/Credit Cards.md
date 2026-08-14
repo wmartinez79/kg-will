@@ -11,7 +11,7 @@ tags:
 |---|---|---|---|---|---|---|---|---|---|
 | [[BAC]] | PriceSmart | 0.00 | 0.00 | 6798.00 | 11.00 | 45% | 20.04% | 2026-08-19 | paid off |
 | [[BAC]] | AMEX Black | 10247.28 | 4774.47 | 16248.00 | 202.00 | 45% | 20.04% | 2026-08-19 | open |
-| [[BAC]] | Visa (...8848, ...3364, ...7910, ...0038 additional) | 142678.71 | 0.00 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
+| [[BAC]] | Visa (...8848, ...3364, ...7910, ...0038 additional) | 130578.71 | 0.00 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[Ficohsa]] | (unnamed) | 291697.34 | 4382.19 | 20218.46 | 234.43 | 39% | 19.8% | 2026-08-11 | open |
 | [[Lafise]] | Lafise Bancentro | 147028.34 | 4357.73 | 9324.00 | 226.00 | 35% | 19% | 2026-08-04 | open |
 | [[Credisiman]] | (unnamed) | 0.00 | 0.00 | 183.12 | 0.00 | TBD | — | 2026-08-18 | paid off |
@@ -47,6 +47,9 @@ tags:
 | 2026-08-08 | Ficohsa          | 15220.00     |              |
 | 2026-08-08 | Visa             | 3700.00      |              |
 | 2026-08-09 | Visa             | 5000.00      |              |
+| 2026-08-12 | Visa             | 5000.00      |              |
+| 2026-08-13 | Visa             | 2000.00      |              |
+| 2026-08-14 | Visa             | 5100.00      |              |
 
 ## Charges
 | Date       | Card       | Amount (NIO) | Amount (USD) | Item                                                |
@@ -112,3 +115,6 @@ Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and ex
 - 2026-08-08: NIO 3,700.00 payment applied to Visa: 151,378.71 − 3,700.00 = **NIO 147,678.71**.
 - 2026-08-09: NIO 5,000.00 payment applied to Visa: 147,678.71 − 5,000.00 = **NIO 142,678.71**.
 - 2026-08-09: AMEX Black NIO 10,247.28 confirmed as current-month (Aug) charges only — last statement paid in full on 08-02. Not carried statement debt; will roll into next statement.
+- 2026-08-12: NIO 5,000.00 payment applied to Visa: 142,678.71 − 5,000.00 = **NIO 137,678.71**.
+- 2026-08-13: NIO 2,000.00 payment applied to Visa: 137,678.71 − 2,000.00 = **NIO 135,678.71**.
+- 2026-08-14: NIO 5,100.00 payment applied to Visa: 135,678.71 − 5,100.00 = **NIO 130,578.71**.

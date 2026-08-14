@@ -83,4 +83,7 @@ Moved PriceSmart 8902 (07-25, $243.94/8,934.56) to [[Market]] — supermarket ru
 | 2026-08-13 | Cafeteria El Molino SA (BAC card 7910)  | 3.56         | 130.44       | pending |
 | 2026-08-13 | PedidosYa*Bunuelitos N (BAC card 8848)  | 11.80        | 432.00       | pending |
 | 2026-08-13 | PedidosYa*Propina (BAC card 8848)       | 0.41         | 15.00        | pending |
-| **Total**  |                                          | **540.82**   | **19,807.33** |       |
+| 2026-08-13 | McDonald's Km 11.5 C.Ma (BAC card 8848) | 27.41        | 1,004.00     | pending |
+| 2026-08-14 | Cafeteria El Molino SA (BAC card 3364, tarjeta adicional) | 19.51 | 714.67 | pending |
+| 2026-08-14 | Subway San Dionisio (BAC card 7910, tarjeta adicional) | 1.34 | 49.00        | pending |
+| **Total**  |                                          | **609.83**   | **22,335.00** |       |

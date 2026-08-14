@@ -23,4 +23,5 @@ Running log of transport expenses across months. Month summary: [[2026-07|July 2
 |---|---|---|---|---|
 | 2026-08-02 | Puma Jinotepe (gas, BAC card 8848) | 54.64 | 2,001.23 | pending |
 | 2026-08-06 | Puma Americano - Pista (gas, BAC card 0038 adicional) | 13.65 | 500.00 | pending |
-| **Total** | | **68.29** | **2,501.23** | |
+| 2026-08-14 | UNO Galeria (gas, BAC card 8848) | 53.11 | 1,945.22 | pending |
+| **Total** | | **121.40** | **4,446.45** | |
