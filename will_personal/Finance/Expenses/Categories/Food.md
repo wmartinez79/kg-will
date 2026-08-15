@@ -86,4 +86,6 @@ Moved PriceSmart 8902 (07-25, $243.94/8,934.56) to [[Market]] — supermarket ru
 | 2026-08-13 | McDonald's Km 11.5 C.Ma (BAC card 8848) | 27.41        | 1,004.00     | pending |
 | 2026-08-14 | Cafeteria El Molino SA (BAC card 3364, tarjeta adicional) | 19.51 | 714.67 | pending |
 | 2026-08-14 | Subway San Dionisio (BAC card 7910, tarjeta adicional) | 1.34 | 49.00        | pending |
-| **Total**  |                                          | **609.83**   | **22,335.00** |       |
+| 2026-08-15 | Casa del Café (BAC card 8848)           | 7.78         | 285.00       | pending |
+| 2026-08-15 | KFC Carretera a Masaya (BAC card 8848)  | 32.77        | 1,200.00     | pending |
+| **Total**  |                                          | **650.38**   | **23,820.00** |       |

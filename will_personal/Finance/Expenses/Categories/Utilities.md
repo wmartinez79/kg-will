@@ -28,4 +28,5 @@ Running log of utility expenses across months. Month summary: [[2026-07|July 202
 | 2026-08-03 | Water Bill (cash) | 20.00 | 732.49 | paid |
 | 2026-08-06 | Claro Banca en Línea (BAC card 8848) | 6.01 | 220.00 | pending |
 | 2026-08-08 | Tigo Rec.Sec (BAC card 8848) | 6.01 | 220.00 | pending |
-| **Total** | | **38.03** | **1,392.49** | |
+| 2026-08-15 | TIGO REC.SEC (BAC card 8848) | 6.01 | 220.00 | pending |
+| **Total** | | **44.04** | **1,612.49** | |
