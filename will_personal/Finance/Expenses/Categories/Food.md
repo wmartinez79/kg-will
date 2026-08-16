@@ -72,6 +72,7 @@ Moved PriceSmart 8902 (07-25, $243.94/8,934.56) to [[Market]] — supermarket ru
 | 2026-08-08 | PedidosYa*AMPM Veracru (BAC card 8848)  | 4.23         | 155.00       | pending |
 | 2026-08-08 | PedidosYa*Dothra Ticua (BAC card 8848)  | 8.25         | 302.00       | pending |
 | 2026-08-08 | PP Casa del Cafe S.A K (BAC card 8848)  | 10.65        | 390.01       | pending |
+| 2026-08-08 | Compras Mi Promo (cash)                 | 16.39        | 600.00       | paid    |
 | 2026-08-12 | Guirilas El Tata (BAC card 8848)        | 21.30        | 780.00       | pending |
 | 2026-08-12 | Cafeteria El Molino (BAC card 8848)     | 9.85         | 360.88       | pending |
 | 2026-08-12 | PedidosYa*Chicharron (BAC card 8848)    | 8.36         | 306.00       | pending |
@@ -89,4 +90,4 @@ Moved PriceSmart 8902 (07-25, $243.94/8,934.56) to [[Market]] — supermarket ru
 | 2026-08-15 | Casa del Café (BAC card 8848)           | 7.78         | 285.00       | pending |
 | 2026-08-15 | KFC Carretera a Masaya (BAC card 8848)  | 32.77        | 1,200.00     | pending |
 | 2026-08-15 | PHBurgers Plaza Madera (BAC card 8848, 21:01:12) | 258.42 | 9,464.40 | pending |
-| **Total**  |                                          | **908.80**   | **33,284.40** |       |
+| **Total**  |                                          | **925.19**   | **33,884.40** |       |

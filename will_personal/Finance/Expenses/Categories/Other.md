@@ -33,4 +33,5 @@ Moved PedidosYa*Plus to [[Subscriptions]] — recurring monthly, not a one-off.
 | 2026-08-08 | Hogar de Huerfanos Zacarias Guerra (LAFISE transfer) | 40.60 | 1,480.00 | paid |
 | 2026-08-13 | Mesada David Martinez (cash) | 5.46 | 200.00 | paid |
 | 2026-08-13 | Cinemas Galeria - Taquilla (card ...8848) | 29.49 | 1,080.00 | pending |
-| **Total** | | **846.14** | **30,982.48** | |
+| 2026-08-13 | Compras Mi Promo - entertainment (cash) | 13.38 | 490.00 | paid |
+| **Total** | | **859.52** | **31,472.48** | |
