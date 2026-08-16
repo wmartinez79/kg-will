@@ -88,4 +88,5 @@ Moved PriceSmart 8902 (07-25, $243.94/8,934.56) to [[Market]] — supermarket ru
 | 2026-08-14 | Subway San Dionisio (BAC card 7910, tarjeta adicional) | 1.34 | 49.00        | pending |
 | 2026-08-15 | Casa del Café (BAC card 8848)           | 7.78         | 285.00       | pending |
 | 2026-08-15 | KFC Carretera a Masaya (BAC card 8848)  | 32.77        | 1,200.00     | pending |
-| **Total**  |                                          | **650.38**   | **23,820.00** |       |
+| 2026-08-15 | PHBurgers Plaza Madera (BAC card 8848, 21:01:12) | 258.42 | 9,464.40 | pending |
+| **Total**  |                                          | **908.80**   | **33,284.40** |       |
