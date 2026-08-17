@@ -90,4 +90,7 @@ Moved PriceSmart 8902 (07-25, $243.94/8,934.56) to [[Market]] — supermarket ru
 | 2026-08-15 | Casa del Café (BAC card 8848)           | 7.78         | 285.00       | pending |
 | 2026-08-15 | KFC Carretera a Masaya (BAC card 8848)  | 32.77        | 1,200.00     | pending |
 | 2026-08-15 | PHBurgers Plaza Madera (BAC card 8848, 21:01:12) | 258.42 | 9,464.40 | pending |
-| **Total**  |                                          | **925.19**   | **33,884.40** |       |
+| 2026-08-17 | PedidosYa*Propina (BAC card 8848, 02:02:34) | 0.41    | 15.00        | pending |
+| 2026-08-17 | PedidosYa*Dothra Ticua (BAC card 8848, 07:56:46) | 9.83 | 360.00      | pending |
+| 2026-08-17 | PedidosYa*Propina (BAC card 8848, 08:17:04) | 0.41    | 15.00        | pending |
+| **Total**  |                                          | **935.84**   | **34,274.40** |       |
