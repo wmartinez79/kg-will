@@ -10,7 +10,7 @@ tags:
 | Creditor | Card | Current Debt (NIO) | Current Debt (USD) | Min Payment (NIO) | Min Payment (USD) | APR (NIO) | APR (USD) | Max Payment Date | Status |
 |---|---|---|---|---|---|---|---|---|---|
 | [[BAC]] | PriceSmart | 0.00 | 0.00 | 6798.00 | 11.00 | 45% | 20.04% | 2026-08-19 | paid off |
-| [[BAC]] | AMEX Black | 10247.28 | 4774.47 | 16248.00 | 202.00 | 45% | 20.04% | 2026-08-19 | open |
+| [[BAC]] | AMEX Black | 10247.28 | 4777.46 | 16248.00 | 202.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[BAC]] | Visa (...8848, ...3364, ...7910, ...0038 additional) | 120578.71 | 0.00 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[Ficohsa]] | (unnamed) | 291697.34 | 4382.19 | 20218.46 | 234.43 | 39% | 19.8% | 2026-08-11 | open |
 | [[Lafise]] | Lafise Bancentro | 147028.34 | 4357.73 | 9324.00 | 226.00 | 35% | 19% | 2026-08-04 | open |
@@ -81,6 +81,7 @@ tags:
 | 2026-08-01 | Visa       | 160.00       |              | McDonald's KM 11.5 C.MA (card ...3364)               |
 | 2026-08-01 | Visa       | 667.00       |              | McDonald's KM 11.5 C.MA (card ...8848)               |
 | 2026-07-31 | Lafise Bancentro | 1874.99 |              | Mi Ranchito Zona Viva (card ...7247, filed [[Food]]) |
+| 2026-08-18 | AMEX Black |  | 2.99 | Google Services (card ...3040, filed [[Subscriptions]]) |
 
 Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and execution in one place.
 
@@ -120,3 +121,5 @@ Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and ex
 - 2026-08-13: NIO 2,000.00 payment applied to Visa: 137,678.71 − 2,000.00 = **NIO 135,678.71**.
 - 2026-08-14: NIO 5,100.00 payment applied to Visa: 135,678.71 − 5,100.00 = **NIO 130,578.71**.
 - 2026-08-15: NIO 10,000.00 payment applied to Visa: 130,578.71 − 10,000.00 = **NIO 120,578.71**.
+- 2026-08-18: Google Services charge ($2.99, card ...3040, confirmed AMEX Black per 07-27 note) applied to AMEX Black USD debt: 4,774.47 + 2.99 = **$4,777.46**.
+- 2026-08-18: Will switching Google Services subscription billing from AMEX (...3040) to Visa (8848) going forward — future charges expected on Visa, not AMEX.
