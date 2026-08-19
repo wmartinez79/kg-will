@@ -33,6 +33,7 @@ Moved PedidosYa*Plus to [[Subscriptions]] — recurring monthly, not a one-off.
 | 2026-08-07 | Uno Galeria (card ...8848) | 56.40 | 2,065.68 | pending |
 | 2026-08-08 | Hogar de Huerfanos Zacarias Guerra (LAFISE transfer) | 40.60 | 1,480.00 | paid |
 | 2026-08-13 | Mesada David Martinez (cash) | 5.46 | 200.00 | paid |
-| **Total** | | **816.65** | **29,902.48** | |
+| 2026-08-17 | SINSA Carretera a Masaya (card 0038, adicional, 14:26:18) | 8.01 | 293.46 | pending |
+| **Total** | | **824.66** | **30,195.94** | |
 
 Moved Cinemas Galeria - Taquilla (08-13, $29.49/NIO 1,080.00) and Compras Mi Promo entertainment portion (08-13, $13.38/NIO 490.00) to [[Entertainment]] — new category split out from Other.
