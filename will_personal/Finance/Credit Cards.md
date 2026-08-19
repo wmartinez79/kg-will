@@ -11,7 +11,7 @@ tags:
 |---|---|---|---|---|---|---|---|---|---|
 | [[BAC]] | PriceSmart | 490.00 | 9.98 | 6798.00 | 11.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[BAC]] | AMEX Black | 10385.43 | 4784.46 | 16248.00 | 202.00 | 45% | 20.04% | 2026-08-19 | open |
-| [[BAC]] | Visa (...8848, ...3364, ...7910, ...0038 additional) | 192056.79 | 20.00 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
+| [[BAC]] | Visa (...8848, ...3364, ...7910, ...0038 additional) | 192316.79 | 20.00 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[Ficohsa]] | (unnamed) | 302911.87 | 4457.31 | 20218.46 | 234.43 | 39% | 19.8% | 2026-08-11 | open |
 | [[Lafise]] | Lafise Bancentro | 151376.15 | 4428.05 | 9324.00 | 226.00 | 35% | 19% | 2026-08-04 | open |
 | [[Credisiman]] | (unnamed) | 0.00 | 0.00 | 183.12 | 0.00 | TBD | — | 2026-08-18 | paid off |
@@ -92,6 +92,8 @@ tags:
 | 2026-08-01 | AMEX Black | 129.28 | 3.55 | SEGURO PRF 3-3047-001130879001 (card insurance, filed [[Other]]) |
 | 2026-08-13 | PriceSmart | 490.00 | 13.44 | CINEMAS MIPROMO SD (filed [[Entertainment]]) |
 | 2026-08-12 | AMEX Black | -200.00 |  | CR. REGALO DISSUR 25/07 (discount/credit, original 07-25 charge not in ledger) |
+| 2026-08-19 | Visa | 40.00 |  | Cafeteria Keiser (card ...7910, filed [[Food]]) |
+| 2026-08-19 | Visa | 220.00 |  | TIGO REC.SEC (card ...8848, filed [[Utilities]]) |
 
 Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and execution in one place.
 
@@ -146,3 +148,4 @@ Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and ex
 - 2026-08-19: Ficohsa reconciled against bank — NIO 291,697.34 → **NIO 302,911.87** (+NIO 11,214.53); USD 4,382.19 → **$4,457.31** (+$75.12). No bonificable noted for either leg — gap unresolved, needs confirmation (interest vs. unbilled charges) against Ficohsa statement.
 - 2026-08-19 (gap partially resolved): USD gap fully explained — CARGO POR INTERESES X FINANCIAMIENTO (2026-08-17, $75.12) matches the $75.12 USD gap exactly. NIO gap partially explained — SEGURO FRAUDE Y VIDA MANAGUA (2026-07-27, NIO 183.12) + CARGO POR INTERESES X FINANCIAMIENTO (2026-08-17, NIO 10,043.16) = NIO 10,226.28 against an NIO 11,214.53 gap, leaving **NIO 988.25 still unexplained** — needs further review.
 - 2026-08-19: Visa reconciled against bank (per Will's bank balance, replacing manual charge-by-charge summation of this session's ~80 pfcp-filed line items since 08-01 — too error-prone to hand-sum reliably) — bank NIO **192,056.79**; bank USD 20.03 (0.03 bonificable/waived) → real USD debt **$20.00**. Ledger updated from NIO 116,878.71 / $0.00 to bank-reported values. The $20.00 USD is the Anthropic Claude Subscription charge (08-14, posted as stated: "$20.00, charged direct in USD"); its NIO 732.49 note figure was just an FX-reference, not a second charge. The Cursor charge (08-18, $20.00) is still floating/pending on the card — not yet posted, so not part of this bank balance — expect it to land on the USD leg once it clears; recheck next statement.
+- 2026-08-19: Cafeteria Keiser (NIO 40.00, card 7910) + TIGO REC.SEC (NIO 220.00, card 8848) applied to Visa NIO debt: 192,056.79 + 260.00 = **NIO 192,316.79**.
