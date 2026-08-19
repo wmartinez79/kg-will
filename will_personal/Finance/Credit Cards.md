@@ -88,6 +88,7 @@ tags:
 | 2026-08-13 | AMEX Black | 625.00 | 17.14 | TIGO MOVIL CARGOS AUTOMAT. -C- 7352816 (Will cellphone plan, filed [[Utilities]]) |
 | 2026-08-01 | AMEX Black | 129.28 | 3.55 | SEGURO PRF 3-3047-001130879001 (card insurance, filed [[Other]]) |
 | 2026-08-13 | PriceSmart | 490.00 | 13.44 | CINEMAS MIPROMO SD (filed [[Entertainment]]) |
+| 2026-08-12 | AMEX Black | -200.00 |  | CR. REGALO DISSUR 25/07 (discount/credit, original 07-25 charge not in ledger) |
 
 Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and execution in one place.
 
@@ -137,3 +138,4 @@ Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and ex
 - 2026-08-19: PriceSmart reconciled against bank (post-cut balance, due in full end of month) — bank NIO 937.97 (447.97 bonificable/waived) → real NIO debt **490.00**; bank USD 10.09 (0.11 bonificable, matches earlier PriceSmart bonificable-interest pattern) → real USD debt **$9.98**, matching ledger (Netflix charge) exactly, no gap. NIO leg had a NIO 490.00 gap vs ledger (was 0.00).
 - 2026-08-19 (gap resolved): NIO 490.00 gap was CINEMAS MIPROMO SD, 2026-08-13, previously unrecorded — applied to PriceSmart NIO debt (already set to 490.00 above by reconciliation; this confirms the source, no further change to the balance).
 - 2026-08-19: AMEX Black reconciled against bank — bank NIO 10,801.56 (416.13 bonificable/waived) → real NIO debt **10,385.43**; bank USD **4,784.46** (no bonificable noted). Ledger was NIO 11,001.56 / $4,787.45 before this reconciliation (after this session's Tigo Movil NIO 625.00 + Seguro PRF NIO 129.28 + Ring $9.99 + Google $2.99 charges). Gaps: **NIO 616.13** and **USD 2.99** — ledger higher than bank on both legs. USD gap ($2.99) exactly matches the Google Services charge (08-18) — may not have posted to this statement cut yet. NIO gap (616.13) doesn't cleanly match Tigo (625.00) or Seguro (129.28) individually or combined (754.28) — unresolved, needs next statement to confirm which charges posted. Ledger set to bank-reported values (NIO 10,385.43 / $4,784.46) per reconciliation precedent; underlying charge records above kept as-is pending investigation.
+- 2026-08-12: CR. REGALO DISSUR 25/07 (NIO -200.00 credit/discount, AMEX Black) logged for record — dated before the 08-19 reconciliation above, so already reflected in the bank-reported NIO 10,385.43 balance; no separate debt adjustment applied (would double-count). Original 07-25 REGALO DISSUR charge not found in ledger (predates tracked history).
