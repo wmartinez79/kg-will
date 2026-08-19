@@ -10,7 +10,7 @@ tags:
 | Creditor | Card | Current Debt (NIO) | Current Debt (USD) | Min Payment (NIO) | Min Payment (USD) | APR (NIO) | APR (USD) | Max Payment Date | Status |
 |---|---|---|---|---|---|---|---|---|---|
 | [[BAC]] | PriceSmart | 0.00 | 9.98 | 6798.00 | 11.00 | 45% | 20.04% | 2026-08-19 | open |
-| [[BAC]] | AMEX Black | 10247.28 | 4787.45 | 16248.00 | 202.00 | 45% | 20.04% | 2026-08-19 | open |
+| [[BAC]] | AMEX Black | 10872.28 | 4787.45 | 16248.00 | 202.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[BAC]] | Visa (...8848, ...3364, ...7910, ...0038 additional) | 116878.71 | 0.00 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[Ficohsa]] | (unnamed) | 291697.34 | 4382.19 | 20218.46 | 234.43 | 39% | 19.8% | 2026-08-11 | open |
 | [[Lafise]] | Lafise Bancentro | 147028.34 | 4357.73 | 9324.00 | 226.00 | 35% | 19% | 2026-08-04 | open |
@@ -85,6 +85,7 @@ tags:
 | 2026-08-18 | AMEX Black |  | 2.99 | Google Services (card ...3040, filed [[Subscriptions]]) |
 | 2026-08-10 | PriceSmart |  | 9.98 | Netflix (filed [[Subscriptions]]) |
 | 2026-08-06 | AMEX Black |  | 9.99 | RING MULTI PLAN HAWTHORNE (filed [[Subscriptions]]) |
+| 2026-08-13 | AMEX Black | 625.00 | 17.14 | TIGO MOVIL CARGOS AUTOMAT. -C- 7352816 (Will cellphone plan, filed [[Utilities]]) |
 
 Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and execution in one place.
 
@@ -129,3 +130,4 @@ Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and ex
 - 2026-08-18: NIO 3,700.00 payment applied to Visa: 120,578.71 − 3,700.00 = **NIO 116,878.71**.
 - 2026-08-10: Netflix charge ($9.98, PriceSmart, previously unrecorded) applied to PriceSmart USD debt: 0.00 + 9.98 = **$9.98**, status → open (was paid off).
 - 2026-08-06: RING MULTI PLAN HAWTHORNE charge ($9.99, AMEX Black, previously unrecorded) applied to AMEX Black USD debt: 4,777.46 + 9.99 = **$4,787.45**.
+- 2026-08-13: TIGO MOVIL CARGOS AUTOMAT. charge (NIO 625.00, AMEX Black, previously unrecorded) applied to AMEX Black NIO debt (given in NIO, independent leg from USD): 10,247.28 + 625.00 = **NIO 10,872.28**.
