@@ -15,6 +15,8 @@ Prepared 2026-07-25 (see [[Debt Payoff Analysis 2026-07-25.pdf|source PDF]]). To
 
 **Update 2026-08-05:** Credisiman CC (#3) closed in full — NIO 1,353.09 paid, balance NIO 0.00, status paid off. Tier 0 sweep now has only #2 (BAC loan 008781001) remaining. Total consolidated debt per [[Debts]]: **$86,122.21**.
 
+**Update 2026-08-19:** All BAC/Ficohsa/Lafise cards reconciled against live bank balances (see [[Credit Cards]] for full detail and per-card gap notes). New balances: Visa NIO 192,056.79/$20.00 (was NIO 151,378.71/$4,133.44 — includes ~2.5 weeks of unapplied daily-spend charges, not just a rate move), AMEX Black NIO 10,385.43/$4,784.46 (was NIO 10,247.28/$279.79 NIO-leg, $4,774.47 USD-leg — NIO/USD gap of 616.13/2.99 still unresolved), Ficohsa NIO 302,911.87/$4,457.31 (was NIO 291,697.34/$8,380.72 NIO-leg equiv, $4,382.19 USD-leg — NIO gap of 988.25 still unexplained after interest+insurance fees found), Lafise NIO 151,376.15/$4,428.05 (was NIO 147,028.34/$4,014.50 NIO-leg equiv, $4,357.73 USD-leg — gap fully explained as interest since 08-14 cut). **PriceSmart reopened** (NIO 490.00/$9.98 — was closed at $0.00 since 08-02) after two previously-missed charges (Netflix $9.98, CINEMAS MIPROMO SD NIO 490.00) surfaced via reconciliation — no longer a closed Tier 0 win, see tier notes below. Total consolidated debt not yet recomputed here — see [[Credit Cards]] for current per-account balances.
+
 ## Method
 Hybrid **avalanche** (highest interest rate first) with a **quick-win sweep** up front: near-zero balances get cleared immediately regardless of rate — costs almost nothing, frees up minimum-payment cash flow right away, drops open accounts fast. After the sweep, strict avalanche by real/estimated APR. This tiering applies to *extra/discretionary* paydown — minimum payments on every open account still go out on schedule regardless of tier (see [[Credit Cards]] Payment Plan for the current cycle's minimums).
 
@@ -43,18 +45,18 @@ Hybrid **avalanche** (highest interest rate first) with a **quick-win sweep** up
 
 **Tier 1 — Top priority: AVANZ (family agreement) + worst-rate NIO credit cards**
 4. AVANZ loan (wife) — $7,031.67 @ ~23.3% est. — elevated to Tier 1 by family agreement, not rate — in progress, continue
-5. ~~BAC PriceSmart CC (NIO) — NIO 0.00 / $0.00 @ 45%~~ — **closed in full 2026-08-02**, NIO 10,613.92 payment cleared remaining balance
-6. BAC Visa CC (NIO) — NIO 151,378.71 / $4,133.44 @ 45% — was NIO 180,860.94; NIO 29,482.23 paid 2026-08-02
-7. BAC AMEX Black CC (NIO) — NIO 10,247.28 / $279.79 @ 45% — was NIO 33,041.23; NIO 22,793.95 paid 2026-08-02
-8. Ficohsa CC (NIO) — NIO 306,917.34 / $8,380.72 @ 39% — largest single card balance overall; NIO 5,000.00 min payment (partial leg) paid 2026-08-01, remainder NIO 15,218.46 due 2026-08-08
-9. Lafise CC (NIO) — NIO 147,028.34 / $4,014.50 @ 35% — reconciled against bank 2026-08-03 (was NIO 143,578.85, +3,449.49 gap; 1,874.99 explained by 07-31 Mi Ranchito Zona Viva charge on card ...7247, NIO 1,574.50 still unexplained); lowest rate in tier, kept last per strict avalanche (considered moving earlier for a quick win, reverted — costs more interest overall)
+5. ~~BAC PriceSmart CC (NIO)~~ **reopened 2026-08-19** — NIO 490.00 / $13.38 @ 45% — was closed at NIO 0.00 since 08-02; Netflix ($9.98 USD-leg) + CINEMAS MIPROMO SD (NIO 490.00) surfaced via bank reconciliation, both previously unfiled. Small enough to re-sweep immediately, not worth re-tiering.
+6. BAC Visa CC (NIO) — NIO 192,056.79 / $5,243.97 @ 45% — was NIO 151,378.71; reconciled against bank 2026-08-19 (ledger had fallen behind — daily-spend charges since 08-02 were categorized as expenses but never applied to card debt, per [[Credit Cards]])
+7. BAC AMEX Black CC (NIO) — NIO 10,385.43 / $283.57 @ 45% — was NIO 10,247.28; reconciled against bank 2026-08-19, NIO 616.13 gap vs. ledger still unresolved (didn't cleanly match the session's Tigo Movil/Seguro PRF charges)
+8. Ficohsa CC (NIO) — NIO 302,911.87 / $8,270.79 @ 39% — largest single card balance overall; reconciled against bank 2026-08-19 (was NIO 291,697.34); gap mostly explained by SEGURO FRAUDE Y VIDA (183.12) + interest (10,043.16), NIO 988.25 still unexplained
+9. Lafise CC (NIO) — NIO 151,376.15 / $4,133.22 @ 35% — reconciled against bank 2026-08-19 (was NIO 147,028.34), gap confirmed as interest since 08-14 statement cut, fully resolved; lowest rate in tier, kept last per strict avalanche (considered moving earlier for a quick win, reverted — costs more interest overall)
 
 **Tier 2 — ~18.6–20% band** (ordered by rate, confirmed rates take precedence over estimates)
 10. AVANZ new loan (60mo) — $10,800.00 @ ~22.1% real — disbursed 2026-08-01, max payment date confirmed 2026-09-01, see [[Loans]] and [[Analisis Oferta Avanz 2026-07-28]]
 11. Ficohsa loan 2211 — $5,983.59 @ ~20% unclear — confirm with Ficohsa, $4 gap unexplained
-12. BAC AMEX Black CC (USD) — $4,774.47 @ 20.04%
-13. Ficohsa CC (USD) — $4,382.19 @ 19.8% — was $4,616.62; $234.43 min payment paid 2026-08-01
-14. Lafise CC (USD) — $4,357.73 @ 19%
+12. BAC AMEX Black CC (USD) — $4,784.46 @ 20.04% — was $4,774.47; reconciled against bank 2026-08-19, $2.99 gap vs. ledger unresolved (matches the Google Services charge — may not have posted to this statement cut yet)
+13. Ficohsa CC (USD) — $4,457.31 @ 19.8% — was $4,382.19; reconciled against bank 2026-08-19, gap fully explained by CARGO POR INTERESES X FINANCIAMIENTO ($75.12)
+14. Lafise CC (USD) — $4,428.05 @ 19% — was $4,357.73; reconciled against bank 2026-08-19, gap confirmed as interest since 08-14 statement cut
 15. Ficohsa loan 0000044006 — $15,338.11 @ 18.62% — confirmed lower than earlier estimate (20.3%), drops to bottom of tier despite being biggest single loan; frees $565.28/mo minimum when done
 
 **Tier 3 — BAC installment loans** (rate gap negligible, ordered smallest balance first)
@@ -74,8 +76,10 @@ USD column converts NIO balances @ 36.6243 (BCN official rate); USD-denominated 
 - BAC car loan (10.5%, wife's) is the cheapest debt on the books — minimum payments only, don't send extra cash here while higher-rate debt exists.
 - Ficohsa loan 0000044006's confirmed rate (18.62%) came in lower than the earlier estimate — biggest loan balance ($15,338.11) but drops to bottom of the ~19-20% tier.
 - Ficohsa loan 2211's exact rate is unclear ($4/mo gap between due amount and calculated capital reduction, unexplained) — worth a call to Ficohsa to confirm before treating it as tied with the ~20% cluster.
-- BAC PriceSmart CC's residual $0.11 USD balance was bonificable interest, waived after full USD debt paid — dropped from the sweep, no longer an action item.
+- BAC PriceSmart CC's residual $0.11 USD balance was bonificable interest, waived after full USD debt paid — dropped from the sweep, no longer an action item (superseded — see below, it reopened).
 - Credisiman (Tier 0 #3) paid in full 2026-08-05 — Tier 0 sweep now just BAC loan 008781001 ($297.70) left.
+- PriceSmart CC reopened 2026-08-19 (NIO 490.00/$9.98) — two charges from earlier in August (Netflix, CINEMAS MIPROMO SD) were never filed until caught by bank reconciliation. Lesson for tracking going forward: every card charge needs to hit [[Credit Cards]] debt, not just the monthly expense category — see feedback memory on this.
+- 2026-08-19 bank reconciliation across Visa/AMEX Black/Ficohsa/Lafise found the ledger had drifted from real balances — mostly unapplied daily-spend charges (Visa) and interest/fees (Ficohsa, Lafise) that weren't logged as they accrued. AMEX Black (NIO 616.13) and Ficohsa (NIO 988.25) still carry small unexplained gaps — watch for these to resolve on the next statement.
 
 ## Current Payment Plan (as of 2026-07-26)
 | Date | Action | Amount | Source |
@@ -100,9 +104,9 @@ Notes:
 ## Pending: Full Strategy Comparison (Snowball/Avalanche/Hybrid)
 Requested 2026-08-09 — deferred until a full month of income + bills/payments is tracked in this vault (currently only [[Enhancement Payment System|EPS]] income is logged; In All Media income and full household budget aren't). Needed to compute real "extra monthly payment available," which the comparison depends on for interest-saved and payoff-date projections.
 
-Preliminary finding from that review, not yet applied: BAC AMEX Black CC (NIO) has shrunk to NIO 10,247.28 (~$279.79) — now smaller than BAC loan 008781001 ($297.70, current Tier 0 target). It qualifies as a new Tier 0 quick win (wasn't one when this analysis was written, balance was far higher then) — clearing it frees NIO 16,248/mo minimum obligation for near-zero cost. Re-evaluate promoting it Tier 1 #7 → Tier 0 when this review runs.
+Preliminary finding from that review, not yet applied: BAC AMEX Black CC (NIO) is at NIO 10,385.43 (~$283.57 @ 36.6243, updated 2026-08-19) — still smaller than BAC loan 008781001 ($297.70, current Tier 0 target). It qualifies as a new Tier 0 quick win (wasn't one when this analysis was written, balance was far higher then) — clearing it frees NIO 16,248/mo minimum obligation for near-zero cost. Re-evaluate promoting it Tier 1 #7 → Tier 0 when this review runs.
 
 ## Reuse notes
 - Any extra/discretionary paydown cash (beyond scheduled minimums) should follow this tier order, top to bottom.
 - Re-derive this analysis if a new rate is confirmed, a balance changes materially, or a debt is fully closed — update tiers rather than starting over, since most rates/order won't move.
-- Source data: [[Loans]] and [[Credit Cards]] as of 2026-07-25.
+- Source data: [[Loans]] as of 2026-07-25; [[Credit Cards]] as of 2026-08-19 (bank-reconciled).
