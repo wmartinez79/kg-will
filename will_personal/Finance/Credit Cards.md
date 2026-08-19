@@ -10,7 +10,7 @@ tags:
 | Creditor | Card | Current Debt (NIO) | Current Debt (USD) | Min Payment (NIO) | Min Payment (USD) | APR (NIO) | APR (USD) | Max Payment Date | Status |
 |---|---|---|---|---|---|---|---|---|---|
 | [[BAC]] | PriceSmart | 490.00 | 9.98 | 6798.00 | 11.00 | 45% | 20.04% | 2026-08-19 | open |
-| [[BAC]] | AMEX Black | 11001.56 | 4787.45 | 16248.00 | 202.00 | 45% | 20.04% | 2026-08-19 | open |
+| [[BAC]] | AMEX Black | 10385.43 | 4784.46 | 16248.00 | 202.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[BAC]] | Visa (...8848, ...3364, ...7910, ...0038 additional) | 116878.71 | 0.00 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[Ficohsa]] | (unnamed) | 291697.34 | 4382.19 | 20218.46 | 234.43 | 39% | 19.8% | 2026-08-11 | open |
 | [[Lafise]] | Lafise Bancentro | 147028.34 | 4357.73 | 9324.00 | 226.00 | 35% | 19% | 2026-08-04 | open |
@@ -136,3 +136,4 @@ Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and ex
 - 2026-08-01: SEGURO PRF 3-3047-001130879001 charge (NIO 129.28, AMEX Black, previously unrecorded) applied to AMEX Black NIO debt: 10,872.28 + 129.28 = **NIO 11,001.56**.
 - 2026-08-19: PriceSmart reconciled against bank (post-cut balance, due in full end of month) — bank NIO 937.97 (447.97 bonificable/waived) → real NIO debt **490.00**; bank USD 10.09 (0.11 bonificable, matches earlier PriceSmart bonificable-interest pattern) → real USD debt **$9.98**, matching ledger (Netflix charge) exactly, no gap. NIO leg had a NIO 490.00 gap vs ledger (was 0.00).
 - 2026-08-19 (gap resolved): NIO 490.00 gap was CINEMAS MIPROMO SD, 2026-08-13, previously unrecorded — applied to PriceSmart NIO debt (already set to 490.00 above by reconciliation; this confirms the source, no further change to the balance).
+- 2026-08-19: AMEX Black reconciled against bank — bank NIO 10,801.56 (416.13 bonificable/waived) → real NIO debt **10,385.43**; bank USD **4,784.46** (no bonificable noted). Ledger was NIO 11,001.56 / $4,787.45 before this reconciliation (after this session's Tigo Movil NIO 625.00 + Seguro PRF NIO 129.28 + Ring $9.99 + Google $2.99 charges). Gaps: **NIO 616.13** and **USD 2.99** — ledger higher than bank on both legs. USD gap ($2.99) exactly matches the Google Services charge (08-18) — may not have posted to this statement cut yet. NIO gap (616.13) doesn't cleanly match Tigo (625.00) or Seguro (129.28) individually or combined (754.28) — unresolved, needs next statement to confirm which charges posted. Ledger set to bank-reported values (NIO 10,385.43 / $4,784.46) per reconciliation precedent; underlying charge records above kept as-is pending investigation.
