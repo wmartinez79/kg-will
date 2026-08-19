@@ -9,7 +9,7 @@ tags:
 
 | Creditor | Card | Current Debt (NIO) | Current Debt (USD) | Min Payment (NIO) | Min Payment (USD) | APR (NIO) | APR (USD) | Max Payment Date | Status |
 |---|---|---|---|---|---|---|---|---|---|
-| [[BAC]] | PriceSmart | 0.00 | 9.98 | 6798.00 | 11.00 | 45% | 20.04% | 2026-08-19 | open |
+| [[BAC]] | PriceSmart | 490.00 | 9.98 | 6798.00 | 11.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[BAC]] | AMEX Black | 11001.56 | 4787.45 | 16248.00 | 202.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[BAC]] | Visa (...8848, ...3364, ...7910, ...0038 additional) | 116878.71 | 0.00 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[Ficohsa]] | (unnamed) | 291697.34 | 4382.19 | 20218.46 | 234.43 | 39% | 19.8% | 2026-08-11 | open |
@@ -133,3 +133,4 @@ Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and ex
 - 2026-08-06: RING MULTI PLAN HAWTHORNE charge ($9.99, AMEX Black, previously unrecorded) applied to AMEX Black USD debt: 4,777.46 + 9.99 = **$4,787.45**.
 - 2026-08-13: TIGO MOVIL CARGOS AUTOMAT. charge (NIO 625.00, AMEX Black, previously unrecorded) applied to AMEX Black NIO debt (given in NIO, independent leg from USD): 10,247.28 + 625.00 = **NIO 10,872.28**.
 - 2026-08-01: SEGURO PRF 3-3047-001130879001 charge (NIO 129.28, AMEX Black, previously unrecorded) applied to AMEX Black NIO debt: 10,872.28 + 129.28 = **NIO 11,001.56**.
+- 2026-08-19: PriceSmart reconciled against bank (post-cut balance, due in full end of month) — bank NIO 937.97 (447.97 bonificable/waived) → real NIO debt **490.00**; bank USD 10.09 (0.11 bonificable, matches earlier PriceSmart bonificable-interest pattern) → real USD debt **$9.98**, matching ledger (Netflix charge) exactly, no gap. NIO leg had **NIO 490.00 gap vs ledger (was 0.00)** — no matching charge found in this period's records; ledger set to bank-reported NIO 490.00, root cause unresolved, needs review next statement.
