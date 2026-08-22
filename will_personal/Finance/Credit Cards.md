@@ -170,3 +170,4 @@ Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and ex
 - 2026-08-21: REST.DON CANDIDO GALER (NIO 1,700.00, card 8848) applied to Visa NIO debt: 196,980.64 + 1,700.00 = **NIO 198,680.64**.
 - 2026-08-20: NIO 3,700.00 payment applied to Visa: 198,680.64 − 3,700.00 = **NIO 194,980.64**.
 - 2026-08-21: NIO 5,000.00 payment applied to Visa: 194,980.64 − 5,000.00 = **NIO 189,980.64**.
+- 2026-08-21: BAC statement cut today (Visa, AMEX Black, PriceSmart) — reconcile all three against bank tomorrow (2026-08-22).
