@@ -9,9 +9,9 @@ tags:
 
 | Creditor | Card | Current Debt (NIO) | Current Debt (USD) | Min Payment (NIO) | Min Payment (USD) | APR (NIO) | APR (USD) | Max Payment Date | Status |
 |---|---|---|---|---|---|---|---|---|---|
-| [[BAC]] | PriceSmart | 490.00 | 9.98 | 6798.00 | 11.00 | 45% | 20.04% | 2026-08-19 | open |
-| [[BAC]] | AMEX Black | 10385.43 | 4784.46 | 16248.00 | 202.00 | 45% | 20.04% | 2026-08-19 | open |
-| [[BAC]] | Visa (...8848, ...3364, ...7910, ...0038 additional) | 192316.79 | 20.00 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
+| [[BAC]] | PriceSmart (...6820) | 6120.14 | 9.98 | 6798.00 | 11.00 | 45% | 20.04% | 2026-08-19 | open |
+| [[BAC]] | AMEX Black | 10385.43 | 4793.45 | 16248.00 | 202.00 | 45% | 20.04% | 2026-08-19 | open |
+| [[BAC]] | Visa (...8848, ...3364, ...7910, ...0038 additional) | 198680.64 | 20.00 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[Ficohsa]] | (unnamed) | 302911.87 | 4457.31 | 20218.46 | 234.43 | 39% | 19.8% | 2026-08-11 | open |
 | [[Lafise]] | Lafise Bancentro | 151376.15 | 4428.05 | 9324.00 | 226.00 | 35% | 19% | 2026-08-04 | open |
 | [[Credisiman]] | (unnamed) | 0.00 | 0.00 | 183.12 | 0.00 | TBD | — | 2026-08-18 | paid off |
@@ -94,6 +94,19 @@ tags:
 | 2026-08-12 | AMEX Black | -200.00 |  | CR. REGALO DISSUR 25/07 (discount/credit, original 07-25 charge not in ledger) |
 | 2026-08-19 | Visa | 40.00 |  | Cafeteria Keiser (card ...7910, filed [[Food]]) |
 | 2026-08-19 | Visa | 220.00 |  | TIGO REC.SEC (card ...8848, filed [[Utilities]]) |
+| 2026-08-19 | Visa | 251.00 |  | PedidosYa*AMPM Veracru (card ...8848, filed [[Food]]) |
+| 2026-08-19 | Visa | 15.00 |  | PedidosYa*Propina (card ...8848, filed [[Food]]) |
+| 2026-08-19 | AMEX Black |  | 8.99 | Spotify (card ...3040, filed [[Subscriptions]]) |
+| 2026-08-20 | Visa | 591.32 |  | Cafeteria El Molino (card ...3364, filed [[Food]]) |
+| 2026-08-20 | Visa | 40.00 |  | Cafeteria Keiser (card ...7910, filed [[Food]]) |
+| 2026-08-20 | Visa | 160.00 |  | Go Green Ensaladas (card ...7910, filed [[Food]]) |
+| 2026-08-20 | Visa | 1343.10 |  | La Colonia - Metrocentro (card ...8848, filed [[Market]]) |
+| 2026-08-20 | Visa | 1964.93 |  | PUMA Santo Domingo (card ...8848, filed [[Transport]]) |
+| 2026-08-20 | Visa | 78.50 |  | Super Express San Dion (card ...7910, filed [[Market]]) |
+| 2026-08-20 | Visa | 220.00 |  | TIGO REC.SEC (card ...8848, filed [[Utilities]]) |
+| 2026-08-21 | PriceSmart | 987.00 |  | PRICESMART MEMBRESIAS (card ...6820, filed [[Subscriptions]]) |
+| 2026-08-21 | PriceSmart | 4643.14 |  | PRICESMART 8902 (card ...6820, filed [[Market]]) |
+| 2026-08-21 | Visa | 1700.00 |  | REST.DON CANDIDO GALER (card ...8848, filed [[Food]]) |
 
 Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and execution in one place.
 
@@ -149,3 +162,7 @@ Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and ex
 - 2026-08-19 (gap partially resolved): USD gap fully explained — CARGO POR INTERESES X FINANCIAMIENTO (2026-08-17, $75.12) matches the $75.12 USD gap exactly. NIO gap partially explained — SEGURO FRAUDE Y VIDA MANAGUA (2026-07-27, NIO 183.12) + CARGO POR INTERESES X FINANCIAMIENTO (2026-08-17, NIO 10,043.16) = NIO 10,226.28 against an NIO 11,214.53 gap, leaving **NIO 988.25 still unexplained** — needs further review.
 - 2026-08-19: Visa reconciled against bank (per Will's bank balance, replacing manual charge-by-charge summation of this session's ~80 pfcp-filed line items since 08-01 — too error-prone to hand-sum reliably) — bank NIO **192,056.79**; bank USD 20.03 (0.03 bonificable/waived) → real USD debt **$20.00**. Ledger updated from NIO 116,878.71 / $0.00 to bank-reported values. The $20.00 USD is the Anthropic Claude Subscription charge (08-14, posted as stated: "$20.00, charged direct in USD"); its NIO 732.49 note figure was just an FX-reference, not a second charge. The Cursor charge (08-18, $20.00) is still floating/pending on the card — not yet posted, so not part of this bank balance — expect it to land on the USD leg once it clears; recheck next statement.
 - 2026-08-19: Cafeteria Keiser (NIO 40.00, card 7910) + TIGO REC.SEC (NIO 220.00, card 8848) applied to Visa NIO debt: 192,056.79 + 260.00 = **NIO 192,316.79**.
+- 2026-08-19/20: 6 more Visa charges applied to Visa NIO debt — PedidosYa*AMPM Veracru 251.00, PedidosYa*Propina 15.00, Cafeteria El Molino 591.32 (card 3364), Cafeteria Keiser 40.00 (card 7910), Go Green Ensaladas 160.00 (card 7910), La Colonia - Metrocentro 1,343.10, PUMA Santo Domingo 1,964.93, Super Express San Dion 78.50 (card 7910), TIGO REC.SEC 220.00 — total +NIO 4,663.85: 192,316.79 + 4,663.85 = **NIO 196,980.64**.
+- 2026-08-19: Spotify ($8.99, card 3040, confirmed AMEX Black per 07-27 note) applied to AMEX Black USD debt: 4,784.46 + 8.99 = **$4,793.45**.
+- 2026-08-21: card ...6820 newly identified as the BAC PriceSmart card — PRICESMART MEMBRESIAS (NIO 987.00) and PRICESMART 8902 (NIO 4,643.14) applied to PriceSmart NIO debt: 490.00 + 987.00 + 4,643.14 = **NIO 6,120.14**. PRICESMART MEMBRESIAS filed under [[Subscriptions]] (membership renewal), not [[Market]] as inbox tagged — not groceries.
+- 2026-08-21: REST.DON CANDIDO GALER (NIO 1,700.00, card 8848) applied to Visa NIO debt: 196,980.64 + 1,700.00 = **NIO 198,680.64**.
