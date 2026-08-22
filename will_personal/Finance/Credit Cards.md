@@ -11,7 +11,7 @@ tags:
 |---|---|---|---|---|---|---|---|---|---|
 | [[BAC]] | PriceSmart (...6820) | 6120.14 | 9.98 | 6798.00 | 11.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[BAC]] | AMEX Black | 10385.43 | 4793.45 | 16248.00 | 202.00 | 45% | 20.04% | 2026-08-19 | open |
-| [[BAC]] | Visa (...8848, ...3364, ...7910, ...0038 additional) | 198680.64 | 20.00 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
+| [[BAC]] | Visa (...8848, ...3364, ...7910, ...0038 additional) | 189980.64 | 20.00 | 10509.00 | 21.00 | 45% | 20.04% | 2026-08-19 | open |
 | [[Ficohsa]] | (unnamed) | 302911.87 | 4457.31 | 20218.46 | 234.43 | 39% | 19.8% | 2026-08-11 | open |
 | [[Lafise]] | Lafise Bancentro | 151376.15 | 4428.05 | 9324.00 | 226.00 | 35% | 19% | 2026-08-04 | open |
 | [[Credisiman]] | (unnamed) | 0.00 | 0.00 | 183.12 | 0.00 | TBD | — | 2026-08-18 | paid off |
@@ -52,6 +52,8 @@ tags:
 | 2026-08-14 | Visa             | 5100.00      |              |
 | 2026-08-15 | Visa             | 10000.00     |              |
 | 2026-08-18 | Visa             | 3700.00      |              |
+| 2026-08-20 | Visa             | 3700.00      |              |
+| 2026-08-21 | Visa             | 5000.00      |              |
 
 ## Charges
 | Date       | Card       | Amount (NIO) | Amount (USD) | Item                                                |
@@ -166,3 +168,5 @@ Current payment plan moved to [[Debt Payoff Analysis]] — keeps strategy and ex
 - 2026-08-19: Spotify ($8.99, card 3040, confirmed AMEX Black per 07-27 note) applied to AMEX Black USD debt: 4,784.46 + 8.99 = **$4,793.45**.
 - 2026-08-21: card ...6820 newly identified as the BAC PriceSmart card — PRICESMART MEMBRESIAS (NIO 987.00) and PRICESMART 8902 (NIO 4,643.14) applied to PriceSmart NIO debt: 490.00 + 987.00 + 4,643.14 = **NIO 6,120.14**. PRICESMART MEMBRESIAS filed under [[Subscriptions]] (membership renewal), not [[Market]] as inbox tagged — not groceries.
 - 2026-08-21: REST.DON CANDIDO GALER (NIO 1,700.00, card 8848) applied to Visa NIO debt: 196,980.64 + 1,700.00 = **NIO 198,680.64**.
+- 2026-08-20: NIO 3,700.00 payment applied to Visa: 198,680.64 − 3,700.00 = **NIO 194,980.64**.
+- 2026-08-21: NIO 5,000.00 payment applied to Visa: 194,980.64 − 5,000.00 = **NIO 189,980.64**.
